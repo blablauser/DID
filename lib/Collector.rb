@@ -61,9 +61,10 @@ class Collector
     distinctLinks=Hash[@wikipediaLinks.group_by { |x| x }.map { |k, v| [k, v.count] }]
 
     #write to CSV:
-    for name in distinctNames
+    for name,count in distinctNames
       @guest = []
       @guest.push(name)
+      @guest.push(count)
       CsvProcessor.addNewRowToCsv(@guest)
     end
 
