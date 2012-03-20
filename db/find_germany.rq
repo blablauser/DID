@@ -1,0 +1,8 @@
+PREFIX o: <http://dbpedia.org/ontology/>
+PREFIX p: <http://dbpedia.org/property/>
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+SELECT ?country ?population ?capital ?lat ?long WHERE {
+    ?country a o:Country ; foaf:name "Germany"@en; o:capital [ geo:lat ?lat ; geo:long ?long ; p:name ?capital ] .
+    ?country p:populationEstimate ?population .
+}

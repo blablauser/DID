@@ -1,5 +1,4 @@
-
-  # To change this template use File | Settings | File Templates.require 'rubygems'
+# To change this template use File | Settings | File Templates.require 'rubygems'
 require 'net/http'
 require 'nokogiri'
 require_relative 'csv_processor.rb'
@@ -36,7 +35,7 @@ class GetSong
     name = guest_doc.xpath("//div[@id='castaway_intro']/h1/text()").to_s
     artist1 = guest_doc.xpath("//div[@class='castaway-choice-row']/div/div/h4/text()")[0].to_s
     if artist1 == ''
-        artist1 = guest_doc.xpath("//div[@class='castaway-choice-row']/div/div/h4/a/text()")[0].to_s
+      artist1 = guest_doc.xpath("//div[@class='castaway-choice-row']/div/div/h4/a/text()")[0].to_s
     end
     song1 = guest_doc.xpath("//p[@class='track_choice']/text()")[0].to_s
 
@@ -48,7 +47,7 @@ class GetSong
 
   def runner collector, url
 
-    	collector.read_page(collector,url+1.to_s)
+    collector.read_page(collector, url+1.to_s)
 
 
     puts "Number of guests: "

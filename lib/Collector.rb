@@ -45,7 +45,7 @@ class Collector
 
   def runner collector, url
     for i in (1..145)
-    	collector.read_page(collector,url+i.to_s)
+      collector.read_page(collector, url+i.to_s)
     end
 
     puts "Number of guests: "
@@ -62,7 +62,7 @@ class Collector
 
     #write to CSV:
     CsvProcessor.addNewRowToNamesCsv(@names)
-    for name,count in distinctNames
+    for name, count in distinctNames
       @guest = []
       @guest.push(name)
       @guest.push(count)
@@ -81,4 +81,4 @@ end
 
 
 collector = Collector.new
-collector.runner(collector,"http://www.bbc.co.uk/radio4/features/desert-island-discs/find-a-castaway/page/")
+collector.runner(collector, "http://www.bbc.co.uk/radio4/features/desert-island-discs/find-a-castaway/page/")

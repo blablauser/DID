@@ -1,0 +1,79 @@
+require 'sqlite3'
+require 'csv'
+Class DbProcessor
+ def self.create_db
+    File.delete("did1.db")
+    @db = SQLite3::Database.new( "did1.db" )
+    @db.execute( "CREATE TABLE Castaway
+(castawayId INTEGER PRIMARY KEY AUTOINCREMENT,
+name TEXT,
+relatedLink TEXT, 
+occupations TEXT,
+gender TEXT,
+PRIMARY KEY (castawayId)
+)" )
+    @db.execute( "CREATE TABLE Episode
+(episodeId INTEGER PRIMARY KEY AUTOINCREMENT,
+castawayId INTEGER,
+dateOfBroadcast TEXT,
+occupationAtMomentOfBroadcast TEXT,
+PRIMARY KEY (episodeId),
+FOREIGN KEY (castawayId) REFERENCES Castaway(castawayId)
+)")
+    @db.execute( "CREATE TABLE Song
+(songId INTEGER PRIMARY KEY AUTOINCREMENT,
+trackTitle TEXT NOT NULL,
+trackArtist TEXT NOT NULL,
+trackComposer TEXT NOT NULL,
+PRIMARY KEY (songId)
+)")
+    @db.execute( "CREATE TABLE Book
+(
+bookId INTEGER PRIMARY KEY AUTOINCREMENT,
+bookTitle TEXT NOT NULL,
+bookAuthor TEXT NOT NULL,
+PRIMARY KEY (bookId)
+)")
+    @db.execute( "CREATE TABLE Luxury
+(
+luxuryId INTEGER PRIMARY KEY AUTOINCREMENT,
+luxuryItem TEXT NOT NULL,
+PRIMARY KEY (luxuryId)
+)")
+    @db.execute( "CREATE TABLE SongChoice
+(
+songChoiceId INTEGER PRIMARY KEY AUTOINCREMENT,
+songId INTEGER,
+episodeId INTEGER,
+PRIMARY KEY (songChoiceId),
+FOREIGN KEY (songId) REFERENCES Song(songId),
+FOREIGN KEY (episodeId) REFERENCES Episode(episodeId)
+)")
+    @db.execute( "CREATE TABLE BookChoice
+(
+bookChoiceId INTEGER PRIMARY KEY AUTOINCREMENT,
+bookId INTEGER,
+episodeId INTEGER,
+PRIMARY KEY (bookChoiceId),
+FOREIGN KEY (bookId) REFERENCES Book(bookId),
+FOREIGN KEY (episodeId) REFERENCES Episode(episodeId)
+)")
+    @db.execute( "CREATE TABLE LuxuryChoice
+(
+luxuryChoiceId INTEGER PRIMARY KEY AUTOINCREMENT,
+luxuryId INTEGER,
+episodeId INTEGER,
+PRIMARY KEY (luxuryChoiceId),
+FOREIGN KEY (luxuryId) REFERENCES Luxury(luxuryId),
+FOREIGN KEY (episodeId) REFERENCES Episode(episodeId)
+)")
+    puts @db.execute("select count(*) from Episode")
+  end
+  
+  def self.test_query
+    @db = SQLite3::Database.new( "did1.db" )
+    while ((query=gets.chomp)!="Exit")
+    puts @db.execute query
+    end
+  end
+end
