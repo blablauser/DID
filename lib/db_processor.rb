@@ -61,7 +61,7 @@ episodeId INTEGER,
 FOREIGN KEY (luxuryId) REFERENCES Luxury(luxuryId),
 FOREIGN KEY (episodeId) REFERENCES Episode(episodeId)
 )")
-  #  puts @db.execute("select count(*) from Episode")
+    #  puts @db.execute("select count(*) from Episode")
   end
 
   def self.test_query
@@ -73,6 +73,4 @@ FOREIGN KEY (episodeId) REFERENCES Episode(episodeId)
     end
   end
 end
-DbProcessor.create_db
 
-DbProcessor.test_query

@@ -18,4 +18,10 @@ class CsvProcessor
       csv << guest
     end
   end
+
+  def self.addNewRowToNACsv guest
+    CSV.open("../db/na.csv", "a") do |csv|
+      csv << guest
+    end
+  end
 end

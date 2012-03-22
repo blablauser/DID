@@ -1,11 +1,11 @@
 class Castaway
-attr_accessor :castawayId, :name, :relatedLinks, :occupations, :gender
+  attr_accessor :castawayId, :name, :relatedLinks, :occupations, :gender
 
   def initialize(name, relatedLinks, occupations, gender)
-        @name=name
-        @relatedLinks=relatedLinks
-        @occupations=occupations
-        @gender=gender
+    @name=name
+    @relatedLinks=relatedLinks
+    @occupations=occupations
+    @gender=gender
   end
 
   def self.validateString(string)
