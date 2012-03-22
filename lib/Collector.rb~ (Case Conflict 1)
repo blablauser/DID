@@ -2,6 +2,7 @@ require 'rubygems'
 require 'net/http'
 require 'nokogiri'
 require_relative 'csv_processor.rb'
+require_relative 'db_processor.rb'
 
 # exports the lit of names out of the individual links
 class Collector

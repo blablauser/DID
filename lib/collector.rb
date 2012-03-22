@@ -2,6 +2,12 @@ require 'rubygems'
 require 'net/http'
 require 'nokogiri'
 require_relative 'csv_processor.rb'
+require_relative 'db_processor.rb'
+require_relative 'castaway.rb'
+require_relative 'episode.rb'
+require_relative 'song.rb'
+require_relative 'book.rb'
+require_relative 'luxury.rb'
 
 # exports the lit of names out of the individual links
 class Collector
@@ -12,11 +18,10 @@ class Collector
     @guest = []
     @wikipediaLinks = []
     @base_url="http://www.bbc.co.uk"
-
   end
 
   def read_page collector, url
-    #get the individual links, for every guest
+    #get the individual links, for every guest, and the list of names
     links = []
     page_response = Net::HTTP.get_response(URI(url)).body
     guests_doc = Nokogiri::HTML page_response

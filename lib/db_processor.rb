@@ -9,12 +9,14 @@ class DbProcessor
 name TEXT,
 relatedLink TEXT, 
 occupations TEXT,
-gender TEXT
+gender TEXT, 
+dateOfBirth DATE
 )")
     @db.execute("CREATE TABLE Episode
 (episodeId INTEGER PRIMARY KEY AUTOINCREMENT,
 castawayId INTEGER,
 dateOfBroadcast TEXT,
+ageOfGuest INTEGER,
 occupationAtMomentOfBroadcast TEXT,
 FOREIGN KEY (castawayId) REFERENCES Castaway(castawayId)
 )")
@@ -59,7 +61,7 @@ episodeId INTEGER,
 FOREIGN KEY (luxuryId) REFERENCES Luxury(luxuryId),
 FOREIGN KEY (episodeId) REFERENCES Episode(episodeId)
 )")
-    puts @db.execute("select count(*) from Episode")
+  #  puts @db.execute("select count(*) from Episode")
   end
 
   def self.test_query
