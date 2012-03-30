@@ -15,6 +15,7 @@ class Collector
 
   def initialize
     @names = []
+    @songs = []
     @wikipediaLinks = []
     @notOnWikiNames = []
     @base_url="http://www.bbc.co.uk"
@@ -43,6 +44,7 @@ class Collector
     wikipediaLink = guest_doc.xpath("//div[@id='castaway_links']/div/div/p/a/@href")
     wikipediaLinkDescription = guest_doc.xpath("//div[@id='castaway_links']/div/div/p/a/text()")
 	occupations = guest_doc.xpath("//div[@id='castaway_occupations']/div/div/p/a/text()")
+	
     if !@names.include? name
       @names.push(name)
       if !wikipediaLinkDescription.to_s.include? "Wikipedia"
@@ -50,18 +52,13 @@ class Collector
         @notOnWikiNames.push(name)
       end
       @wikipediaLinks.push(wikipediaLink)
-      
-      String searchName = name.replaceAll(" ","_");
-      #see if we can ping the name in wikipedia
-      while (((response = Net::HTTP.get_response(URI("http://en.wikipedia.org/wiki/"+searchName))).code==404) or (response.body.size > 1000))
+      person = Castaway.new(name, wikipediaLink, occupations, "Not av.");
+      String searchName = name.replace(" ","_");
+       while (((response = Net::HTTP.get_response(URI("http://en.wikipedia.org/wiki/"+searchName))).code==404) or (response.body.size > 1000))
          puts "guest not on wiki"
          # add to the not on wiki file
       end
       
-      
-      person = Castaway.new(name, wikipediaLink, occupations, "Not av.");
-      @songs=[]
-      @songs=person.getSongs(guest_doc)
       #person added. Now add episode(s)
       
     end
@@ -71,7 +68,7 @@ class Collector
 
 
   def runner controller, url
-    for i in (1..145)
+    for i in (1..2)
       controller.read_page(controller, url+i.to_s)
     end
 
@@ -105,5 +102,5 @@ end
 
 
 controller = Collector.new
-#controller.runner(controller, "http://www.bbc.co.uk/radio4/features/desert-island-discs/find-a-castaway/a-z/d/page/")
-controller.runner(controller, "http://www.bbc.co.uk/radio4/features/desert-island-discs/find-a-castaway/page/")
+controller.runner(controller, "http://www.bbc.co.uk/radio4/features/desert-island-discs/find-a-castaway/a-z/d/page/")
+#controller.runner(controller, "http://www.bbc.co.uk/radio4/features/desert-island-discs/find-a-castaway/page/")

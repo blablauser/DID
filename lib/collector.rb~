@@ -51,7 +51,7 @@ class Collector
       end
       @wikipediaLinks.push(wikipediaLink)
       
-      String searchName = name.replaceAll(" ","_");
+      String searchName = name.replace(" ","_");
       #see if we can ping the name in wikipedia
       while (((response = Net::HTTP.get_response(URI("http://en.wikipedia.org/wiki/"+searchName))).code==404) or (response.body.size > 1000))
          puts "guest not on wiki"
