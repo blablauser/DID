@@ -11,13 +11,14 @@ require_relative 'castaway.rb'
 
 # exports the lit of names out of the individual links
 class Collector
-  attr_accessor :base_url, :names, :wikipediaLinks, :notOnWikiNames
+  attr_accessor :base_url, :names, :wikipediaLinks, :notOnWikiNames, :error
 
   def initialize
     @names = []
     @songs = []
     @wikipediaLinks = []
     @notOnWikiNames = []
+    @searchedNames = []
     @base_url="http://www.bbc.co.uk"
     DbProcessor.create_db
   end
@@ -38,13 +39,13 @@ class Collector
   def read_individual_link url
     #parse every individual page
     occupations = []
-	page_response = Net::HTTP.get_response(URI(url)).body
+    page_response = Net::HTTP.get_response(URI(url)).body
     guest_doc = Nokogiri::HTML page_response
     name = guest_doc.xpath("//div[@id='castaway_intro']/h1/text()").to_s
     wikipediaLink = guest_doc.xpath("//div[@id='castaway_links']/div/div/p/a/@href")
     wikipediaLinkDescription = guest_doc.xpath("//div[@id='castaway_links']/div/div/p/a/text()")
-	occupations = guest_doc.xpath("//div[@id='castaway_occupations']/div/div/p/a/text()")
-	
+    occupations = guest_doc.xpath("//div[@id='castaway_occupations']/div/div/p/a/text()")
+
     if !@names.include? name
       @names.push(name)
       if !wikipediaLinkDescription.to_s.include? "Wikipedia"
@@ -52,15 +53,42 @@ class Collector
         @notOnWikiNames.push(name)
       end
       @wikipediaLinks.push(wikipediaLink)
-      person = Castaway.new(name, wikipediaLink, occupations, "Not av.");
-      String searchName = name.replace(" ","_");
-       while (((response = Net::HTTP.get_response(URI("http://en.wikipedia.org/wiki/"+searchName))).code==404) or (response.body.size > 1000))
-         puts "guest not on wiki"
-         # add to the not on wiki file
+      person = Castaway.new(name, wikipediaLink, occupations, "Not av.")
+      searchName = name.gsub!(" ", "_").to_s
+      #search wiki name: 
+      # check if it's a Dame or Sir
+      if (searchName.start_with? "Dame_")
+        searchName.slice! "Dame_"
+        else 
+        if (searchName.start_with? "Sir_")
+        searchName.slice! "Sir_"
+      	end
       end
-      
+
+      # req timeout code == 408
+      puts "link: http://en.wikipedia.org/wiki/#{searchName}"
+      begin
+  		timeout(2) do
+    	# do whatever
+    	if (((response = Net::HTTP.get_response(URI("http://en.wikipedia.org/wiki/"+searchName))).code==404) or (response.body.size < 19000))
+        #not on wiki
+        @searchedNames.push(searchName)
+      puts "body size: #{response.body.size}" # > 19000
+      puts "code: #{response.code}" # != 404
+      puts "guest not on wiki"
+      	
+      end
+
+ 		 end  
+	  end
+      rescue Timeout::Error
+  	  puts "I hope this works... "
+            
+      # add to the not on wiki file
+
+
       #person added. Now add episode(s)
-      
+
     end
 
     return
@@ -68,7 +96,7 @@ class Collector
 
 
   def runner controller, url
-    for i in (1..2)
+    for i in (1..145)
       controller.read_page(controller, url+i.to_s)
     end
 
@@ -87,11 +115,11 @@ class Collector
     #CsvProcessor.addNewRowToNamesCsv(@names)
 
     puts "Not on wiki: "
-    puts @notOnWikiNames
-    for name in @notOnWikiNames
+    puts @searchedNames
+    for name in @searchedNames
       guest = []
       guest.push(name)
-      CsvProcessor.addNewRowToNACsv(@notOnWikiNames)
+      CsvProcessor.addNewRowToNACsv(guest)
     end
     #CsvProcessor.addNewRowToNACsv(@notOnWikiNames)
 
@@ -102,5 +130,5 @@ end
 
 
 controller = Collector.new
-controller.runner(controller, "http://www.bbc.co.uk/radio4/features/desert-island-discs/find-a-castaway/a-z/d/page/")
-#controller.runner(controller, "http://www.bbc.co.uk/radio4/features/desert-island-discs/find-a-castaway/page/")
+#controller.runner(controller, "http://www.bbc.co.uk/radio4/features/desert-island-discs/find-a-castaway/a-z/d/page/")
+controller.runner(controller, "http://www.bbc.co.uk/radio4/features/desert-island-discs/find-a-castaway/page/")

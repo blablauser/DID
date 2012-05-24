@@ -24,4 +24,10 @@ class CsvProcessor
       csv << guest
     end
   end
+
+  def self.addNewRowToLinkCsv guest
+    CSV.open("../db/links.csv", "a") do |csv|
+      csv << guest
+    end
+  end
 end

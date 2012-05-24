@@ -12,11 +12,11 @@ PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX dbo: <http://dbpedia.org/ontology/>
 
 SELECT ?name ?birth ?description ?person WHERE {
-     ?person foaf:name "Debbie Harry"@en .
-    /
-     ?person dbo:birthDate ?birth .
-     ?person foaf:name ?name .
-     ?person rdfs:comment ?description .
-     FILTER (LANG(?description) = 'en') .
+     <http://dbpedia.org/resource/Debbie_Harry> foaf:name ?name .
+     //?person foaf:name 'Debbie Harry'@en .
+	 ?person foaf:name ?name .
+	 ?person dbo:birthDate ?birth .
+	 ?person rdfs:comment ?description .
+	 FILTER (LANG(?description) = 'en') .
 }
 ORDER BY ?name

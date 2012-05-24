@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'net/http'
 require 'nokogiri'
+require 'timeout'
 require_relative 'csv_processor.rb'
 require_relative 'db_processor.rb'
 require_relative 'castaway.rb'
@@ -9,20 +10,20 @@ require_relative 'castaway.rb'
 #require_relative 'book.rb'
 #require_relative 'luxury.rb'
 
-# exports the lit of names out of the individual links
 class Collector
-  attr_accessor :base_url, :names, :wikipediaLinks, :notOnWikiNames
+  attr_accessor :base_url, :names, :wikipediaLinks, :notOnWikiNames, :searchedNames
 
   def initialize
     @names = []
     @wikipediaLinks = []
     @notOnWikiNames = []
+    @searchedNames = []
     @base_url="http://www.bbc.co.uk"
-    DbProcessor.create_db
+    #DbProcessor.create_db
   end
 
   def read_page controller, url
-    #get the individual links, for every guest, and the list of names
+
     individualLinks = []
     listOfNames = []
     page_response = Net::HTTP.get_response(URI(url)).body
@@ -35,40 +36,85 @@ class Collector
   end
 
   def read_individual_link url
-    #parse every individual page
+
     occupations = []
-	page_response = Net::HTTP.get_response(URI(url)).body
+    page_response = Net::HTTP.get_response(URI(url)).body
     guest_doc = Nokogiri::HTML page_response
     name = guest_doc.xpath("//div[@id='castaway_intro']/h1/text()").to_s
     wikipediaLink = guest_doc.xpath("//div[@id='castaway_links']/div/div/p/a/@href")
     wikipediaLinkDescription = guest_doc.xpath("//div[@id='castaway_links']/div/div/p/a/text()")
-	occupations = guest_doc.xpath("//div[@id='castaway_occupations']/div/div/p/a/text()")
+    occupations = guest_doc.xpath("//div[@id='castaway_occupations']/div/div/p/a/text()")
     if !@names.include? name
       @names.push(name)
-      if !wikipediaLinkDescription.to_s.include? "Wikipedia"
-        wikipediaLink = "NA"
-        @notOnWikiNames.push(name)
+      if !wikipediaLinkDescription.to_s.capitalize.include? "Wikipedia"
+        test_wikipedia(name)
+      else
+        puts "DID: #{wikipediaLink}"
+        @wikipediaLinks.push(wikipediaLink)
       end
-      @wikipediaLinks.push(wikipediaLink)
-      
-      String searchName = name.replaceAll(" ","_");
-      #see if we can ping the name in wikipedia
-      while (((response = Net::HTTP.get_response(URI("http://en.wikipedia.org/wiki/"+searchName))).code==404) or (response.body.size > 1000))
-         puts "guest not on wiki"
-         # add to the not on wiki file
-      end
-      
-      
+
+
+=begin
       person = Castaway.new(name, wikipediaLink, occupations, "Not av.");
       @songs=[]
       @songs=person.getSongs(guest_doc)
       #person added. Now add episode(s)
-      
+=end
     end
 
     return
   end
 
+  def test_wikipedia name
+
+    searchName = name.gsub(" ", "_").to_s
+    searchName = check_name_for_title(searchName)
+
+    begin
+      h = Net::HTTP.new('en.wikipedia.org', 80)
+      h.read_timeout = nil
+      url = URI.parse("http://en.wikipedia.org/wiki/"+searchName)
+      test_response(h, searchName, url)
+    rescue Timeout::Error
+      puts " rescue goes HERE: "
+      test_response(h, searchName, url)
+    end
+
+  end
+
+  def check_name_for_title name
+    titles = ["Dame_", "Sir_", "Baron_", "Baroness_", "Reverend_", "Professor_", "Dr_", "Rt_Hon_", "Rt._Hon._"]
+    titles.each do |title|
+
+      if (name.start_with? title)
+        name.slice! title
+      else
+        if (name.end_with? "_MP") # memeber of Parliament
+          name.slice! "_MP"
+        end
+      end
+    end
+    if name.include? "&amp;"
+      name = name.gsub!("&amp;", "and").to_s
+    end
+
+    return name
+  end
+
+  def test_response(h, searchName, url)
+    response = h.request(Net::HTTP::Get.new(url.request_uri))
+    if (Integer(response.code)==404)
+      puts "Searched #{url}"
+      puts "code: #{response.code}"
+      @searchedNames.push(searchName)
+      @wikipediaLinks.push("NA")
+      @notOnWikiNames.push(searchName)
+    else
+      puts "Found: #{url}"
+      @wikipediaLinks.push(url)
+    end
+
+  end
 
   def runner controller, url
     for i in (1..145)
@@ -78,26 +124,19 @@ class Collector
     puts "Guests: "
     puts @names.length
 
-    #either one works just fine
-    #namesOnWiki=Hash[@names.group_by { |x| x }.map { |k, v| [k, v.count] }]
-    #distinctNames = @names.inject(Hash.new(0)) {|h,x| h[x]+=1;h}.to_a
-    #puts distinctNames.length
-    #distinctLinks = @wikipediaLinks.inject(Hash.new(0)) {|h,x| h[x]+=1;h}.to_a
-    #namesOffWiki=Hash[@names.group_by { |x| x }.map { |k, v| [k, v.count] }]
-
     #write to CSV:
-
-    #CsvProcessor.addNewRowToNamesCsv(@names)
-
-    puts "Not on wiki: "
-    puts @notOnWikiNames
-    for name in @notOnWikiNames
-      guest = []
-      guest.push(name)
-      CsvProcessor.addNewRowToNACsv(@notOnWikiNames)
+    for name in @names
+    CsvProcessor.addNewRowToNamesCsv([name])
     end
-    #CsvProcessor.addNewRowToNACsv(@notOnWikiNames)
 
+    puts "Not on wiki names to CSV: "
+    for name in @notOnWikiNames
+      CsvProcessor.addNewRowToNACsv([name])
+    end
+    puts "LINKS to CSV: "
+    for link in @wikipediaLinks
+      CsvProcessor.addNewRowToLinkCsv([link])
+    end
 
     puts "__________>>>"
   end

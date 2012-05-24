@@ -7,10 +7,10 @@ class Castaway
     @occupations=occupations
     @gender=gender
   end
-  
+
   def getSongs guest_doc
-  	
-  return songs
+
+    return songs
   end
 
   def self.validateString(string)
