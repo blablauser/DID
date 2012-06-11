@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa13d1e9-6dc6-4c93-8a7b-60f99a697999" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/record.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/record_choice.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/get_choices.rb" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/NameCollector.rb" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/NameCollector_v1_0.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/db/Books.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/db/Castaways.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/db/Episodes.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/db/Guests.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/db/LuxuryItems.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/db/RecordChoices.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/db/Records.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/db/choices.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/db/guests.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/db/na.csv" afterPath="" />
@@ -18,20 +24,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Collector.rb~ (Case Conflict 1)" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Collector.rb~ (Case Conflict 2)" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Untitled Document" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/colectorFeed.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/running.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/song.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/temp.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/termin.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/book.rb" afterPath="$PROJECT_DIR$/lib/book.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/castaway.rb" afterPath="$PROJECT_DIR$/lib/castaway.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/collector.rb" afterPath="$PROJECT_DIR$/lib/collector.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/csv_processor.rb" afterPath="$PROJECT_DIR$/lib/csv_processor.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/db_processor.rb" afterPath="$PROJECT_DIR$/lib/db_processor.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/episode.rb" afterPath="$PROJECT_DIR$/lib/episode.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/get_song.rb" afterPath="$PROJECT_DIR$/lib/get_song.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/luxury.rb" afterPath="$PROJECT_DIR$/lib/luxury.rb" />
     </list>
     <ignored path="DID.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,37 +47,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="get_song.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="get_song.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/get_song.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="9" selection-start="1453" selection-end="1453" vertical-scroll-proportion="0.61981565">
+            <state line="276" column="19" selection-start="9021" selection-end="9021" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="record.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/record.rb">
+      <file leaf-file-name="get_choices.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/get_choices.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="46" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+            <state line="44" column="14" selection-start="1359" selection-end="1359" vertical-scroll-proportion="0.38018432">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="record_choice.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/record_choice.rb">
+      <file leaf-file-name="collector.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/collector.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="64" selection-start="36" selection-end="83" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="episode.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/episode.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="65" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0">
+            <state line="29" column="57" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -118,6 +102,7 @@
         <option value="$PROJECT_DIR$/lib/episode.rb" />
         <option value="$PROJECT_DIR$/lib/book.rb" />
         <option value="$PROJECT_DIR$/lib/get_song.rb" />
+        <option value="$PROJECT_DIR$/lib/get_choices.rb" />
       </list>
     </option>
   </component>
@@ -147,7 +132,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -180,14 +164,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DID" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DID" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
   </component>
   <component name="RunManager" selected="Ruby.temp">
     <configuration default="false" name="temp" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
@@ -346,11 +350,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-4" width="1026" height="605" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="24" width="1024" height="576" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32845187" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22622623" sideWeight="0.6715481" order="0" side_tool="false" content_ui="tabs" />
@@ -360,7 +365,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32845187" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -414,11 +418,6 @@
         <state line="4" column="59" selection-start="59" selection-end="59" vertical-scroll-proportion="0.14117648" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/collector.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="57" selection-start="769" selection-end="769" vertical-scroll-proportion="1.0023042" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/csv_processor.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="6" selection-start="21" selection-end="21" vertical-scroll-proportion="0.07058824" />
@@ -439,40 +438,56 @@
         <state line="1" column="16" selection-start="29" selection-end="51" vertical-scroll-proportion="0.033557046" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/Episodes.csv">
+    <entry file="file://$PROJECT_DIR$/lib/db_processor.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="35" column="17" selection-start="865" selection-end="865" vertical-scroll-proportion="0.033557046" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/episode.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="65" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/record.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="46" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+        <state line="1" column="65" selection-start="79" selection-end="79" vertical-scroll-proportion="0.03640777">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/db_processor.rb">
+    <entry file="file://$PROJECT_DIR$/lib/record.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="17" selection-start="865" selection-end="865" vertical-scroll-proportion="0.033557046">
+        <state line="1" column="46" selection-start="59" selection-end="59" vertical-scroll-proportion="0.033557046">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/record_choice.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="64" selection-start="36" selection-end="83" vertical-scroll-proportion="0.0">
+        <state line="1" column="64" selection-start="36" selection-end="83" vertical-scroll-proportion="0.033557046">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/get_song.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="9" selection-start="1453" selection-end="1453" vertical-scroll-proportion="0.61981565">
+        <state line="276" column="19" selection-start="9021" selection-end="9021" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/collector.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="57" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/get_choices.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="14" selection-start="1359" selection-end="1359" vertical-scroll-proportion="0.38018432">
           <folding />
         </state>
       </provider>
