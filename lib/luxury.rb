@@ -1,7 +1,4 @@
 class Luxury
-  attr_accessor :luxuryItem
+  attr_accessor :luxuryId, :luxuryItem
 
-  def initialize(luxuryItem)
-    @luxuryItem = luxuryItem
-  end
 end

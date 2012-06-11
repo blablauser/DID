@@ -1,9 +1,4 @@
 class Book
-  attr_accessor :bookTitle, :trackArtist, :trackComposer
+  attr_accessor :bookId, :bookAuthor, :bookTitle
 
-  def initialize(trackTitle, trackArtist, trackComposer)
-    @trackTitle = trackTitle
-    @trackArtist = trackArtist
-    @trackComposer = trackComposer
-  end
 end

@@ -1,17 +1,12 @@
 class Castaway
-  attr_accessor :castawayId, :name, :relatedLinks, :occupations, :gender
+  attr_accessor :castawayId, :name, :relatedLinks, :gender, :occupations
 
-  def initialize(name, relatedLinks, occupations, gender)
-    @name=name
-    @relatedLinks=relatedLinks
-    @occupations=occupations
-    @gender=gender
-  end
-
-  def getSongs guest_doc
-
-    return songs
-  end
+  #def initialize(id,name, relatedLinks, gender)
+  #  @castawayId=id
+  #  @name=name
+  #  @relatedLinks=relatedLinks
+  #  @gender=gender
+  #end
 
   def self.validateString(string)
     string.strip!
