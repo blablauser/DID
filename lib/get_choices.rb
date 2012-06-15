@@ -304,18 +304,18 @@ class GetChoices
   end
 
   def runner controller, url
-    #@gender="female"
-    #for i in (1..41)
-    #  sleep(1)
-    #  controller.read_page(controller, url+"gender/female/page/"+i.to_s)
-    #end
+    @gender="female"
+    for i in (1..41)
+      sleep(1)
+      controller.read_page(controller, url+"gender/female/page/"+i.to_s)
+    end
 
     @gender="male"
-    #for i in (1..105)
-    #   sleep(1)
-    #controller.read_page(controller, url+"gender/male/page/"+i.to_s)
-    #end
-   controller.read_individual_link(url)
+    for i in (1..105)
+       sleep(1)
+    controller.read_page(controller, url+"gender/male/page/"+i.to_s)
+    end
+    #controller.read_individual_link(url)
 
     puts "Guests: "
     puts @castaways_table.length
@@ -331,7 +331,7 @@ end
 
 collector = GetChoices.new
 #collector.runner(collector, "http://www.bbc.co.uk/radio4/features/desert-island-discs/castaway/2343cdda")
-#collector.runner(collector,"http://www.bbc.co.uk/radio4/features/desert-island-discs/find-a-castaway/")
+collector.runner(collector,"http://www.bbc.co.uk/radio4/features/desert-island-discs/find-a-castaway/")
 
 # multiple books! 
-collector.runner(collector, "http://www.bbc.co.uk/radio4/features/desert-island-discs/castaway/c4e2d05f#p009mhc8")
+#collector.runner(collector, "http://www.bbc.co.uk/radio4/features/desert-island-discs/castaway/c4e2d05f#p009mhc8")
