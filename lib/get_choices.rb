@@ -3,18 +3,13 @@ require 'net/http'
 require 'nokogiri'
 require 'timeout'
 require_relative 'csv_processor.rb'
-require_relative 'castaway.rb'
-require_relative 'episode.rb'
-require_relative 'record.rb'
-require_relative 'book.rb'
-require_relative 'luxury.rb'
-require_relative 'record_choice'
-#require_relative 'db_processor.rb'
+require_relative 'tables.rb'
+require_relative 'validate.rb'
 
 class GetChoices
   attr_accessor :base_url, :castaways_table, :wikipedia_links, :names_not_on_wiki,
                 :searched_names, :gender, :wikipediaLink, :episodes_table, :books_table,
-                :luxury_table, :records_table, :record_choices_table
+                :luxury_table, :records_table, :record_choices_table, :book_choices_table
 
   def initialize
     @castaways_table = []
@@ -27,6 +22,7 @@ class GetChoices
     @wikipedia_links = []
     @names_not_on_wiki = []
     @searched_names = []
+    @book_choices_table = []
     @base_url="http://www.bbc.co.uk"
 
     #DbProcessor.create_db
@@ -49,7 +45,6 @@ class GetChoices
 
 
   def read_individual_link url
-
 
     page_response = Net::HTTP.get_response(URI(url)).body
     guest_doc = Nokogiri::HTML page_response
@@ -90,6 +85,20 @@ class GetChoices
   end
 
 
+  def parse_luxury(e, luxury_item)
+    exists_item = @luxury_table.select { |item| item.luxuryItem == luxury_item }
+    if exists_item.length != 0 # the item exists
+      e.luxuryItemId = exists_item.at(0).luxuryId
+    else
+      # add the item
+      item = Luxury.new
+      item.luxuryId= @luxury_table.length + 1
+      item.luxuryItem = luxury_item
+      e.luxuryItemId = item.luxuryId
+      @luxury_table.push(item)
+    end
+  end
+
   def parse_episode(episode, person)
 
     episode_doc = Nokogiri::XML (episode.to_s)
@@ -103,48 +112,74 @@ class GetChoices
     # push it to @episodes_table after processing all choices.
 
     songs = episode_doc.xpath("//div[@class='text']")
-    book_title = episode_doc.xpath("//h5[@class='book_choice']/text()").to_s.strip
-    book_author = episode_doc.xpath("//h5[@class='book_choice']/span/text()").to_s.strip
+    books = episode_doc.xpath("//h5[@class='book_choice']")
+
     luxury_item = episode_doc.xpath("//h5[@class='luxury_item_choice']/text()").to_s.strip
+
+    luxury_item = Validate.check_for_hex_code(luxury_item).to_s
+    luxury_item = Validate.capitalize_each luxury_item
+
+    puts "#{luxury_item}"
 
     for song in songs
       parse_song(song)
     end
 
     #search for book
-    exists_book = @books_table.select { |book| (book.bookTitle == book_title) && (book.bookAuthor == book_author) }
+    books.each {|book|
+      parse_book(book)
+    }
+    
+    #search for luxury Item
+
+    parse_luxury(e, luxury_item)
+
+    @episodes_table.push(e)
+    puts "#{@gender} episode from #{e.dateOfBroadcast}"
+  end
+
+  def parse_book(book)
+
+    book_choice = BookChoice.new
+    book_choice.episodeId = @episodes_table.length + 1
+
+    book_doc = Nokogiri::XML (book.to_s)
+    book_title = book_doc.xpath("//h5[@class='book_choice']/text()").to_s.strip
+    book_title = Validate.check_for_hex_code(book_title)
+    book_title = Validate.capitalize_each book_title
+
+    if (book_title.end_with? " By")
+          book_title.slice! " By"
+    end
+
+    book_author = book_doc.xpath("//h5[@class='book_choice']/span/text()").to_s.strip
+    book_author = Validate.check_for_hex_code(book_author)
+    book_author = Validate.capitalize_each book_author
+
+    exists_book = @books_table.select { |book|
+      ((book.bookTitle == book_title) || (book.bookTitle == "The "+book_title) || ("The "+book.bookTitle == book_title)) && (book.bookAuthor == book_author)
+    }
+
     if exists_book.length == 0 # the book is not in the array
                                # add the book
       book = Book.new
       book.bookId= @books_table.length + 1
       book.bookTitle= book_title
       book.bookAuthor= book_author
-      e.bookId = book.bookId
+      book_choice.bookId = book.bookId
       @books_table.push(book)
     else
-      e.bookId = exists_book.at(0).bookId
+      book_choice.bookId = exists_book.at(0).bookId
     end
-
-    #search for luxury Item
-
-    exists_item = @luxury_table.select { |item| item.luxuryItem == luxury_item }
-    if exists_item.length != 0 # the item exists
-      e.luxuryItemId = exists_item.at(0).luxuryId
-    else
-      # add the item
-      item = Luxury.new
-      item.luxuryId= @luxury_table.length + 1
-      item.luxuryItem = luxury_item
-      e.luxuryItemId = item.luxuryId
-      @luxury_table.push(item)
-    end
-    @episodes_table.push(e)
-    puts @gender+" episode from "+e.dateOfBroadcast.to_s
+    
+    @book_choices_table.push(book_choice)
   end
+
 
   def parse_song(song)
     record_choice = RecordChoice.new
     record_choice.episodeId = @episodes_table.length + 1
+
     song_doc = Nokogiri::XML (song.to_s)
 
     song_choice_number = song_doc.xpath("//p[@class='number']/text()").to_s.strip
@@ -154,8 +189,18 @@ class GetChoices
     if song_artist == ''
       song_artist = song_doc.xpath("//div[@class='text']/h4/a/text()").to_s.strip
     end
+
+    song_artist = Validate.check_for_hex_code(song_artist)
+    song_artist = Validate.capitalize_each song_artist
+
     song_title= song_doc.xpath("//p[@class='track_choice']/text()").to_s.strip
+    song_title = Validate.check_for_hex_code(song_title)
+    song_title = Validate.capitalize_each song_title
+
     song_composer= song_doc.xpath("//p[@class='composer']/text()").to_s.strip
+    song_composer = Validate.check_for_hex_code(song_composer)
+    song_composer = Validate.capitalize_each song_composer
+
     favourite=song_doc.xpath("//p[@class='track_keep']/strong/text()").to_s.strip
     if favourite != ''
       record_choice.favourite = 1
@@ -165,6 +210,7 @@ class GetChoices
 
     #search song in the Records table
     # assume there is a unique combination of title+artist
+
     exists_record = @records_table.select { |record| (record.artist == song_artist) && (record.title == song_title) }
     if exists_record.length != 0 # the song is in the array
       if exists_record.length > 1
@@ -173,6 +219,7 @@ class GetChoices
         record_choice.recordId = exists_record.at(0).recordId
       end
     else
+
       # the song does not exist in the table, thus must be added
       record = Record.new
       record.recordId = @records_table.length + 1
@@ -239,8 +286,11 @@ class GetChoices
     for x in @record_choices_table
       CsvProcessor.addNewRow([x.episodeId.to_s, x.recordId.to_s, x.choiceNumber.to_s, x.favourite.to_s], "RecordChoices")
     end
+    for x in @book_choices_table
+      CsvProcessor.addNewRow([x.episodeId.to_s, x.bookId.to_s], "BookChoices")
+    end
     for x in @episodes_table #:episodeId, :castawayId, :bookId, :luxuryItemId, :dateOfBroadcast, :occupationOfGuest,
-      CsvProcessor.addNewRow([x.episodeId.to_s, x.castawayId.to_s, x.bookId.to_s, x.luxuryItemId.to_s, x.dateOfBroadcast.to_s, x.occupationOfGuest.to_s], "Episodes")
+      CsvProcessor.addNewRow([x.episodeId.to_s, x.castawayId.to_s, x.luxuryItemId.to_s, x.dateOfBroadcast.to_s, x.occupationOfGuest.to_s], "Episodes")
     end
     for x in @castaways_table #castawayId, :name, :relatedLinks, :gender, :occupations
       CsvProcessor.addNewRow([x.castawayId.to_s, x.name.to_s, x.relatedLinks.to_s, x.gender.to_s, x.occupations.to_s], "Castaways")
@@ -254,17 +304,18 @@ class GetChoices
   end
 
   def runner controller, url
-    @gender="female"
-    for i in (1..41)
-      sleep(1)
-      controller.read_page(controller, url+"gender/female/page/"+i.to_s)
-    end
+    #@gender="female"
+    #for i in (1..41)
+    #  sleep(1)
+    #  controller.read_page(controller, url+"gender/female/page/"+i.to_s)
+    #end
 
     @gender="male"
-     for i in (1..105)
-       sleep(1)
-    controller.read_page(controller, url+"gender/male/page/"+i.to_s)
-    end
+    #for i in (1..105)
+    #   sleep(1)
+    #controller.read_page(controller, url+"gender/male/page/"+i.to_s)
+    #end
+   controller.read_individual_link(url)
 
     puts "Guests: "
     puts @castaways_table.length
@@ -280,5 +331,7 @@ end
 
 collector = GetChoices.new
 #collector.runner(collector, "http://www.bbc.co.uk/radio4/features/desert-island-discs/castaway/2343cdda")
-collector.runner(collector,"http://www.bbc.co.uk/radio4/features/desert-island-discs/find-a-castaway/")
+#collector.runner(collector,"http://www.bbc.co.uk/radio4/features/desert-island-discs/find-a-castaway/")
 
+# multiple books! 
+collector.runner(collector, "http://www.bbc.co.uk/radio4/features/desert-island-discs/castaway/c4e2d05f#p009mhc8")

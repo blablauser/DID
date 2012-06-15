@@ -1,0 +1,2866 @@
+"episode ID","Castaway ID",Book,Luxury,Date,Occupation
+,1,1,1,"Sun 17 Jun 2012","Novelist, Cultural commentator"
+,2,2,2,"Sun 10 Jun 2012",Campaigner
+,3,3,3,"Sun 03 Jun 2012","Queen&#x2019;s first cousin, former MI6 worker"
+,4,4,4,"Sun 27 May 2012","Agony aunt"
+,5,5,5,"Sun 13 May 2012","Professor of Psychiatry"
+,6,6,6,"Sun 18 Mar 2012",journalist
+,7,7,1,"Sun 04 Mar 2012","Voice coach"
+,8,8,7,"Sun 05 Feb 2012","Athlete, Olympic gold medal winner"
+,9,9,8,"Sun 08 Jan 2012","Director of the Royal Ballet"
+,10,10,9,"Sun 11 Dec 2011","Former editor and journalist"
+,11,11,10,"Fri 18 Nov 2011","Theatre School founder , Drama teacher"
+,12,12,11,"Sun 06 Nov 2011","Author of Horrid Henry books, Children's writer"
+,13,13,12,"Sun 02 Oct 2011","Children's TV producer"
+,14,14,13,"Sun 24 Jul 2011",Barrister
+,15,15,14,"Sun 26 Jun 2011","British actor"
+,16,16,15,"Sun 12 Jun 2011",Novelist
+,17,17,16,"Sun 22 May 2011","Lead Singer of Blondie"
+,18,18,17,"Sun 08 May 2011","Fashion journalist, Artist"
+,19,19,18,"Sun 24 Apr 2011",Designer
+,20,20,19,"Sun 17 Apr 2011","Fashion journalist"
+,21,21,20,"Sun 27 Feb 2011","Former Chief Inspector of Prisons"
+,22,22,21,"Sun 13 Feb 2011",Actor
+,23,23,22,"Sun 23 Jan 2011","Coronation Street actor"
+,24,24,23,"Sun 26 Dec 2010","Singer, Psychotherapist"
+,25,25,24,"Sun 05 Dec 2010","Historian, Writer"
+,26,26,25,"Fri 19 Nov 2010","Cookery writer"
+,27,27,26,"Sun 10 Oct 2010","Founder of Storm model agency"
+,28,28,27,"Sun 15 Aug 2010","Actor, Director, Comedian"
+,29,29,28,"Sun 25 Jul 2010",Journalist
+,30,30,29,"Sun 11 Jul 2010","Forensic Psychotherapist"
+,31,31,30,"Sun 04 Jul 2010","Piano teacher"
+,32,32,31,"Sun 23 May 2010",Entrepreneur
+,33,33,32,"Sun 09 May 2010",Novelist
+,33,34,33,"Sat 23 Feb 1980",Novelist
+,34,35,34,"Sun 28 Mar 2010","Actor, Screenwriter, Comedian"
+,35,36,35,"Sun 07 Mar 2010",Cosmologist
+,36,37,36,"Sun 28 Feb 2010","Archer's actor"
+,37,38,37,"Sun 31 Jan 2010",Classicist
+,38,39,38,"Sun 10 Jan 2010","Retail expert, Broadcaster"
+,39,40,39,"Sun 06 Dec 2009","Attorney General, Politician - Labour"
+,40,41,40,"Sun 15 Nov 2009","Children's writer"
+,41,42,41,"Sun 04 Oct 2009",Yachtswoman
+,42,17,42,"Sun 09 Aug 2009",Broadcaster
+,42,43,43,"Sat 13 May 1972",Journalist
+,43,44,9,"Sun 28 Jun 2009","Dancer, Choreographer"
+,44,45,44,"Sun 31 May 2009","Food campaigner"
+,45,46,45,"Sun 10 May 2009","Comedian, Hollywood film star"
+,46,47,46,"Sun 22 Mar 2009",Physicist
+,47,48,40,"Sun 15 Feb 2009",Geneticist
+,48,49,47,"Sun 11 Jan 2009",Poet
+,49,50,48,"Sun 28 Dec 2008",Academic
+,50,51,49,"Sun 23 Nov 2008","Broadcaster, Journalist"
+,51,52,50,"Sun 02 Nov 2008","Director of Liberty, Campaigner"
+,52,53,51,"Sun 28 Sep 2008",Actor
+,53,54,52,"Sun 17 Aug 2008","West End star"
+,54,55,53,"Sun 27 Jul 2008","Novelist, Biographer"
+,54,56,54,"Mon 02 Jun 1969",Historian
+,55,57,55,"Sun 13 Jul 2008","Opera singer - soprano"
+,56,58,56,"Sun 29 Jun 2008",Cartoonist
+,57,59,57,"Sun 18 May 2008","Politician - Labour"
+,58,60,58,"Sun 11 May 2008","Singer, Songwriter"
+,59,61,59,"Sun 30 Mar 2008","Stage and screen actor"
+,60,62,60,"Sun 09 Mar 2008","Royle Family actor"
+,61,63,61,"Sun 03 Feb 2008",Novelist
+,61,64,62,"Sun 09 Mar 1986","Novelist, Actor"
+,62,14,63,"Sun 30 Dec 2007",Businesswoman
+,63,65,64,"Sun 23 Dec 2007","Comedian, Actor"
+,63,66,65,"Sun 08 Feb 1987","Comedian, Actor"
+,64,67,66,"Sun 18 Nov 2007","Former head of MI5"
+,65,68,67,"Sun 14 Oct 2007","Film and stage actor"
+,65,1,1,"Sat 18 Aug 1945","Film and stage actor"
+,66,69,46,"Sun 29 Jul 2007",Businesswoman
+,67,70,68,"Sun 01 Jul 2007","Campaigner, Nobel Prize winner"
+,68,71,69,"Sun 10 Jun 2007","Artist, Musician"
+,69,72,70,"Sun 13 May 2007","Absolutely Fabulous actor"
+,69,73,71,"Sun 13 Sep 1987",Actor
+,70,74,72,"Sun 18 Mar 2007",Comedian
+,71,64,73,"Sun 21 Jan 2007",Explorer
+,72,75,74,"Sun 14 Jan 2007",Novelist
+,72,76,75,"Sun 23 Aug 1987",Novelist
+,73,77,76,"Sun 07 Jan 2007",Pianist
+,74,17,77,"Sun 24 Dec 2006","Television presenter"
+,75,78,78,"Sun 22 Oct 2006","Children's campaigner"
+,76,79,79,"Sun 08 Oct 2006","Stage and screen actor"
+,77,80,40,"Sun 27 Aug 2006","Star of stage and screen"
+,77,81,80,"Sat 24 Jan 1981","British actor"
+,78,82,81,"Sun 23 Jul 2006",Psychoanalyst
+,79,83,82,"Sun 14 May 2006",Ballerina
+,80,84,83,"Sun 26 Feb 2006",Artist
+,81,85,84,"Sun 12 Feb 2006","Religious writer"
+,82,86,85,"Sun 29 Jan 2006","President of the Social Democrat Party, Politician - Social Democrat Party"
+,82,87,86,"Sun 23 Mar 1986","President of the Social Democratic Party, Politician - Social Democratic Party, Journalist, Writer"
+,83,88,87,"Sun 01 Jan 2006","Athlete, Olympic gold medal winner"
+,84,89,88,"Sun 18 Dec 2005",Artist
+,85,90,89,"Fri 18 Nov 2005","Opera singer - soprano"
+,86,91,90,"Sun 16 Oct 2005","Children's Laureate, Author of Tracy Beaker"
+,87,92,91,"Sun 18 Sep 2005","Stage and screen actor"
+,88,93,92,"Sun 26 Jun 2005","Broadcaster, Comedian"
+,89,94,93,"Sun 12 Jun 2005","American actor"
+,90,95,94,"Sun 15 May 2005","Stage and screen actor"
+,91,96,95,"Sun 08 May 2005",Novelist
+,92,97,96,"Sun 01 May 2005",Journalist
+,92,98,97,"Mon 10 Oct 1966","Newspaper columnist, Writer"
+,93,99,98,"Sun 27 Mar 2005","Theatre director"
+,94,100,99,"Sun 06 Mar 2005","Academic, Anthropologist"
+,95,101,91,"Sun 16 Jan 2005","Artist, Filmmaker, Photographer"
+,96,102,100,"Sun 26 Dec 2004","Sex And The City actor"
+,97,103,101,"Sun 28 Nov 2004",Artist
+,98,104,102,"Sun 07 Nov 2004","Foreign correspondent"
+,99,105,103,"Sun 10 Oct 2004","Gardening writer"
+,100,106,104,"Sun 26 Sep 2004","Actor, Wildlife campaigner"
+,100,107,105,"Mon 25 Jul 1966","British film actor"
+,101,108,106,"Sun 20 Jun 2004","Writer, Editor"
+,102,109,107,"Sun 13 Jun 2004",Businessman
+,103,110,108,"Sun 30 May 2004","Stage and actor"
+,104,111,109,"Sun 09 May 2004",Poet
+,105,112,110,"Sun 04 Apr 2004","Opera singer - soprano"
+,106,113,111,"Sun 29 Feb 2004","Children's writer, Illustrator"
+,107,114,112,"Sun 08 Feb 2004","Pioneer of the Hospice movement"
+,108,17,113,"Sun 04 Jan 2004","Dot-com millionaire, Entrepreneur"
+,109,115,114,"Sun 21 Dec 2003","Country rock singer"
+,110,116,115,"Sun 07 Dec 2003","Novelist, Booker Prize winner"
+,111,117,116,"Sun 05 Oct 2003","Cookery writer, TV presenter"
+,112,118,117,"Sun 06 Jul 2003",Novelist
+,112,119,118,"Sat 27 Apr 1985",Novelist
+,113,120,40,"Sun 01 Jun 2003","Actor, Writer"
+,114,121,119,"Sun 13 Apr 2003","Novelist, Booker Prize winner"
+,115,122,120,"Sun 30 Mar 2003","Four Weddings actor"
+,116,123,121,"Sun 16 Feb 2003",Artist
+,117,124,122,"Sun 12 Jan 2003","X Files actor"
+,118,125,123,"Sun 29 Dec 2002","Crime writer"
+,119,126,124,"Sun 15 Dec 2002","Irish actor"
+,119,127,105,"Sat 28 May 1983","Irish actor"
+,120,128,40,"Fri 15 Nov 2002",Pianist
+,121,17,125,"Sun 27 Oct 2002","Crime writer"
+,121,129,126,"Sat 20 Nov 1982","Crime writer"
+,122,130,127,"Sun 29 Sep 2002",Ballerina
+,122,1,128,"Mon 22 Sep 1958","Prima ballerina"
+,123,131,129,"Sun 30 Jun 2002","Crime writer"
+,124,132,130,"Sun 23 Jun 2002",Writer
+,124,133,131,"Sat 11 Aug 1979",Historian
+,125,134,132,"Sun 16 Jun 2002","Travel writer"
+,125,135,133,"Sat 26 Mar 1983","Writer, Journalist"
+,126,136,134,"Sun 26 May 2002",Actor
+,127,137,135,"Sun 05 May 2002","Theatre director"
+,128,138,136,"Sun 28 Apr 2002","Fashion designer"
+,129,139,137,"Sun 07 Apr 2002","Director General of the National Trust"
+,130,140,138,"Sun 24 Mar 2002","Writer, Psychologist"
+,131,67,139,"Sun 17 Mar 2002","Landscape Photographer"
+,132,141,140,"Sun 10 Mar 2002",Ballerina
+,132,1,141,"Mon 10 Mar 1958","Prima ballerina"
+,133,142,142,"Sun 24 Feb 2002",Broadcaster
+,134,143,143,"Sun 27 Jan 2002",Pianist
+,135,144,144,"Sun 13 Jan 2002",Horticulturalist
+,136,145,145,"Sun 16 Dec 2001","Children's Laureate, Author of Madame Doubtfire"
+,137,146,146,"Sun 29 Jul 2001","Cookery writer"
+,138,147,147,"Sun 08 Jul 2001","Folk singer, Songwriter"
+,139,148,148,"Sun 06 May 2001",Novelist
+,139,149,54,"Mon 06 May 1968","Writer, Novelist"
+,140,150,149,"Sun 29 Apr 2001",Violinist
+,141,151,150,"Sun 08 Apr 2001","Paralympian , Athlete, Olympic gold medal winner"
+,142,152,151,"Sun 25 Mar 2001","Children's writer, Illustrator"
+,143,14,152,"Sun 21 Jan 2001","Cookery writer"
+,144,153,153,"Sun 24 Dec 2000",Astrophysicist
+,145,129,154,"Sun 03 Dec 2000","Editor of Talk magazine, Journalist"
+,146,154,155,"Sun 05 Nov 2000","Creator of Harry Potter, Children's writer"
+,147,155,156,"Sun 21 May 2000","Wife of the former Prime Minister, Writer"
+,148,156,157,"Sun 14 May 2000","Hollywood film star"
+,149,157,158,"Sun 09 Apr 2000","Biographer, Journalist"
+,150,158,159,"Sun 27 Feb 2000","Actor, Director"
+,150,159,160,"Mon 03 May 1965","British actor"
+,151,160,145,"Sun 09 Jan 2000","Primatologist, Naturalist"
+,152,161,161,"Sun 21 Nov 1999","TV chef"
+,153,162,162,"Sun 22 Aug 1999",Poet
+,154,163,163,"Sun 08 Aug 1999","Keeping Up Appearances Actor"
+,154,164,164,"Sat 20 Apr 1974","Actor, Singer"
+,155,165,165,"Sun 27 Jun 1999","Shadow Home Secretary, Politician - Conservative"
+,156,166,166,"Sun 02 May 1999","Scientist, Campaigner, Psychotherapist"
+,157,167,167,"Sun 28 Mar 1999","Oscar winning actor"
+,158,168,168,"Sun 21 Mar 1999","Northern Ireland Secretary, Politician - Labour"
+,159,169,80,"Sun 21 Feb 1999","Opera singer - soprano and mezzo-soprano"
+,160,32,169,"Sun 14 Feb 1999",Poet
+,161,153,170,"Sun 24 Jan 1999","Novelist, Screenwriter"
+,162,170,171,"Sun 10 Jan 1999","War correspondent"
+,163,171,172,"Sun 29 Nov 1998","British actor"
+,164,172,173,"Sun 15 Nov 1998","Hollywood film star"
+,165,173,174,"Sun 30 Aug 1998","Playwright, Screenwriter"
+,166,174,175,"Sun 05 Jul 1998","Journalist, Novelist"
+,167,175,176,"Sun 03 May 1998",Psychologist
+,168,176,177,"Sun 12 Apr 1998","British actor"
+,168,177,178,"Sat 17 Jun 1972","British actor"
+,169,178,179,"Sun 29 Mar 1998",Novelist
+,170,179,180,"Sun 25 Jan 1998","Human rights lawyer"
+,171,180,46,"Sun 28 Dec 1997","Transport Minister, Politician - Labour, Actress"
+,172,181,145,"Sun 07 Dec 1997",Artist
+,173,133,181,"Sun 23 Nov 1997","Theatre producer"
+,174,182,182,"Sun 12 Oct 1997",Novelist
+,175,183,183,"Sun 14 Sep 1997","Editor, Publisher"
+,176,184,128,"Sun 31 Aug 1997","Jazz singer"
+,176,1,128,"Mon 14 Apr 1958","Jazz singer"
+,177,177,184,"Sun 15 Jun 1997","Children's campaigner"
+,178,185,185,"Sun 01 Jun 1997","Concert pianist"
+,179,186,29,"Sun 25 May 1997","British actor"
+,179,187,186,"Sat 03 Nov 1979","British actor"
+,180,188,187,"Sun 30 Mar 1997","Journalist, Agony Aunt"
+,181,189,188,"Sun 16 Mar 1997","Interior designer"
+,182,190,189,"Sun 02 Mar 1997",Neuroscientist
+,183,191,190,"Sun 26 Jan 1997","Brain of Britain radio personality"
+,183,192,191,"Sat 16 Jun 1979","Brain Of Britain, Broadcaster, Radio personality"
+,184,193,192,"Sun 22 Dec 1996","Comedian, Actor"
+,185,194,193,"Sun 17 Nov 1996","Athlete, Olympic gold medal winner"
+,186,129,194,"Sun 27 Oct 1996","Writer, Wine connoisseur"
+,187,195,195,"Sun 13 Oct 1996",Novelist
+,187,196,196,"Sat 08 Nov 1975","Children's writer"
+,188,197,197,"Sun 22 Sep 1996","Poet, Lyricist"
+,189,194,198,"Sun 25 Aug 1996","Cellist in the Women's Orchestra at Auschwitz, Musician, Cellist"
+,190,198,199,"Sun 09 Jun 1996","British actor"
+,190,199,200,"Mon 04 Nov 1968","British character actor"
+,191,194,201,"Sun 02 Jun 1996",Businessman
+,192,200,202,"Sun 19 May 1996",Business
+,193,201,203,"Sun 05 May 1996","Birds of a Feather actor"
+,194,202,80,"Sun 28 Apr 1996",Pianist
+,195,203,204,"Sun 24 Mar 1996","Opera singer - soprano"
+,196,204,205,"Sun 11 Feb 1996",Novelist
+,196,204,206,"Sat 08 Jun 1974",Novelist
+,197,205,207,"Sun 04 Feb 1996","Journalist, Photographer"
+,198,206,208,"Sun 21 Jan 1996","Silent movie star"
+,199,207,209,"Sun 31 Dec 1995","Wife of Norman Tebbit, Public figure"
+,200,208,210,"Sun 24 Dec 1995","Actor, Singer"
+,200,209,80,"Sat 20 Feb 1982","Actor, Singer"
+,200,1,1,"Wed 02 May 1951",Singer
+,201,210,211,"Sun 17 Dec 1995","Actor, Singer"
+,202,211,212,"Sun 03 Dec 1995","British actor"
+,203,212,213,"Sun 05 Nov 1995","Secretary of State for Education and Employment, Politician - Conservative"
+,204,213,80,"Sun 29 Oct 1995",Novelist
+,204,214,105,"Sat 29 Apr 1972",Novelist
+,205,215,214,"Sun 01 Oct 1995","Racehorse trainer"
+,206,216,215,"Sun 09 Jul 1995","Eastenders actor"
+,207,217,216,"Sun 28 May 1995","Actor, Singer, Songwriter"
+,208,74,217,"Sun 02 Apr 1995",Novelist
+,209,218,218,"Sun 08 Jan 1995","British actor"
+,210,219,219,"Sun 18 Dec 1994","Horticulturalist, Garden designer"
+,211,220,220,"Sun 04 Dec 1994","Novelist, Biographer"
+,212,221,221,"Sun 20 Nov 1994","Politician - Labour"
+,213,149,222,"Sun 30 Oct 1994","Illustrator, Children's writer"
+,214,222,223,"Sun 23 Oct 1994",Screenwriter
+,215,223,224,"Sun 09 Oct 1994","Novelist, Whitbread Prize winner"
+,216,224,225,"Sun 25 Sep 1994","Campaigner, Columnist, Feminist"
+,217,225,226,"Sun 11 Sep 1994",Novelist
+,218,226,227,"Sun 12 Jun 1994","American-British actor"
+,219,227,228,"Sun 22 May 1994","Film actor"
+,220,228,229,"Sun 15 May 1994","BBC Correspondent"
+,221,229,29,"Sun 06 Mar 1994",Explorer
+,222,230,230,"Sun 27 Feb 1994","Bloomsbury writer"
+,223,231,231,"Sun 13 Feb 1994",Horticulturalist
+,224,232,29,"Sun 30 Jan 1994","Founder of Hospice, Campaigner, Doctor"
+,225,233,232,"Sun 21 Nov 1993",Novelist
+,226,234,233,"Sun 14 Nov 1993","British actor"
+,227,235,234,"Sun 07 Nov 1993",Novelist
+,228,236,235,"Sun 10 Oct 1993","Opera singer - soprano"
+,229,237,236,"Sun 03 Oct 1993","Health Secretary, Politician - Conservative"
+,230,238,237,"Sun 12 Sep 1993",Novelist
+,231,239,238,"Sun 20 Jun 1993","Campaigner, Singer, Songwriter"
+,232,240,239,"Sun 13 Jun 1993","Speaker of the House of Commons, Politician - Labour"
+,233,241,240,"Sun 30 May 1993",Publisher
+,234,242,241,"Sun 16 May 1993","General of the Salvation Army"
+,235,129,242,"Sun 25 Apr 1993","Academic, Politician - Labour"
+,236,243,243,"Sun 24 Jan 1993",Percussionist
+,237,244,244,"Sun 17 Jan 1993","Writer, Cyclist"
+,238,245,245,"Sun 10 Jan 1993","Director of Public Prosecutions, Lawyer"
+,239,246,246,"Sun 03 Jan 1993",Poet
+,240,247,247,"Sun 06 Dec 1992","Publisher, Writer, Critic"
+,241,17,248,"Sun 08 Nov 1992",Writer
+,242,248,80,"Sun 18 Oct 1992","Oscar winning actor and singer"
+,242,248,80,"Mon 03 Feb 1964","Oscar winning actor"
+,243,249,249,"Sun 04 Oct 1992","British actor"
+,244,250,89,"Sun 13 Sep 1992","Psychologist, Writer, Child expert"
+,245,251,80,"Sun 05 Jul 1992","Politician - Labour"
+,246,149,250,"Sun 28 Jun 1992","Fashion designer"
+,247,252,251,"Sun 31 May 1992","Fawlty Towers actor"
+,248,253,252,"Sun 03 May 1992","Horse breeder, Landowner"
+,249,254,253,"Sun 22 Mar 1992","Author, Historian"
+,250,255,254,"Sun 08 Dec 1991","Adrian Mole author"
+,251,256,255,"Sun 24 Nov 1991","Film critic"
+,251,1,237,"Mon 21 Jan 1957","Film critic, Writer"
+,252,257,256,"Sun 20 Oct 1991","Director of the V  A"
+,253,258,257,"Sun 08 Sep 1991","Booker prize winning novelist"
+,254,149,258,"Sun 16 Jun 1991","Novelist , Critic"
+,255,259,259,"Sun 28 Apr 1991","Former leader of Westminster City Council, Politician - Conservative"
+,256,260,260,"Sun 24 Mar 1991","Actor, Musician"
+,256,261,261,"Sat 10 Nov 1979","Actor, Musician, Comedian"
+,257,262,262,"Sun 17 Feb 1991","Ballet mistress"
+,257,263,105,"Mon 04 Jul 1966","Prima ballerina"
+,258,264,263,"Sun 13 Jan 1991","Jazz singer"
+,258,265,264,"Sat 02 Dec 1972","Actor, Jazz singer"
+,259,266,265,"Sun 25 Nov 1990","Politician - Conservative, Campaigner"
+,260,267,266,"Sun 18 Nov 1990",Singer
+,260,1,1,"Tue 26 Feb 1952","Actor, Singer"
+,261,268,267,"Sun 11 Nov 1990","Former Transport Minister, Politician - Labour"
+,262,269,268,"Sun 23 Sep 1990",Actor
+,262,270,269,"Sat 13 Jun 1970","Carry on actor"
+,263,271,270,"Sun 16 Sep 1990","Academic, Sex therapist , Broadcaster"
+,264,17,271,"Sun 09 Sep 1990","Former Private Secretary to the Queen"
+,265,272,272,"Sun 15 Jul 1990","Journalist, Columnist"
+,266,273,273,"Sun 10 Jun 1990","Writer, Novelist"
+,267,274,274,"Sun 13 May 1990",Writer
+,268,275,275,"Sun 06 May 1990","Chef, Businessman, Restaurateur"
+,269,276,276,"Sun 29 Apr 1990","British comedy actor"
+,269,277,277,"Sat 18 Aug 1973","British comedy actor"
+,270,278,278,"Sun 22 Apr 1990",Novelist
+,271,279,182,"Sun 04 Feb 1990","British actor"
+,272,276,279,"Sun 24 Dec 1989","Member of the Royal Family"
+,273,280,280,"Sun 17 Dec 1989","Shirley Valentine actor"
+,274,281,281,"Sun 26 Nov 1989","Mitford sister, married to Sir Oswald Mosley"
+,275,282,182,"Sun 01 Oct 1989",Photographer
+,276,283,282,"Sun 17 Sep 1989","Booker prize winning novelist"
+,277,284,283,"Sun 03 Sep 1989","Forces sweetheart singer"
+,277,1,284,"Tue 18 Dec 1951","Forces singer"
+,278,285,285,"Sun 25 Jun 1989","Dynasty actor"
+,278,286,214,"Mon 27 Nov 1961","Hollywood film star"
+,279,287,286,"Sun 18 Jun 1989","Actor, Writer"
+,280,288,287,"Sun 21 May 1989","Fashion designer"
+,281,289,288,"Sun 14 May 1989","British character actor"
+,281,290,289,"Mon 15 Jul 1968","British actor"
+,282,291,290,"Sun 30 Apr 1989",Actor
+,283,292,291,"Sun 23 Apr 1989","Conservationist, Biologist"
+,284,293,292,"Sun 05 Mar 1989",Gynaecologist
+,285,294,293,"Sun 29 Jan 1989","Singer, Songwriter"
+,286,295,294,"Sun 08 Jan 1989","Model, Singer , Actor"
+,287,296,29,"Sun 04 Dec 1988",Philosopher
+,288,297,295,"Sun 30 Oct 1988","Academic, Campaigner, Writer"
+,289,298,296,"Sun 16 Oct 1988","Presenter, Singer"
+,289,299,297,"Mon 24 Aug 1964","Singer, TV Presenter"
+,290,300,290,"Sun 02 Oct 1988",Actor
+,290,1,298,"Mon 30 Apr 1956","British actor"
+,291,285,299,"Sun 28 Aug 1988","Eastenders actor"
+,292,301,193,"Sun 14 Aug 1988","Oscar winning actor"
+,293,302,300,"Sun 31 Jul 1988",Comedian
+,294,303,301,"Sun 17 Jul 1988",Comedian
+,295,1,302,"Sun 19 Jun 1988","British actor"
+,295,304,303,"Mon 08 Oct 1962",Actor
+,296,305,304,"Sun 22 May 1988","Founder of the Body Shop"
+,297,306,305,"Sun 08 May 1988","Agony aunt"
+,298,149,306,"Sun 17 Apr 1988","Wife of Jeffrey Archer, Scientist"
+,299,295,307,"Sun 03 Apr 1988","Actor , Cookery writer"
+,300,307,308,"Sun 28 Feb 1988","British actor"
+,301,253,309,"Sun 07 Feb 1988",Dancer
+,302,308,310,"Sun 24 Jan 1988","Irish actor"
+,303,309,311,"Sun 10 Jan 1988","Opera singer - soprano"
+,303,310,312,"Mon 11 Oct 1965","Opera singer - soprano"
+,304,311,313,"Sun 08 Nov 1987","Journalist, Broadcaster"
+,305,312,314,"Sun 04 Oct 1987","Actor, Singer"
+,306,313,315,"Sun 06 Sep 1987","Athlete, Tennis player, Lacrosse player, Badminton player"
+,307,314,316,"Sun 16 Aug 1987","British actor"
+,308,1,1,"Sun 02 Aug 1987","Writer, Autobiographer"
+,309,1,1,"Sun 19 Jul 1987","Athlete, Equestrian"
+,310,315,80,"Sun 12 Jul 1987","Actor, Singer"
+,311,37,317,"Sun 15 Mar 1987","British actor"
+,311,1,318,"Mon 23 Jan 1956","British actor"
+,312,316,319,"Sun 25 Jan 1987",Campaigner
+,313,317,320,"Sun 07 Dec 1986",Novelist
+,314,318,80,"Sun 21 Sep 1986","Actor, Singer-songwriter"
+,315,288,125,"Sun 17 Aug 1986","British actor"
+,316,277,321,"Sun 10 Aug 1986","Olympic equestrian"
+,317,217,322,"Sun 29 Jun 1986",Violinist
+,318,319,323,"Sun 30 Mar 1986",Conductor
+,319,320,324,"Sun 23 Feb 1986","Journalist, Presenter"
+,320,321,325,"Sun 19 Jan 1986","Actor, Broadcaster"
+,321,322,326,"Sat 11 May 1985","South African actor"
+,322,323,327,"Sat 06 Apr 1985",Medium
+,323,324,314,"Sat 09 Mar 1985","Academic, Novelist"
+,324,325,328,"Sat 09 Feb 1985",Singer
+,325,326,314,"Sat 02 Feb 1985","British actor"
+,326,115,329,"Sat 26 Jan 1985","Actor, Broadcaster, Cookery writer"
+,327,327,80,"Sat 08 Sep 1984",Novelist
+,328,328,330,"Sat 21 Jul 1984",Ballerina
+,329,329,331,"Sat 05 May 1984","Opera singer - soprano"
+,330,330,332,"Sat 14 Apr 1984","Explorer, Writer"
+,331,331,333,"Sat 28 Jan 1984","Member of the Royal Family"
+,332,229,334,"Sat 07 Jan 1984","Actor, Singer"
+,333,332,335,"Sat 31 Dec 1983",Novelist
+,334,333,336,"Sat 05 Nov 1983","American actor, Singer"
+,335,164,337,"Sat 22 Oct 1983","Opera singer - soprano"
+,336,334,338,"Sat 08 Oct 1983","Actor, Writer"
+,337,335,339,"Sat 01 Oct 1983","Writer, Painter"
+,338,14,54,"Sat 10 Sep 1983","Romantoc novelist"
+,339,336,340,"Sat 18 Jun 1983","Writer, Painter"
+,340,337,341,"Sat 12 Feb 1983","Fashion designer"
+,341,338,342,"Sat 05 Feb 1983","British actor"
+,341,339,343,"Mon 24 Jun 1963","British actor"
+,342,229,344,"Sat 22 Jan 1983","Opera singer - soprano"
+,343,340,345,"Sat 15 Jan 1983","Inspiration for The Sound of Music"
+,344,341,105,"Sat 01 Jan 1983",Writer
+,345,214,105,"Sat 25 Dec 1982","Musical theatre actor"
+,345,1,346,"Fri 17 Sep 1954","American actor, Singer"
+,346,342,347,"Sat 27 Nov 1982","British actor"
+,347,343,348,"Sat 13 Nov 1982",Novelist
+,348,344,349,"Sat 09 Oct 1982","Members of the London Philharmonic Orchestra"
+,349,149,350,"Sat 04 Sep 1982","British screen actor"
+,349,1,1,"Tue 16 Aug 1955","British screen actor"
+,350,345,125,"Sat 07 Aug 1982","Opera singer - mezzo-soprano"
+,350,160,351,"Mon 27 May 1968","Opera singer - mezzo-soprano"
+,351,346,352,"Sat 17 Jul 1982","Not the Nine O'Clock News performer"
+,352,347,105,"Sat 05 Jun 1982","Cookery writer"
+,353,348,80,"Sat 22 May 1982","Actor, Singer"
+,354,93,353,"Sat 08 May 1982","Opera singer - soprano"
+,355,349,354,"Sat 01 May 1982","Railway Children actor"
+,356,350,293,"Sat 24 Apr 1982","Historical novelist"
+,357,351,340,"Sat 10 Apr 1982","British actor"
+,358,352,355,"Sat 06 Mar 1982","Opera singer - soprano"
+,358,1,356,"Mon 16 Jul 1956","Opera singer - soprano"
+,359,14,357,"Sat 16 Jan 1982","Television broadcaster"
+,360,353,358,"Sat 19 Dec 1981","American author"
+,361,354,359,"Sat 21 Nov 1981","50s Hollywod film star"
+,361,164,105,"Mon 21 Aug 1961","50s Hollywood film star"
+,362,355,360,"Sat 17 Oct 1981",Writer
+,363,356,361,"Sat 12 Sep 1981","Opera singer - soprano"
+,364,357,362,"Sat 11 Jul 1981","Director, Choreographer"
+,365,229,314,"Sat 04 Jul 1981","American silent film actor"
+,366,358,319,"Sat 18 Apr 1981","Member of Monaco Royal Family, Actor"
+,367,160,363,"Sat 28 Mar 1981",Ballerina
+,368,359,364,"Sat 28 Feb 1981","Writer, Comedian"
+,369,160,365,"Sat 07 Feb 1981",Singer
+,370,17,80,"Sat 17 Jan 1981","Member of the Royal Family"
+,371,360,366,"Sat 15 Nov 1980","Writer, Archaeologist"
+,372,361,80,"Sat 25 Oct 1980",Novelist
+,373,362,367,"Sat 27 Sep 1980","Novelist, TV writer"
+,374,363,368,"Sat 30 Aug 1980","Opera singer - soprano"
+,375,364,369,"Sat 28 Jun 1980","Broadcaster, Dog trainer"
+,376,365,80,"Sat 10 May 1980","American actor"
+,377,366,370,"Sat 05 Apr 1980","Salvation Army commissioner"
+,378,367,279,"Sat 22 Mar 1980",Horticulturalist
+,379,17,371,"Sat 08 Mar 1980","Opera singer - soprano"
+,380,368,125,"Sat 01 Mar 1980","British actor"
+,381,369,372,"Sat 29 Dec 1979",Violinist
+,382,370,299,"Sat 08 Dec 1979","Opera singer - soprano"
+,383,371,373,"Sat 13 Oct 1979","Musician, Soprano"
+,384,372,374,"Sat 29 Sep 1979","Poet, Entertainer"
+,385,373,375,"Sat 08 Sep 1979","Portrait painter"
+,386,374,376,"Sat 28 Jul 1979",Pianist
+,386,149,377,"Mon 07 Oct 1957","Concert pianist"
+,387,283,105,"Sat 21 Apr 1979","American novelist"
+,388,375,378,"Sat 17 Mar 1979","Opera singer - soprano"
+,389,376,379,"Sat 03 Mar 1979","Hollywood film star"
+,390,377,314,"Sat 24 Feb 1979",Singer
+,391,378,380,"Sat 25 Nov 1978","Oscar winning actor"
+,392,367,381,"Sat 16 Sep 1978","Opera singer - mezzo-soprano"
+,393,1,382,"Sat 12 Aug 1978","South African actor"
+,394,219,383,"Sat 29 Jul 1978",Novelist
+,395,379,384,"Sat 22 Jul 1978","Chairwoman of the Women's Institute"
+,396,380,340,"Sat 15 Jul 1978","Opera singer - soprano"
+,397,381,54,"Sat 08 Jul 1978","Cookery writer"
+,398,382,385,"Sat 24 Jun 1978","Novelist, Historian"
+,399,383,386,"Sat 03 Jun 1978","Opera singer - soprano"
+,400,384,387,"Sat 27 May 1978","Agony aunt, Broadcaster"
+,401,385,128,"Sat 01 Apr 1978","Good Life actor"
+,402,367,388,"Sat 18 Feb 1978","Leader of the Opposition (became Prime Minister in 1979), Politician - Conservative"
+,403,349,54,"Sat 31 Dec 1977","Children's writer"
+,404,386,389,"Sat 22 Oct 1977","Writer, Agony aunt"
+,405,387,390,"Sat 08 Oct 1977","British actor"
+,406,321,391,"Sat 03 Sep 1977",Novelist
+,407,297,392,"Sat 20 Aug 1977","Oscar winning actor"
+,407,1,1,"Sat 17 Nov 1945",Actor
+,408,388,393,"Sat 06 Aug 1977","Mitford sister, Writer"
+,409,389,394,"Sat 16 Jul 1977","Author of Superwomen"
+,410,390,395,"Sat 09 Jul 1977","Sailor, Journalist"
+,411,391,396,"Sat 02 Jul 1977",Novelist
+,412,392,340,"Sat 11 Jun 1977","Opera singer - soprano"
+,413,393,397,"Sat 28 May 1977",Harpist
+,414,394,398,"Sat 21 May 1977","Creator of Mary Poppins"
+,415,395,399,"Sat 14 May 1977",Singer
+,416,396,400,"Sat 26 Mar 1977","American actor, Musician"
+,417,397,125,"Sat 19 Mar 1977",Cellist
+,418,398,80,"Sat 26 Feb 1977","Prima ballerina"
+,419,324,401,"Sat 11 Dec 1976","Actor, Musician, Singer"
+,420,363,80,"Sat 20 Nov 1976","Opera singer - soprano"
+,421,149,402,"Sat 21 Aug 1976","Good Life actor"
+,422,279,373,"Sat 24 Apr 1976","Actor, Singer"
+,423,399,403,"Sat 03 Apr 1976","British actor"
+,424,256,404,"Sat 20 Mar 1976","Lady Astor's lady's maid, Writer"
+,425,379,405,"Sat 07 Feb 1976",Ballerina
+,426,400,406,"Sat 03 Jan 1976","British actor"
+,427,401,128,"Sat 13 Dec 1975","Opera singer - soprano"
+,428,400,80,"Sat 11 Oct 1975","On The Buses actor"
+,429,156,407,"Sat 13 Sep 1975","Television presenter"
+,430,402,408,"Sat 09 Aug 1975","Oscar winning actor"
+,431,403,409,"Sat 05 Jul 1975",Painter
+,432,404,196,"Sat 19 Apr 1975","British comedy actor"
+,433,405,410,"Sat 08 Mar 1975","Writer, Journalist"
+,434,367,411,"Sat 22 Feb 1975","Opera singer - soprano"
+,435,406,412,"Sat 01 Feb 1975","Brief Encounter actor"
+,435,407,413,"Thu 18 Nov 1954","Brief Encounter actor"
+,435,1,1,"Sat 27 Oct 1945",Actor
+,436,299,414,"Sat 21 Dec 1974","Upstairs, Downstairs actor"
+,437,408,415,"Sat 14 Dec 1974","Jennifer's Diary columnist"
+,438,409,416,"Sat 09 Nov 1974",Sculptor
+,439,410,417,"Sat 19 Oct 1974","Liver Birds actor"
+,440,411,418,"Sat 31 Aug 1974",Ornithologist
+,441,385,419,"Sat 24 Aug 1974",Actor
+,442,412,420,"Sat 27 Jul 1974","Blue Peter presenter"
+,443,413,299,"Sat 11 May 1974","Prima ballerina"
+,444,414,105,"Sat 09 Mar 1974","Physical exercise instructor"
+,445,415,421,"Sat 02 Mar 1974","Irish actor"
+,446,416,422,"Sat 02 Feb 1974","British actor"
+,446,1,423,"Tue 13 May 1952","British actor"
+,447,417,424,"Sat 29 Dec 1973",Pianist
+,448,297,425,"Sat 01 Dec 1973","Critic, Novelist"
+,449,188,426,"Sat 06 Oct 1973","Olympic gold athlete"
+,450,418,427,"Sat 22 Sep 1973","Opera singer - soprano"
+,451,324,428,"Sat 08 Sep 1973","British actor"
+,452,419,105,"Sat 30 Jun 1973","British actor"
+,453,420,196,"Sat 02 Jun 1973","Doctor, Politician - Labour"
+,454,421,429,"Sat 28 Apr 1973","Opera singer - mezzo-soprano"
+,455,422,430,"Sat 07 Apr 1973",Organist
+,456,423,431,"Sat 24 Mar 1973","British actor"
+,457,424,432,"Sat 10 Mar 1973",Historian
+,458,425,433,"Sat 10 Feb 1973","Opera singer - soprano"
+,459,292,434,"Sat 20 Jan 1973","Romantic Novelist"
+,460,426,314,"Sat 18 Nov 1972","Opera singer - soprano"
+,461,292,435,"Sat 11 Nov 1972","Oscar winning actor"
+,462,427,436,"Sat 28 Oct 1972","Conductor, Musicologist"
+,463,292,80,"Sat 16 Sep 1972","British actor"
+,463,1,1,"Wed 25 Apr 1951","The Lady Vanishes actor"
+,464,282,437,"Sat 24 Jun 1972","Historian, Novelist"
+,465,391,438,"Sat 15 Apr 1972","British actor"
+,466,367,439,"Sat 18 Mar 1972","Opera singer - soprano"
+,467,57,299,"Sat 12 Feb 1972","French actor"
+,468,428,105,"Sat 01 Jan 1972","Archers actor"
+,469,429,440,"Sat 18 Dec 1971","Set designer"
+,470,430,441,"Sat 11 Dec 1971","American actor"
+,470,1,1,"Sat 05 Jan 1946",Actor
+,471,160,442,"Sat 13 Nov 1971",Sailor
+,472,431,443,"Sat 23 Oct 1971","Dame of Sark"
+,473,432,444,"Sat 02 Oct 1971","Actor, Singer"
+,474,149,54,"Sat 25 Sep 1971","Woman's Hour broadcaster"
+,475,345,445,"Sat 04 Sep 1971","Oscar winning actor"
+,476,433,446,"Sat 21 Aug 1971","Licensee of the Theatre Royal"
+,477,324,80,"Sat 12 Jun 1971","Tennis player"
+,478,434,105,"Sat 22 May 1971","Actor, Comedian"
+,478,1,1,"Wed 08 Aug 1951","Actor, Comedian, Singer-songwriter"
+,479,428,447,"Sat 01 May 1971","British actor"
+,480,435,434,"Sat 17 Apr 1971",Pianist
+,481,436,448,"Sat 27 Mar 1971","Pop singer"
+,482,437,449,"Sat 20 Feb 1971","British actor"
+,483,438,80,"Sat 23 Jan 1971","Opera singer - soprano"
+,484,439,450,"Sat 28 Nov 1970","British actor"
+,485,74,451,"Sat 14 Nov 1970","Below Stairs author"
+,486,440,415,"Sat 31 Oct 1970","Red cross worker"
+,487,441,452,"Sat 17 Oct 1970","Opera singer - soprano"
+,488,442,453,"Sat 10 Oct 1970",Actor
+,489,443,454,"Sat 03 Oct 1970","Musician, Soprano, Opera singer"
+,490,444,455,"Sat 12 Sep 1970","Opera singer - contralto"
+,491,445,456,"Sat 05 Sep 1970","British actor"
+,492,446,457,"Sat 22 Aug 1970","Explorer, Travel writer"
+,493,297,193,"Sat 25 Jul 1970","Opera singer - soprano"
+,493,1,1,"Wed 14 Mar 1951","Opera singer - soprano"
+,494,447,447,"Sat 11 Jul 1970","Romantic novelist"
+,495,367,105,"Sat 20 Jun 1970","Actor, Violinist"
+,496,397,105,"Sat 06 Jun 1970",Novelist
+,496,1,1,"Wed 10 Jan 1951",Novelist
+,497,448,80,"Sat 02 May 1970","Opera singer - soprano"
+,498,449,458,"Sat 28 Mar 1970","New Zealand actor"
+,499,450,459,"Sat 21 Mar 1970","Badminton singles champion"
+,500,451,293,"Sat 28 Feb 1970","Opera singer - soprano"
+,500,1,408,"Tue 02 Aug 1955","Oratorio singer - soprano"
+,501,452,80,"Sat 07 Feb 1970",Conductor
+,502,453,460,"Sat 13 Dec 1969",Singer
+,503,454,299,"Sat 29 Nov 1969",Athlete
+,504,455,461,"Sat 22 Nov 1969","Opera singer - soprano"
+,505,214,105,"Sat 08 Nov 1969",Oboist
+,506,456,462,"Sat 04 Oct 1969","Actor, Writer"
+,507,457,463,"Mon 25 Aug 1969",Novelist
+,508,337,464,"Mon 18 Aug 1969","British actor"
+,508,1,465,"Tue 11 Mar 1952","British actor"
+,509,458,466,"Mon 28 Jul 1969","Women's test cricket team captain"
+,510,459,467,"Mon 23 Jun 1969","British actor"
+,510,1,299,"Fri 05 Nov 1954","Actor, Musician"
+,511,460,468,"Mon 26 May 1969",Actor
+,512,337,469,"Mon 19 May 1969","Tennis player"
+,513,17,470,"Mon 28 Apr 1969",Pianist
+,514,290,471,"Mon 14 Apr 1969","Comedian, Impersonator"
+,515,461,128,"Mon 31 Mar 1969","British actor"
+,516,462,472,"Mon 24 Mar 1969","Actor, Writer"
+,517,119,473,"Mon 10 Mar 1969","Wife of Prime Minister, Poet"
+,518,310,277,"Mon 03 Mar 1969","Chef, Cookery expert"
+,519,426,118,"Wed 12 Feb 1969","Music hall and television actor"
+,520,463,474,"Mon 27 Jan 1969","Australian actor, singer"
+,521,214,475,"Mon 06 Jan 1969","Opera singer - soprano"
+,522,464,316,"Wed 25 Dec 1968","Weather forecaster"
+,523,465,128,"Mon 21 Oct 1968","British actor"
+,524,466,367,"Mon 16 Sep 1968","Trade union official"
+,525,164,476,"Mon 02 Sep 1968","Crime writer"
+,526,467,477,"Mon 26 Aug 1968","French actor"
+,527,468,478,"Mon 24 Jun 1968","British actor"
+,528,1,1,"Mon 15 Apr 1968","Opera singer - soprano"
+,528,1,1,"Wed 30 May 1951","Opera singer - soprano"
+,529,469,479,"Mon 04 Mar 1968","British actor"
+,530,470,480,"Mon 12 Feb 1968","Opera singer - mezzo-soprano"
+,531,17,481,"Mon 05 Feb 1968","British actor"
+,532,321,316,"Mon 01 Jan 1968","First lady President of the Cambridge Union"
+,533,164,277,"Sat 23 Dec 1967","British actor"
+,533,1,482,"Tue 22 Jul 1952","British actor"
+,534,471,483,"Mon 20 Nov 1967","American actor"
+,535,472,484,"Mon 25 Sep 1967","Broadcaster, Producer"
+,536,473,128,"Mon 07 Aug 1967",Actor
+,537,474,485,"Mon 31 Jul 1967","Owner of a marriage bureau, Businesswoman"
+,538,214,486,"Mon 12 Jun 1967","Horticulturalist, Editor"
+,539,475,487,"Mon 05 Jun 1967",Actor
+,540,476,488,"Mon 06 Feb 1967","British actor"
+,541,477,489,"Mon 16 Jan 1967",Pilot
+,542,478,490,"Mon 02 Jan 1967",Journalist
+,543,160,491,"Sat 24 Dec 1966","Matron of Great Ormond Street Hospital"
+,544,479,492,"Mon 21 Nov 1966","British actor"
+,545,480,493,"Mon 19 Sep 1966","British actor"
+,546,481,468,"Mon 18 Jul 1966","Opera singer - soprano"
+,547,417,340,"Mon 20 Jun 1966","German actor"
+,548,335,494,"Mon 23 May 1966","Retired matron"
+,549,482,480,"Mon 28 Mar 1966",Painter
+,550,483,495,"Mon 21 Feb 1966","Opera singer - soprano"
+,551,484,496,"Mon 10 Jan 1966",Poet
+,552,485,497,"Mon 03 Jan 1966","Expert on prehistoric animals"
+,553,486,498,"Mon 22 Nov 1965","Cabaret singer"
+,554,395,299,"Mon 08 Nov 1965","Opera singer - soprano"
+,555,487,499,"Mon 18 Oct 1965","Prima ballerina"
+,556,385,500,"Mon 20 Sep 1965","British actor"
+,557,488,501,"Mon 26 Jul 1965","Actor, Jazz singer"
+,558,489,415,"Mon 05 Jul 1965","Teacher, Social worker, Broadcaster"
+,559,490,502,"Mon 21 Jun 1965","Paris fashion house director"
+,560,16,105,"Mon 10 May 1965","Oscar winning child actor"
+,561,491,503,"Mon 12 Apr 1965","Prima ballerina"
+,562,492,105,"Mon 15 Feb 1965","Author, Journalist, Scriptwriter"
+,563,493,105,"Mon 11 Jan 1965","British film actor"
+,564,494,504,"Mon 04 Jan 1965","Hollywood film star"
+,565,495,505,"Mon 21 Dec 1964","Matron of Westminster Hospital"
+,566,496,506,"Mon 14 Dec 1964","Hollywood film star"
+,567,497,373,"Mon 16 Nov 1964","Avengers and Bond actor"
+,568,341,507,"Mon 13 Jul 1964","British theatre actor"
+,569,434,508,"Mon 18 May 1964","British actor"
+,570,498,509,"Mon 27 Jan 1964","Opera singer - soprano"
+,571,499,105,"Mon 06 Jan 1964",Comedian
+,572,500,316,"Mon 09 Dec 1963","That Was The Week That Was singer"
+,573,501,510,"Mon 04 Nov 1963","American actor"
+,574,502,299,"Mon 14 Oct 1963","Showjumper, Rally driver"
+,575,503,511,"Mon 02 Sep 1963","Singer, Actor"
+,576,299,340,"Mon 22 Jul 1963",Photographer
+,577,504,105,"Mon 08 Jul 1963","Actor, Cabaret singer"
+,578,377,340,"Mon 10 Jun 1963","Hungarian actor"
+,579,310,512,"Mon 27 May 1963","Opera singer - soprano"
+,580,465,513,"Mon 22 Apr 1963","Writer, Agony aunt, Columnist"
+,581,505,80,"Mon 07 Jan 1963",Singer
+,582,292,514,"Mon 03 Dec 1962","Musician, Comedian"
+,583,149,515,"Mon 29 Oct 1962","Novelist, Broadcaster"
+,584,506,415,"Mon 20 Aug 1962","American musical actor"
+,585,507,340,"Mon 02 Jul 1962",Broadcaster
+,586,31,516,"Mon 30 Apr 1962","Businesswoman, Bookseller"
+,587,508,125,"Mon 05 Mar 1962","British actor"
+,588,292,517,"Mon 05 Feb 1962","Pianist, Singer"
+,589,509,518,"Mon 25 Dec 1961","Actor, Comedian, Singer"
+,589,1,1,"Wed 13 Jun 1951","Actor, Comedian, Singer"
+,590,232,519,"Mon 16 Oct 1961","Carry On and ITMA comedian, Actor"
+,591,510,520,"Mon 11 Sep 1961","Australian actor"
+,592,511,105,"Mon 31 Jul 1961","British actor"
+,593,512,521,"Mon 10 Jul 1961","British actor"
+,594,513,289,"Mon 26 Jun 1961","Tennis player"
+,595,514,80,"Mon 10 Apr 1961","British Shakespearean actor"
+,596,515,522,"Mon 27 Feb 1961","Opera singer - soprano"
+,597,516,523,"Mon 06 Feb 1961","British actor"
+,598,517,524,"Mon 16 Jan 1961","Pop singers"
+,599,518,415,"Mon 05 Dec 1960","Opera singer - soprano"
+,600,519,105,"Mon 14 Nov 1960","Novelist, Journalist"
+,601,520,340,"Mon 03 Oct 1960","Australian actor"
+,602,521,525,"Mon 12 Sep 1960","Actor, Radio personality"
+,603,292,467,"Mon 22 Aug 1960","Actor, Singer"
+,604,522,105,"Mon 30 May 1960","Ballet dancer"
+,605,217,465,"Mon 09 May 1960",Singer
+,606,523,340,"Mon 18 Apr 1960","British actor"
+,607,228,526,"Mon 25 Jan 1960","Writer, Broadcaster"
+,608,437,527,"Mon 18 Jan 1960","Actor, Comedian"
+,609,524,299,"Mon 23 Nov 1959","Opera singer - soprano"
+,610,525,80,"Mon 21 Sep 1959","Pianist, Violinist, Composer"
+,611,526,346,"Mon 17 Aug 1959","Silent film actor"
+,612,527,528,"Mon 06 Jul 1959","British character actor"
+,613,417,529,"Mon 22 Jun 1959","Opera singer - soprano"
+,614,528,530,"Mon 18 May 1959","Journalist, Novelist"
+,615,529,531,"Mon 27 Apr 1959","Actor, Singer"
+,616,530,532,"Mon 06 Apr 1959","Ice Cold in Alex actor"
+,617,17,54,"Mon 09 Mar 1959","Olympic gold swimmer"
+,618,1,533,"Mon 02 Feb 1959","British actor"
+,619,1,534,"Mon 17 Nov 1958","British 100 metre runner"
+,620,531,406,"Mon 10 Nov 1958","Opera singer - mezzo-soprano"
+,621,1,408,"Mon 20 Oct 1958","Actor, Singer"
+,622,532,522,"Mon 28 Jul 1958","Opera singer - soprano"
+,623,1,485,"Mon 30 Jun 1958","American jazz singer"
+,624,1,427,"Mon 09 Jun 1958","Actor, Novelist, Biographer"
+,625,348,128,"Mon 19 May 1958","Opera singer - soprano"
+,626,533,128,"Mon 28 Apr 1958","British actor"
+,627,1,535,"Mon 24 Mar 1958","British character actor"
+,628,1,406,"Mon 24 Feb 1958","British actor and Brains Trust contributor"
+,629,1,536,"Mon 06 Jan 1958","Dancer, Choreographer, Actor"
+,630,1,367,"Mon 02 Dec 1957","Dancer, Actor, Ballerina"
+,631,1,537,"Mon 18 Nov 1957","Opera singer - soprano"
+,632,1,538,"Mon 28 Oct 1957","British actor"
+,633,1,539,"Mon 16 Sep 1957","Film critic"
+,633,1,1,"Mon 26 Jul 1943",Critic
+,634,1,540,"Mon 02 Sep 1957",Singer
+,635,1,541,"Mon 29 Jul 1957","BBC commentator"
+,636,1,542,"Mon 22 Jul 1957","Opera singer - mezzo-soprano"
+,637,1,543,"Mon 08 Jul 1957","Prima ballerina"
+,638,1,544,"Mon 29 Apr 1957","Opera singer - soprano"
+,639,1,118,"Mon 08 Apr 1957","Actor, Comedian"
+,639,1,1,"Wed 11 Jul 1951","Actor, Comedian"
+,640,156,545,"Mon 11 Mar 1957",Novelist
+,641,1,546,"Mon 11 Feb 1957","British actor"
+,642,1,484,"Mon 28 Jan 1957","Music Hall star"
+,643,1,547,"Mon 24 Dec 1956","British child actor"
+,644,1,132,"Mon 29 Oct 1956","Radio broadcaster"
+,645,1,419,"Mon 08 Oct 1956",Singer
+,646,1,548,"Mon 17 Sep 1956","Broadcaster, BBC gramophone librarian"
+,647,1,549,"Mon 30 Jul 1956",Singer
+,648,1,550,"Mon 02 Jul 1956","French actor, Dancer"
+,649,534,1,"Mon 18 Jun 1956","Actor, Singer"
+,650,1,551,"Mon 14 May 1956","Opera singer"
+,651,535,408,"Mon 16 Apr 1956","Singer, Actress"
+,652,1,54,"Mon 02 Apr 1956","Silent film star"
+,653,292,552,"Mon 19 Mar 1956",Actor
+,654,536,1,"Mon 05 Mar 1956",Journalist
+,655,1,80,"Mon 31 Oct 1955","American actor"
+,656,1,553,"Mon 24 Oct 1955",Harpist
+,657,1,554,"Tue 06 Sep 1955","Concert pianist"
+,657,1,1,"Sat 01 Dec 1945","Musician, Pianist"
+,658,1,555,"Tue 19 Jul 1955","British film actor"
+,659,1,556,"Thu 19 May 1955","Actor, Broadcaster"
+,660,1,557,"Thu 10 Mar 1955","British actor"
+,660,1,1,"Thu 26 Feb 1942",Actor
+,661,1,293,"Thu 03 Mar 1955",Showjumper
+,662,1,558,"Thu 20 Jan 1955",Pianist
+,663,1,80,"Thu 06 Jan 1955",Actor
+,664,1,447,"Thu 23 Dec 1954","Principal boy"
+,665,1,559,"Thu 16 Dec 1954","British actor"
+,666,1,500,"Fri 22 Oct 1954",Actor
+,666,1,1,"Sat 03 Nov 1945",Actor
+,667,1,128,"Fri 01 Oct 1954","Comedian, Musician"
+,668,1,560,"Fri 24 Sep 1954","Piccadilly shoeblack"
+,669,1,561,"Fri 11 Sep 1953","Film actor"
+,670,537,447,"Fri 07 Aug 1953","Theatre actor"
+,671,1,562,"Fri 10 Jul 1953","British actor"
+,672,1,563,"Thu 02 Jul 1953","Actor, Opera singer - soprano"
+,673,538,1,"Fri 29 May 1953","Actor, Writer"
+,674,1,564,"Fri 24 Apr 1953",Actor
+,675,539,1,"Fri 10 Apr 1953","American actor"
+,676,407,293,"Fri 27 Mar 1953","South African actor"
+,677,1,554,"Fri 13 Mar 1953","British actor"
+,678,1,552,"Fri 27 Feb 1953","British actor"
+,679,1,458,"Fri 13 Feb 1953","Comedian, Actor"
+,680,1,565,"Fri 09 Jan 1953","British character actor"
+,681,1,566,"Fri 19 Dec 1952","Take it from Here comedy actor"
+,682,1,567,"Fri 21 Nov 1952","Music Hall actor"
+,683,1,466,"Fri 07 Nov 1952",Singer
+,684,1,183,"Fri 24 Oct 1952","British actor , Singer, Impersonator"
+,685,1,568,"Fri 17 Oct 1952","Radio presenter"
+,686,1,80,"Fri 10 Oct 1952","Comedian, Actor, Musician"
+,687,1,569,"Tue 23 Sep 1952",Pianist
+,688,1,80,"Tue 09 Sep 1952","Gone With the Wind actor"
+,689,540,570,"Tue 26 Aug 1952","Musician, Singer"
+,690,1,571,"Tue 05 Aug 1952","British actor"
+,691,1,80,"Tue 24 Jun 1952","Actor, Singer"
+,692,1,572,"Tue 10 Jun 1952","British actor"
+,693,1,1,"Tue 27 May 1952","Actor, Singer"
+,694,1,452,"Tue 29 Apr 1952","Opera singer - soprano"
+,695,1,573,"Tue 15 Apr 1952","Folk singer"
+,696,1,408,"Wed 26 Mar 1952","British actor"
+,697,1,574,"Tue 29 Jan 1952",Actor
+,698,1,575,"Tue 15 Jan 1952",Actor
+,699,1,1,"Tue 04 Dec 1951","Opera singer - soprano"
+,700,411,1,"Tue 27 Nov 1951","British character actor"
+,701,1,576,"Tue 13 Nov 1951","British actor"
+,702,1,1,"Tue 02 Oct 1951","Swedish actor"
+,703,1,577,"Tue 18 Sep 1951","British actor"
+,704,1,1,"Wed 05 Sep 1951","British actor"
+,705,1,1,"Wed 22 Aug 1951","British actor"
+,706,1,1,"Wed 25 Jul 1951","British film actor"
+,707,1,1,"Wed 23 May 1951","British actor"
+,708,1,1,"Wed 04 Apr 1951","Australian actor"
+,709,1,1,"Wed 28 Feb 1951",Actor
+,710,1,1,"Wed 14 Feb 1951","American actor"
+,711,1,1,"Wed 24 Jan 1951","Actor, Musician, Concert pianist"
+,712,1,1,"Sat 29 Dec 1945",Actor
+,713,1,1,"Sat 22 Dec 1945",Actor
+,714,1,1,"Sat 13 Oct 1945",Actor
+,715,1,1,"Sat 29 Sep 1945","Broadcaster, Radio presenter"
+,716,1,1,"Sat 01 Sep 1945","Broadcaster, Announcer"
+,717,1,1,"Mon 20 Mar 1944",Writer
+,718,1,1,"Sat 29 Jan 1944",Writer
+,719,1,1,"Tue 23 Nov 1943",Journalist
+,720,1,1,"Tue 05 Oct 1943",Writer
+,721,1,1,"Sat 26 Jun 1943","Politician - Conservative, MP"
+,722,1,1,"Thu 09 Jul 1942",Actor
+,723,1,1,"Thu 19 Mar 1942","Fashion, Glamour girl"
+,724,541,29,"Sun 20 May 2012","Writer, Historian"
+,725,542,578,"Sun 06 May 2012","Musician, composer, comedian"
+,726,543,579,"Sun 25 Mar 2012","Jazz musician"
+,727,544,580,"Sun 11 Mar 2012",Comedian
+,728,545,581,"Sun 26 Feb 2012","Rugby player"
+,729,546,582,"Sun 19 Feb 2012","Former Deputy Prime Minister  , Politician - Labour"
+,730,547,583,"Sun 12 Feb 2012","Actor and Writer"
+,731,548,583,"Sun 29 Jan 2012","Naturalist, broadcaster"
+,731,549,293,"Fri 25 Dec 1998","Naturalist, Broadcaster"
+,731,550,282,"Sat 10 Mar 1979","Naturalist, Broadcaster, Zoologist"
+,731,1,80,"Mon 06 May 1957","Naturalist, Broadcaster"
+,732,551,584,"Sun 22 Jan 2012",Writer
+,733,552,585,"Sun 15 Jan 2012","Writer and Historian"
+,734,17,586,"Sun 01 Jan 2012","Radio and television broadcaster"
+,734,553,587,"Sun 09 Oct 1988","Radio and television broadcaster"
+,734,554,588,"Sat 21 May 1983","Radio and television broadcaster"
+,735,555,589,"Fri 30 Dec 2011",Scientist
+,736,556,590,"Sun 18 Dec 2011","Actor and award-winning screenwriter"
+,737,557,591,"Sun 04 Dec 2011",Businessman
+,738,558,592,"Sun 27 Nov 2011",Adventurer
+,739,559,593,"Sun 20 Nov 2011",Actor
+,739,560,594,"Sat 22 Apr 1978","British actor"
+,740,561,595,"Sun 30 Oct 2011","Head of Turning Point charity"
+,741,562,596,"Sun 23 Oct 2011",Actor
+,742,563,597,"Sun 16 Oct 2011","Athlete, Olympic Gold Medal Winner"
+,743,564,598,"Sun 09 Oct 2011",Hairdresser
+,743,565,599,"Sat 27 Jun 1970","Hair stylist"
+,744,566,600,"Sun 25 Sep 2011","Royal photographer"
+,745,567,601,"Sun 18 Sep 2011",Actor
+,746,568,602,"Sun 31 Jul 2011",Broadcaster
+,747,569,1,"Sun 17 Jul 2011",Comedian
+,748,570,35,"Sun 10 Jul 2011","Crossword compiler"
+,749,129,603,"Sun 03 Jul 2011","Actor, TV Presenter"
+,750,21,604,"Sun 19 Jun 2011","International dance judge"
+,751,571,605,"Sun 05 Jun 2011","Singer, Tenor"
+,752,572,606,"Sun 29 May 2011",Musician
+,753,573,607,"Sun 15 May 2011","Actor, Playwright"
+,754,17,608,"Sun 01 May 2011",Chemist
+,755,322,609,"Sun 10 Apr 2011","Animator, Film Director"
+,756,153,610,"Sun 03 Apr 2011","Hollywood film star"
+,757,574,611,"Sun 20 Feb 2011","Rugby player"
+,758,575,612,"Sun 06 Feb 2011",Novelist
+,759,576,613,"Sun 30 Jan 2011","Journalist, Broadcaster"
+,760,577,614,"Sun 16 Jan 2011","Scottish First Minister, Leader of Scottish National Party, Politician - SNP"
+,761,578,480,"Sun 09 Jan 2011","Former MP, Writer"
+,762,579,615,"Sun 02 Jan 2011","Veteran RAF pilot"
+,763,580,616,"Sun 19 Dec 2010",Animator
+,764,581,617,"Sun 12 Dec 2010","Aviator, Inventor, Arts patron"
+,765,582,618,"Sun 28 Nov 2010",Novelist
+,766,583,619,"Sun 21 Nov 2010","Rock musician"
+,767,584,620,"Sun 07 Nov 2010","Stand up poet"
+,768,585,621,"Sun 31 Oct 2010",Pianist
+,769,26,622,"Sun 24 Oct 2010","Deputy Prime Minister, Politician - Liberal Democrat"
+,770,586,623,"Sun 17 Oct 2010",Barrister
+,771,587,624,"Sun 03 Oct 2010",Comedian
+,772,588,625,"Sun 26 Sep 2010",Singer
+,773,589,626,"Sun 08 Aug 2010","Owner of Knebworth House, Businessman"
+,774,590,627,"Sun 01 Aug 2010","Comedy writer"
+,775,591,628,"Sun 18 Jul 2010","Director, Actor"
+,776,592,629,"Sun 27 Jun 2010",Footballer
+,777,593,629,"Sun 20 Jun 2010","Film director"
+,778,594,630,"Sun 13 Jun 2010",Comedian
+,779,595,631,"Sun 30 May 2010",Violinist
+,780,596,293,"Sun 16 May 2010","Comedian, Actor"
+,781,597,632,"Sun 21 Mar 2010","Screenwriter, Novelist"
+,782,598,633,"Sun 14 Mar 2010","Dragons' Den businessman"
+,783,599,634,"Sun 21 Feb 2010","Former England rugby coach"
+,784,600,635,"Sun 14 Feb 2010",Physicist
+,785,601,636,"Sun 07 Feb 2010",Stylist
+,786,602,637,"Sun 24 Jan 2010","Boxing promoter"
+,787,603,173,"Sun 17 Jan 2010","Crime writer"
+,788,604,638,"Sun 03 Jan 2010","Opera director"
+,789,605,639,"Sun 27 Dec 2009","Doctor Who actor"
+,790,606,640,"Sun 20 Dec 2009","Hollywood film star"
+,791,607,641,"Sun 13 Dec 2009","Chairman of Olympic Organising Committee, Politician - Conservative"
+,791,608,299,"Sat 15 Aug 1981","Runner, World champion"
+,792,609,642,"Sun 29 Nov 2009","Lead singer of The Smiths"
+,793,610,643,"Sun 22 Nov 2009","Marks and Spencer Businessman"
+,794,341,644,"Fri 13 Nov 2009","Lawyer, Writer"
+,795,611,645,"Sun 01 Nov 2009","Talk show host"
+,796,612,646,"Sun 25 Oct 2009","Scientist, Planetary scientist"
+,797,613,647,"Sun 18 Oct 2009",Illustrator
+,798,614,648,"Sun 11 Oct 2009","Comedian, Actor"
+,799,615,40,"Sun 27 Sep 2009","Singer, Songwriter"
+,800,616,293,"Sun 16 Aug 2009","Opera singer - tenor"
+,801,617,649,"Sun 02 Aug 2009","Interior designer"
+,802,283,650,"Sun 26 Jul 2009","Food writer, TV chef"
+,803,618,651,"Sun 19 Jul 2009","Comedian, Comedy writer"
+,804,619,652,"Sun 12 Jul 2009",Bacteriologist
+,805,620,40,"Sun 05 Jul 2009","Impresario, Promoter"
+,806,621,653,"Sun 21 Jun 2009","Stage and screen actor"
+,807,622,654,"Sun 14 Jun 2009","Former Chancellor of the Exchequer, Politician - Labour"
+,807,263,394,"Sat 26 Aug 1978","Chancellor of the Exchequer, Politician - Labour"
+,808,623,655,"Sun 07 Jun 2009","Journalist, Television presenter"
+,809,624,656,"Sun 24 May 2009","Comedian, Performer"
+,809,625,340,"Sat 24 Nov 1973",Comedian
+,810,553,657,"Sun 17 May 2009","Last of the Summer Wine actor"
+,811,626,658,"Sun 29 Mar 2009",Novelist
+,812,627,293,"Sun 15 Mar 2009","Singer, Guitarist"
+,813,628,293,"Sun 08 Mar 2009","Television presenter"
+,814,629,659,"Sun 01 Mar 2009","Actor, Campaigner"
+,814,630,277,"Mon 16 May 1960","British actor"
+,815,145,660,"Sun 22 Feb 2009","Comedian, Comedy writer"
+,816,631,661,"Sun 08 Feb 2009","Poirot actor"
+,817,632,662,"Sun 01 Feb 2009","Opera singer - bass-baritone"
+,818,633,663,"Sun 25 Jan 2009",Novelist
+,819,182,664,"Sun 18 Jan 2009","Politician - Liberal Democrat"
+,820,634,665,"Sun 04 Jan 2009","Businessman, Explorer"
+,821,635,666,"Sun 21 Dec 2008","Television actor"
+,822,636,667,"Sun 14 Dec 2008","Oscar winning film producer"
+,823,637,668,"Sun 07 Dec 2008",Mathematician
+,824,638,669,"Sun 30 Nov 2008","Founder of Glastonbury"
+,825,639,670,"Sun 16 Nov 2008","Politician - Conservative"
+,826,640,671,"Fri 14 Nov 2008","Children's writer"
+,827,17,672,"Sun 26 Oct 2008","Opera singer - tenor"
+,828,641,40,"Sun 19 Oct 2008","Singer, Songwriter"
+,829,642,606,"Sun 12 Oct 2008","Actor, Director"
+,830,108,673,"Sun 05 Oct 2008","Opera director"
+,831,643,674,"Sun 10 Aug 2008",Philosopher
+,832,644,675,"Sun 03 Aug 2008","Satirist, Editor"
+,832,644,80,"Sat 22 Jan 1972","Editor of Private Eye, Satirist, Editor"
+,833,645,676,"Sun 20 Jul 2008","Interior designer"
+,834,646,677,"Sun 06 Jul 2008","Chef, Cookery writer"
+,835,647,145,"Sun 22 Jun 2008","Doctor, Politician - Labour"
+,836,648,678,"Fri 20 Jun 2008","Novelist, Booker Prize winner"
+,837,649,679,"Sun 08 Jun 2008","Comedian, Musician"
+,838,70,680,"Sun 01 Jun 2008","Former Lord Chief Justice"
+,839,650,681,"Sun 25 May 2008",Composer
+,840,651,682,"Sun 23 Mar 2008",Cartoonist
+,841,652,683,"Sun 16 Mar 2008","Broadcaster, Novelist"
+,842,653,684,"Sun 02 Mar 2008",Singer
+,843,654,685,"Sun 24 Feb 2008","BBC journalist and presenter"
+,843,297,686,"Sat 27 Apr 1974","BBC journalist and presenter"
+,844,655,687,"Sun 17 Feb 2008","Biologist, Nobel Prize winner"
+,845,292,688,"Sun 10 Feb 2008","KGB defector, Spy"
+,846,656,689,"Sun 20 Jan 2008","Former Diplomat, Traveller"
+,847,657,690,"Sun 13 Jan 2008",Conductor
+,847,288,383,"Sat 05 Aug 1978",Conductor
+,848,658,691,"Sun 06 Jan 2008","BBC journalist and presenter"
+,849,659,692,"Sun 16 Dec 2007","Singer, Songwriter"
+,850,660,693,"Sun 09 Dec 2007",Geneticist
+,851,661,694,"Sun 02 Dec 2007",Cellist
+,852,662,695,"Sun 25 Nov 2007",Novelist
+,853,663,696,"Fri 16 Nov 2007",Novelist
+,854,664,697,"Sun 04 Nov 2007","Just a Minute presenter"
+,855,665,161,"Sun 28 Oct 2007","Nelson Mandela's former lawyer, Labour peer"
+,856,48,698,"Sun 21 Oct 2007",Comedian
+,856,666,485,"Sat 29 May 1971","Comedian, Actor"
+,857,667,699,"Sun 07 Oct 2007","Health Secretary, Politician - Labour"
+,858,668,700,"Sun 30 Sep 2007","Singer, Songwriter"
+,859,669,40,"Sun 19 Aug 2007",Conductor
+,860,670,701,"Sun 12 Aug 2007","Publisher, Poet"
+,861,671,702,"Sun 05 Aug 2007",Screenwriter
+,862,672,703,"Sun 22 Jul 2007","Novelist, Booker Prize winner"
+,862,673,704,"Sat 26 Nov 1983","Novelist, Booker Prize winner"
+,863,674,705,"Sun 15 Jul 2007","Creator of Bagpuss, Animator"
+,864,675,706,"Sun 08 Jul 2007","Classical actor"
+,865,676,707,"Sun 24 Jun 2007","Comedian, Writer, Actor"
+,866,677,708,"Sun 17 Jun 2007","Singer, Songwriter"
+,867,678,709,"Sun 03 Jun 2007","Molecular biologist"
+,868,679,710,"Sun 27 May 2007","Magician, Writer, Hypnotist"
+,869,680,711,"Sun 20 May 2007","Former Director-General of the BBC"
+,870,681,712,"Sun 01 Apr 2007","Campaigner, Athlete"
+,871,682,713,"Sun 25 Mar 2007","Philosopher, Physician"
+,872,683,714,"Sun 11 Mar 2007","Broadcaster, DJ"
+,873,684,715,"Sun 04 Mar 2007",Novelist
+,874,685,161,"Sun 25 Feb 2007","Journalist, Broadcaster"
+,875,686,716,"Sun 18 Feb 2007",Potter
+,876,687,717,"Sun 11 Feb 2007",Screenwriter
+,877,688,718,"Sun 04 Feb 2007","Singer, Songwriter"
+,878,689,719,"Sun 28 Jan 2007","Science fiction writer"
+,878,690,720,"Sat 17 Apr 1982","Novelist and critic"
+,879,691,721,"Sun 31 Dec 2006","Children's writer"
+,880,80,722,"Sun 17 Dec 2006",Playwright
+,880,1,723,"Mon 07 Nov 1966",Playwright
+,881,692,40,"Sun 10 Dec 2006","Jazz musician, Composer"
+,882,693,724,"Sun 03 Dec 2006","Musician, Impresario"
+,883,694,725,"Sun 26 Nov 2006","Comedian, Comedy writer"
+,884,695,726,"Sun 19 Nov 2006","Horror writer"
+,885,696,727,"Fri 17 Nov 2006","Former head of the Metropolitan Police"
+,886,697,728,"Sun 05 Nov 2006","Musician, Broadcaster, Jazz trumpeter"
+,886,1,729,"Mon 03 Sep 1956","Jazz trumpeter"
+,887,698,730,"Sun 29 Oct 2006","Chef, Broadcaster, Restaurateur"
+,888,699,731,"Sun 15 Oct 2006","Foreign correspondent"
+,889,416,732,"Sun 01 Oct 2006","Illustrator, Children's writer"
+,890,700,733,"Sun 20 Aug 2006","Critic, Columnist"
+,891,701,609,"Sun 13 Aug 2006","Broadcaster, Entrepreneur, TV producer"
+,892,702,734,"Sun 06 Aug 2006","Children's writer, Poet, Broadcaster"
+,893,703,40,"Sun 30 Jul 2006",Playwright
+,894,73,735,"Sun 16 Jul 2006",Novelist
+,895,704,736,"Sun 09 Jul 2006","Horticulturalist, Broadcaster"
+,896,705,737,"Sun 02 Jul 2006","Chief Executive of BP, Businessman"
+,897,706,738,"Sun 18 Jun 2006","Physicist, Nobel Prize winner"
+,898,707,739,"Sun 11 Jun 2006","Clothing designer and retailer"
+,899,708,740,"Sun 04 Jun 2006","Comedian, Satirist, Writer"
+,900,709,741,"Sun 28 May 2006","Leader of the Conservative Party (became Prime Minister in 2010), Politician - Conservative"
+,901,710,742,"Sun 21 May 2006","Director-General of the CBI"
+,902,711,743,"Sun 07 May 2006","Conductor, Pianist"
+,903,712,744,"Sun 12 Mar 2006","Award winning actor"
+,903,713,431,"Sun 28 Jun 1987","Award winning actor"
+,904,315,745,"Sun 05 Mar 2006","Writer, Novelist"
+,904,257,105,"Sat 12 Dec 1981","Thriller writer"
+,905,714,746,"Sun 19 Feb 2006","Writer, Novelist, Journalist, Screenwriter"
+,905,715,747,"Sat 21 Feb 1981",Novelist
+,906,716,748,"Sun 05 Feb 2006","Stage and screen actor"
+,906,717,360,"Sun 02 Nov 1986","Brideshead Revisited actor"
+,907,108,108,"Sun 22 Jan 2006","Writer, Academic"
+,908,718,749,"Sun 15 Jan 2006",Jockey
+,909,108,750,"Sun 08 Jan 2006","Character actor"
+,910,719,751,"Sun 25 Dec 2005",Composer
+,911,720,752,"Sun 11 Dec 2005","Former Archbishop of York"
+,912,721,753,"Sun 04 Dec 2005","Stage and screen actor"
+,913,722,754,"Sun 27 Nov 2005","Television presenter, Broadcaster"
+,913,723,755,"Sat 25 Dec 1971","Television presenter, Writer, Journalist"
+,913,724,756,"Mon 15 Apr 1963","That Was The Week That Was presenter"
+,914,725,757,"Sun 20 Nov 2005",Philosopher
+,915,726,758,"Sun 06 Nov 2005",Broadcaster
+,916,727,759,"Sun 30 Oct 2005","Politician - Conservative, Journalist"
+,917,728,760,"Sun 23 Oct 2005","Fashion photographer"
+,918,520,761,"Sun 09 Oct 2005","Film director, Restaurant critic, Columnist"
+,919,729,762,"Sun 02 Oct 2005","BBC Security Correspondent"
+,920,730,763,"Sun 25 Sep 2005",Comedian
+,921,731,764,"Sun 10 Jul 2005","Illustrator, Satirist, Writer"
+,921,732,765,"Mon 12 Jan 1959","St Trinian's artist and cartoonist"
+,922,437,766,"Sun 03 Jul 2005",Novelist
+,923,86,767,"Sun 19 Jun 2005",Novelist
+,924,733,768,"Sun 05 Jun 2005","Cookery writer, Broadcaster"
+,925,734,769,"Sun 29 May 2005","Peace campaigner"
+,926,735,770,"Sun 22 May 2005","Chief Scientific Adviser, Chemist"
+,927,736,771,"Sun 24 Apr 2005","Lead singer of Pulp"
+,928,737,772,"Sun 17 Apr 2005","Star Trek actor"
+,929,738,773,"Sun 10 Apr 2005",Acrobat
+,930,739,774,"Sun 03 Apr 2005","Musical Director of the New York Philharmonic Orchestra"
+,930,740,775,"Sat 31 Jul 1971",Conductor
+,931,741,776,"Sun 20 Mar 2005","Writer, Illustrator"
+,931,742,777,"Sat 04 Jun 1983",Illustrator
+,932,501,778,"Sun 13 Mar 2005","Playwright, Director"
+,933,743,779,"Sun 27 Feb 2005","Television actor"
+,934,744,780,"Sun 06 Feb 2005","Historian, Broadcaster, Writer"
+,935,745,781,"Sun 30 Jan 2005",Composer
+,935,75,782,"Sat 25 Jun 1983",Composer
+,936,746,783,"Sun 23 Jan 2005","Writer, Director, Scientist"
+,936,747,784,"Sat 24 Apr 1971","Writer, Director, Scientist"
+,937,748,785,"Sun 09 Jan 2005","Thriller writer, Soldier"
+,938,749,786,"Sun 02 Jan 2005",Dancer
+,939,750,787,"Sun 19 Dec 2004",Singer
+,940,751,788,"Sun 12 Dec 2004",Satirist
+,941,752,789,"Sun 05 Dec 2004","Footballer, Football manager"
+,941,397,790,"Sun 25 May 1986","Manager of the England football team"
+,942,753,791,"Sun 21 Nov 2004","Death row lawyer"
+,943,754,792,"Fri 19 Nov 2004",Choreographer
+,944,755,793,"Sun 31 Oct 2004","Rower, Olympic gold medal winner"
+,945,14,794,"Sun 24 Oct 2004",Poet
+,946,756,795,"Sun 17 Oct 2004","Politician - Liberal Democrat"
+,947,757,796,"Sun 03 Oct 2004","Writer, Broadcaster, Zoologist"
+,947,758,797,"Mon 08 Jan 1968",Zoologist
+,948,759,798,"Sun 19 Sep 2004","Mountaineer, Writer"
+,949,760,728,"Sun 11 Jul 2004",Trumpeter
+,950,761,799,"Sun 04 Jul 2004","Leader of the Conservative Party, Politician - Conservative"
+,951,762,35,"Sun 27 Jun 2004",Lyricist
+,951,763,800,"Sat 21 Feb 1976","Musician, Lyricist"
+,952,764,801,"Sun 23 May 2004","Film designer"
+,953,765,802,"Sun 16 May 2004",Explorer
+,954,766,803,"Sun 02 May 2004","Comedian, Broadcaster"
+,955,235,40,"Sun 25 Apr 2004",Conductor
+,956,767,804,"Sun 18 Apr 2004","Historical fiction writer"
+,957,67,805,"Sun 11 Apr 2004","Children's Laureate, Author of War Horse"
+,958,768,806,"Sun 28 Mar 2004",Artist
+,959,769,807,"Sun 21 Mar 2004","Businessman, Singer, Singer - baritone"
+,960,770,808,"Sun 14 Mar 2004",Actor
+,961,771,809,"Sun 07 Mar 2004",Businessman
+,962,772,810,"Sun 22 Feb 2004","Founder of Velvet Underground"
+,963,773,675,"Sun 15 Feb 2004",Singer
+,963,507,293,"Sat 02 Jan 1971",Singer
+,964,774,811,"Sun 01 Feb 2004","Businessman, Politician - Labour"
+,964,775,299,"Sun 11 Oct 1992","Businessman, Politician - Labour"
+,965,776,812,"Sun 25 Jan 2004","Editor of Daily Mail"
+,966,74,813,"Sun 18 Jan 2004","Film director"
+,967,777,814,"Sun 11 Jan 2004",Comedian
+,967,292,485,"Sat 26 Aug 1972",Comedian
+,968,778,815,"Sun 28 Dec 2003",Entertainer
+,969,779,816,"Sun 14 Dec 2003",Architect
+,970,780,817,"Sun 30 Nov 2003","Cricket commentator"
+,971,781,818,"Sun 23 Nov 2003","Chairman of the Press Complaints Commission, Diplomat"
+,972,236,819,"Sun 16 Nov 2003","Top Gear presenter"
+,973,657,820,"Sun 02 Nov 2003","Rector of the Royal College of Art, Broadcaster"
+,974,372,821,"Sun 26 Oct 2003","Leader of the Liberal Democrats, Politician - Liberal Democrat"
+,975,782,822,"Sun 19 Oct 2003","Businessman, Writer"
+,976,783,823,"Sun 12 Oct 2003","Journalist, Songwriter"
+,977,784,824,"Sun 28 Sep 2003",Novelist
+,978,785,825,"Sun 21 Sep 2003","Opera singer - bass-baritone"
+,979,786,145,"Sun 29 Jun 2003","Engineer, Architect"
+,980,787,826,"Sun 22 Jun 2003","Bishop of Birmingham"
+,981,788,827,"Sun 15 Jun 2003",Broadcaster
+,982,789,363,"Sun 08 Jun 2003","Businessman, Retailer"
+,983,411,828,"Sun 25 May 2003","Director of the Michelin Red Guides"
+,984,352,829,"Sun 18 May 2003","Director - film, opera and theatre"
+,984,17,128,"Sat 07 Jan 1978","Director - film, opera and theatre"
+,985,790,830,"Sun 11 May 2003",Composer
+,986,133,831,"Sun 04 May 2003",Sociologist
+,987,791,832,"Sun 20 Apr 2003","Comedian, Impressionist"
+,988,792,833,"Sun 06 Apr 2003","Frontman of Pink Floyd, Guitarist"
+,989,793,675,"Sun 23 Mar 2003",Composer
+,990,794,834,"Sun 16 Mar 2003","Photo journalist"
+,991,37,835,"Sun 09 Mar 2003",Comedian
+,992,795,836,"Sun 02 Mar 2003","Singer, Songwriter"
+,993,17,837,"Sun 23 Feb 2003","Hollywood film star"
+,994,796,675,"Sun 09 Feb 2003","Award winning actor"
+,994,321,105,"Sat 07 Aug 1971","British actor"
+,995,797,40,"Sun 02 Feb 2003","Fast Show comedian"
+,996,315,838,"Sun 26 Jan 2003","Theatre director"
+,996,798,839,"Mon 20 May 1968","Artistic Director of the Royal Shakespeare Company"
+,997,75,840,"Sun 19 Jan 2003","Chemist, Nobel Prize winner"
+,998,799,633,"Sun 05 Jan 2003","Boxer, Olympic gold medal winner"
+,999,800,40,"Sun 22 Dec 2002","Archbishop of Canterbury Elect"
+,1000,794,841,"Sun 08 Dec 2002","Dub poet"
+,1001,801,842,"Sun 01 Dec 2002","Actor, Director"
+,1002,802,843,"Sun 24 Nov 2002","Leader of the Conservative Party, Politician - Conservative"
+,1003,803,844,"Sun 17 Nov 2002","Businessman, Explorer, Philanthropist"
+,1004,804,845,"Sun 03 Nov 2002","Leader of the House of Commons, Politician - Labour"
+,1005,805,846,"Sun 20 Oct 2002","Inventor of the contraceptive pill, Writer"
+,1006,806,40,"Sun 13 Oct 2002","Music journalist, Presenter"
+,1007,149,847,"Sun 06 Oct 2002","Children's writer, Booker / Whitbread Prize winner"
+,1008,411,623,"Sun 22 Sep 2002",Actor
+,1009,807,848,"Sun 15 Sep 2002","Lead guitarist of Queen"
+,1010,808,849,"Sun 07 Jul 2002","Horticulturalist, TV presenter, Writer"
+,1011,809,850,"Sun 09 Jun 2002","Official War Artist in World War II"
+,1012,810,851,"Sun 19 May 2002","Lead singer of Madness"
+,1013,811,852,"Sun 12 May 2002","Former President of the Royal Society, Chemist, Nobel Prize winner"
+,1014,812,853,"Sun 21 Apr 2002","Organist, Conductor, Composer"
+,1015,163,854,"Sun 14 Apr 2002","Chairman of British Telecom"
+,1016,813,855,"Sun 31 Mar 2002","Chef, Presenter, Restaurateur"
+,1017,814,856,"Sun 03 Mar 2002","President of the Royal Society"
+,1018,815,857,"Sun 17 Feb 2002","Novelist, Booker Prize winner"
+,1019,816,35,"Sun 10 Feb 2002","Director-General of Science at Cancer Research UK, Nobel Prize winner"
+,1020,817,794,"Sun 03 Feb 2002","Member of the Royal Family, Furniture designer"
+,1021,818,858,"Sun 20 Jan 2002","Pollster, Commentator"
+,1022,819,604,"Sun 06 Jan 2002","President of the Royal College of Surgeons"
+,1023,82,859,"Sun 30 Dec 2001",Actor
+,1024,820,860,"Sun 23 Dec 2001","TV chef, Cookery writer, Campaigner, Restaurateur"
+,1025,821,861,"Sun 09 Dec 2001","Theatre producer"
+,1026,822,862,"Sun 02 Dec 2001","Former leader of the Conservative Party, Politician - Conservative"
+,1027,823,863,"Sun 25 Nov 2001",Novelist
+,1028,824,864,"Sun 18 Nov 2001","Comedian, Actor"
+,1028,825,865,"Sat 30 Jul 1977","Comedian, Actor"
+,1029,190,866,"Sun 02 Sep 2001","Historian, Broadcaster, Writer"
+,1030,417,867,"Sun 26 Aug 2001","Academic , Public servant, Banker"
+,1031,826,868,"Sun 19 Aug 2001","Veterinarian, Writer"
+,1032,827,869,"Sun 12 Aug 2001","British actor"
+,1032,322,870,"Sat 26 Jun 1982","British actor"
+,1033,828,871,"Sun 05 Aug 2001","Journalist, Editor"
+,1034,829,675,"Sun 22 Jul 2001","Archbishop of Westminster"
+,1035,830,872,"Sun 15 Jul 2001","Journalist, Politician"
+,1036,831,873,"Sun 01 Jul 2001",Businessman
+,1037,832,874,"Sun 24 Jun 2001",Chemist
+,1038,833,875,"Sun 17 Jun 2001","Pulitzer-prize winner, Novelist, Pulitzer Prize"
+,1039,545,876,"Sun 10 Jun 2001",Painter
+,1040,834,877,"Sun 03 Jun 2001","Opera singer - baritone"
+,1040,291,485,"Sat 06 Nov 1982","Opera singer - baritone"
+,1041,835,878,"Sun 27 May 2001","Jazz saxophonist"
+,1042,836,879,"Sun 20 May 2001","Director-General of the National Galleries of Scotland"
+,1043,833,880,"Sun 13 May 2001",Biologist
+,1044,837,881,"Sun 22 Apr 2001","Radio and television broadcaster"
+,1045,838,882,"Sun 15 Apr 2001",Writer
+,1046,17,883,"Sun 01 Apr 2001","Vice-Chancellor of Cambridge University, Electrical engineer"
+,1047,839,884,"Sun 18 Mar 2001","Glasgow University Professor of Forensic Medicine and Science"
+,1048,840,885,"Sun 11 Mar 2001","Porcelain expert, Broadcaster"
+,1049,841,886,"Sun 04 Mar 2001",Pianist
+,1049,842,80,"Sat 24 Oct 1970","Concert pianist"
+,1050,843,887,"Sun 25 Feb 2001","Rolling Stones drummer"
+,1051,844,888,"Sun 18 Feb 2001",Epidemiologist
+,1052,411,889,"Sun 11 Feb 2001","Actor, Writer"
+,1053,743,890,"Sun 04 Feb 2001","Barrister - QC, Dramatist"
+,1053,349,891,"Sat 03 Jul 1982","Barrister, Writer"
+,1053,149,892,"Mon 22 Jan 1968","Playwright, Lawyer, Barrister"
+,1054,671,893,"Sun 28 Jan 2001",Photographer
+,1055,845,267,"Sun 14 Jan 2001",Novelist
+,1056,846,219,"Sun 07 Jan 2001","Owner of Longleat"
+,1056,847,894,"Sat 23 Aug 1975","Owner of Longleat, Business"
+,1057,848,80,"Sun 31 Dec 2000","Composer, Lyricist"
+,1057,849,80,"Sat 16 Aug 1980","Composer, Lyricist"
+,1058,850,895,"Tue 26 Dec 2000",Actor
+,1059,671,896,"Sun 17 Dec 2000",Actor
+,1059,851,80,"Mon 21 Aug 1967",Actor
+,1060,852,80,"Sun 10 Dec 2000","Founder of the Eden Project"
+,1061,853,897,"Sun 26 Nov 2000","Judge, Campaigner"
+,1062,854,898,"Sun 19 Nov 2000","Sports presenter"
+,1063,855,899,"Sun 27 Aug 2000",Playwright
+,1064,856,900,"Sun 20 Aug 2000","Horticulturalist, Writer, Columnist"
+,1065,857,901,"Sun 13 Aug 2000","Explorer, Environmentalist"
+,1066,858,902,"Sun 06 Aug 2000","Actor, Comedian"
+,1066,1,903,"Fri 17 Apr 1953",Comedian
+,1067,859,628,"Sun 30 Jul 2000","Chief of Defence Staff, Soldier"
+,1068,860,904,"Sun 23 Jul 2000",Mathematician
+,1069,861,905,"Sun 16 Jul 2000","Shadow Chancellor of the Exchequer, Politician - Conservative"
+,1070,862,906,"Sun 09 Jul 2000","Film director"
+,1070,863,510,"Sun 05 Jan 1986","Film director"
+,1071,864,907,"Sun 02 Jul 2000",Playwright
+,1071,865,908,"Sat 14 Mar 1981",Playwright
+,1072,866,909,"Sun 25 Jun 2000","Chemist, Molecular biologist, Nobel Prize winner"
+,1073,867,910,"Sun 18 Jun 2000","Hollywood film star"
+,1074,868,911,"Sun 11 Jun 2000","Broadcaster, Writer, Critic"
+,1074,869,912,"Sat 14 Jun 1980","Broadcaster, Poet, Critic"
+,1075,870,913,"Sun 04 Jun 2000","Writer on religious history"
+,1076,871,914,"Sun 28 May 2000","Actor, Satirist, Comedian"
+,1076,872,915,"Mon 29 Jan 1968","Actor, Director, Impersonator"
+,1077,873,916,"Sun 07 May 2000","Hollywood film star"
+,1077,874,80,"Sat 22 Dec 1973","Oscar winning actor"
+,1077,1,1,"Tue 11 Dec 1951","British actor"
+,1078,875,917,"Sun 30 Apr 2000","Chief Executive of British Telecom"
+,1079,876,366,"Sun 23 Apr 2000",Conductor
+,1080,17,918,"Sun 16 Apr 2000",Sculptor
+,1081,877,919,"Sun 02 Apr 2000","Journalist, Editor"
+,1082,878,366,"Sun 26 Mar 2000","Artistic Director of the Royal Shakespeare Company"
+,1083,879,920,"Sun 19 Mar 2000","Poet, Critic"
+,1084,880,1,"Sun 12 Mar 2000","Golfer, Athlete"
+,1085,37,921,"Sun 05 Mar 2000","Novelist, Journalist"
+,1086,881,922,"Sun 20 Feb 2000",Biographer
+,1086,882,922,"Sat 22 Jan 1977",Biographer
+,1087,883,80,"Sun 13 Feb 2000","Cultural theorist"
+,1088,322,923,"Sun 06 Feb 2000",Actor
+,1089,884,924,"Sun 30 Jan 2000","Executive Director of Greenpeace"
+,1090,885,267,"Sun 23 Jan 2000","Film director, Writer"
+,1091,75,925,"Sun 16 Jan 2000","Novelist, Booker Prize winner"
+,1092,886,926,"Fri 31 Dec 1999",Composer
+,1092,887,366,"Sat 21 Jul 1973",Composer
+,1093,888,29,"Fri 24 Dec 1999","Actor, Singer"
+,1093,889,927,"Sat 11 Nov 1978","Actor, Singer"
+,1093,890,928,"Sat 03 Jul 1971","Actor, Singer"
+,1094,891,929,"Sun 19 Dec 1999",Composer
+,1095,892,930,"Sun 12 Dec 1999","Broadcaster, Wine expert"
+,1096,893,505,"Sun 05 Dec 1999",Businessman
+,1097,894,931,"Sun 28 Nov 1999",Actor
+,1097,895,682,"Mon 13 Nov 1967","Till Death Us Do Part actor"
+,1098,896,932,"Fri 19 Nov 1999",Novelist
+,1099,188,440,"Sun 07 Nov 1999","Opera singer - bass-baritone"
+,1100,897,933,"Sun 31 Oct 1999","British actor"
+,1101,898,934,"Sun 29 Aug 1999","Musician, Artist, Broadcaster"
+,1101,899,935,"Mon 03 Apr 1967","Musician, Artist, Broadcaster"
+,1102,900,243,"Sun 15 Aug 1999",Conductor
+,1103,901,936,"Sun 01 Aug 1999","TV chef, Restaurateur, Cookery writer"
+,1104,902,937,"Sun 25 Jul 1999","Hollywood film star"
+,1105,903,938,"Sun 18 Jul 1999","Horse trainer"
+,1106,904,939,"Sun 11 Jul 1999","Founder of the Chieftains, Folk musician"
+,1107,905,940,"Sun 04 Jul 1999","Professor of Neural Systems Engineering"
+,1108,906,941,"Sun 20 Jun 1999","Engineer, Inventor"
+,1109,907,675,"Sun 13 Jun 1999",Composer
+,1109,541,80,"Mon 22 May 1967",Composer
+,1110,253,942,"Sun 06 Jun 1999",Mountaineer
+,1111,282,943,"Sun 30 May 1999","Journalist, Broadcaster"
+,1112,594,58,"Sun 23 May 1999",Choreographer
+,1113,908,944,"Sun 16 May 1999","Chairman of Carlton Television"
+,1114,909,945,"Sun 09 May 1999","Hollywood film star"
+,1115,910,946,"Sun 25 Apr 1999","Jazz pianist"
+,1116,911,947,"Sun 18 Apr 1999","Film director"
+,1117,912,948,"Sun 11 Apr 1999","Flamenco guitarist"
+,1117,913,949,"Sat 04 Mar 1978","Flamenco guitarist"
+,1118,160,950,"Sun 04 Apr 1999",Jockey
+,1119,914,951,"Sun 14 Mar 1999","Restaurant critic"
+,1120,915,952,"Sun 07 Mar 1999",Conductor
+,1120,916,366,"Sat 18 Jan 1975",Conductor
+,1120,917,366,"Mon 24 Aug 1959",Conductor
+,1121,918,953,"Sun 28 Feb 1999","Comic Relief founder, Scriptwriter"
+,1122,363,80,"Sun 07 Feb 1999","Classical pianist"
+,1123,919,954,"Sun 31 Jan 1999","Travel writer"
+,1124,920,955,"Sun 17 Jan 1999","Wildlife artist"
+,1124,921,956,"Sat 11 Sep 1971",Painter
+,1125,922,675,"Sun 03 Jan 1999","Jazz pianist"
+,1125,214,80,"Mon 12 Oct 1959","Jazz musician, Pianist"
+,1126,923,957,"Sun 20 Dec 1998","Comedian, Presenter"
+,1127,924,922,"Sun 13 Dec 1998","Jockey, Crime writer"
+,1127,925,803,"Mon 27 Mar 1967","Novelist, Journalist, Jockey"
+,1128,926,958,"Sun 06 Dec 1998","Military historian"
+,1129,632,959,"Sun 22 Nov 1998","General Secretary of the Transport and General Workers' Union"
+,1130,927,905,"Sun 08 Nov 1998","Physicist, Nobel Prize winner"
+,1131,928,960,"Sun 01 Nov 1998",Conductor
+,1132,560,961,"Sun 23 Aug 1998","Associate Designer of the Royal Shakespeare Company"
+,1133,929,962,"Sun 16 Aug 1998",Poet
+,1134,930,963,"Sun 09 Aug 1998",Explorer
+,1135,931,964,"Sun 02 Aug 1998",Cartoonist
+,1136,932,796,"Sun 26 Jul 1998",Singer
+,1137,228,367,"Sun 19 Jul 1998",Playwright
+,1138,933,963,"Sun 12 Jul 1998","Home Secretary, Politician - Labour"
+,1139,934,965,"Sun 28 Jun 1998",Playwright
+,1140,935,293,"Sun 14 Jun 1998","West End producer"
+,1141,936,966,"Sun 07 Jun 1998","Gardener, Broadcaster"
+,1142,937,967,"Sun 24 May 1998",Saxophonist
+,1143,938,968,"Sun 17 May 1998",Choirmaster
+,1144,939,924,"Sun 10 May 1998",Sculptor
+,1145,940,80,"Sun 26 Apr 1998","Businessman, Musician"
+,1146,941,969,"Sun 19 Apr 1998",Painter
+,1147,942,970,"Sun 05 Apr 1998",Composer
+,1148,943,125,"Sun 22 Mar 1998","Poet, Biographer"
+,1149,944,971,"Sun 15 Mar 1998",Mathematician
+,1150,945,972,"Sun 08 Mar 1998","Artistic Director of the Royal Ballet"
+,1150,527,415,"Sat 26 Jul 1975","Ballet dancer"
+,1151,946,973,"Sun 01 Mar 1998","Executive Director of ASDA, Politician - Conservative"
+,1152,947,974,"Sun 22 Feb 1998","Opera director, Translator"
+,1153,17,293,"Sun 15 Feb 1998","Land speed record breaker"
+,1154,948,310,"Sun 01 Feb 1998","Creator of Inspector Morse, Novelist"
+,1155,949,975,"Sun 18 Jan 1998","Opera singer - bass"
+,1156,950,976,"Sun 11 Jan 1998",Illustrator
+,1157,951,977,"Sun 04 Jan 1998","Scientist, Television personality"
+,1158,411,293,"Sun 21 Dec 1997","Comedian, Singer"
+,1158,1,978,"Mon 10 Sep 1956","Goon Show comedian, Singer"
+,1159,952,29,"Sun 14 Dec 1997","Chairman of Northern Foods"
+,1160,602,626,"Sun 30 Nov 1997","Broadcaster, Television presenter"
+,1161,953,80,"Sun 09 Nov 1997","Playwright, Film director"
+,1162,74,979,"Sun 02 Nov 1997","Broadcaster, Historian"
+,1162,350,105,"Sat 18 Oct 1975","Broadcaster, Historian"
+,1163,527,293,"Sun 26 Oct 1997","Writer, Naturalist"
+,1164,195,980,"Sun 19 Oct 1997","Jazz composer"
+,1164,954,80,"Mon 09 Sep 1968",Composer
+,1165,955,80,"Sun 05 Oct 1997","Musician, Television presenter"
+,1166,956,981,"Sun 28 Sep 1997","Horse-racing commentator"
+,1167,211,982,"Sun 21 Sep 1997","Film director"
+,1168,74,983,"Sun 07 Sep 1997","Literary critic"
+,1169,957,984,"Sun 24 Aug 1997",Novelist
+,1170,958,985,"Sun 22 Jun 1997",Comedian
+,1170,1,54,"Mon 09 Dec 1957","Goon Show and Hancock comedy actor"
+,1171,959,986,"Sun 08 Jun 1997","Poet, Performer"
+,1172,960,987,"Sun 18 May 1997",Comedian
+,1173,961,988,"Sun 11 May 1997",Sculptor
+,1173,962,989,"Mon 20 Jul 1964",Sculptor
+,1174,963,990,"Sun 04 May 1997","Astronomer Royal"
+,1175,964,629,"Sun 27 Apr 1997","Comedian, Comedy writer"
+,1176,965,991,"Sun 20 Apr 1997","Film actor"
+,1177,966,992,"Sun 23 Mar 1997","Pop artist"
+,1177,75,993,"Sat 12 May 1979","Pop artist"
+,1178,17,994,"Sun 09 Mar 1997","Explorer, Writer"
+,1179,967,995,"Sun 23 Feb 1997",Chef
+,1180,968,505,"Sun 16 Feb 1997","Civil rights campaigner"
+,1181,969,996,"Sun 09 Feb 1997","Fantasy fiction writer"
+,1182,970,997,"Sun 02 Feb 1997",Actor
+,1183,971,998,"Sun 05 Jan 1997","Actor, Comedian, Monty Python"
+,1183,972,999,"Sat 17 Jul 1971","Actor, Comedian"
+,1184,85,1000,"Sun 29 Dec 1996",Novelist
+,1185,973,1001,"Sun 15 Dec 1996","Singer, Songwriter"
+,1186,753,1002,"Sun 08 Dec 1996","Professor of Fertility Studies"
+,1187,974,1003,"Sun 01 Dec 1996","Broadcaster, Game-show host, Dancer"
+,1187,975,485,"Mon 16 Jul 1962","Comedian, Presenter"
+,1188,976,293,"Sun 24 Nov 1996","Official Leader of the Opposition (became Prime Minister in 1997), Politician - Labour"
+,1189,529,80,"Sun 10 Nov 1996","Writer, Advisor to government and royalty, Traveller"
+,1189,977,80,"Mon 30 Mar 1959","Writer, Explorer"
+,1190,182,46,"Sun 03 Nov 1996","Governor of Hong Kong, Politician - Conservative"
+,1191,978,626,"Sun 20 Oct 1996","Football manager"
+,1191,979,436,"Sat 21 Oct 1972",Footballer
+,1192,980,315,"Sun 06 Oct 1996","Chairman of the Committee on Public Understanding of Science"
+,1193,981,1004,"Sun 29 Sep 1996","Novelist, Comedian"
+,1194,982,1005,"Sun 15 Sep 1996","Television actor"
+,1195,983,1006,"Sun 08 Sep 1996","Scientist, Neurobiologist"
+,1196,984,1007,"Sun 01 Sep 1996","Businessman, Interior designer"
+,1197,183,80,"Sun 18 Aug 1996","Composer, Conductor"
+,1197,985,80,"Mon 09 Oct 1967","Pianist, Conductor"
+,1198,986,1008,"Sun 16 Jun 1996","Journalist, Writer"
+,1198,420,1009,"Sat 21 Jan 1984","Journalist, Writer"
+,1199,158,315,"Sun 26 May 1996","Film and theatre producer"
+,1200,987,183,"Sun 12 May 1996","Actor, Comedian"
+,1201,250,1010,"Sun 21 Apr 1996","Novelist, Playwright"
+,1202,363,1011,"Sun 14 Apr 1996","Newspaper proprietor"
+,1203,988,1012,"Sun 07 Apr 1996","Cricket umpire"
+,1204,989,1013,"Sun 31 Mar 1996","Falklands War veteran"
+,1205,466,1014,"Sun 17 Mar 1996","Chairman of the National Westminster Bank, Businessman, Banker, Lawyer"
+,1206,990,1015,"Sun 03 Mar 1996","Shadow Chancellor (became Prime Minister in 2007), Politician - Labour"
+,1207,991,1014,"Sun 25 Feb 1996","Artist, Surgeon"
+,1208,992,272,"Sun 18 Feb 1996","Academic, Critic"
+,1209,856,1016,"Sun 28 Jan 1996",Novelist
+,1210,75,1017,"Sun 14 Jan 1996","Playwright, Screenwriter"
+,1211,158,29,"Sun 07 Jan 1996","Playwright, Screenwriter"
+,1212,993,1018,"Sun 19 Nov 1995","Record producer, Composer"
+,1212,994,1019,"Sat 31 Jul 1982","Record producer, Composer"
+,1213,995,219,"Sun 12 Nov 1995",Novelist
+,1214,996,1020,"Sun 22 Oct 1995",Lyricist
+,1215,986,1021,"Sun 15 Oct 1995","Academic, Writer"
+,1216,986,1022,"Sun 08 Oct 1995","Controller of BBC1, Broadcaster"
+,1217,997,1023,"Sun 24 Sep 1995","Businessman, Advertising executive"
+,1218,998,282,"Sun 17 Sep 1995","Ornithologist, Conservationist, Journalist"
+,1219,999,1024,"Sun 10 Sep 1995","Novelist, Poet"
+,1220,1000,505,"Sun 02 Jul 1995","Landowner, Property developer"
+,1221,1001,1025,"Sun 25 Jun 1995","Fashion designer"
+,1222,1002,1026,"Sun 18 Jun 1995",Surgeon
+,1223,1003,753,"Sun 11 Jun 1995","Bluesman, Singer-songwriter, Guitarist"
+,1224,1004,1027,"Sun 04 Jun 1995","British actor"
+,1225,1005,1028,"Sun 21 May 1995","Former Press Secretary to Margaret Thatcher"
+,1226,1006,1029,"Sun 14 May 1995",Playwright
+,1227,223,1030,"Sun 07 May 1995","Archbishop of Canterbury"
+,1228,1007,1031,"Sun 30 Apr 1995","Businessman, Record producer"
+,1229,1008,1032,"Sun 23 Apr 1995",Composer
+,1230,1009,1033,"Sun 16 Apr 1995","British actor"
+,1231,23,1034,"Sun 09 Apr 1995","Musician, Counter-tenor, Opera singer"
+,1232,1010,1035,"Sun 19 Mar 1995","Musician, Critic"
+,1233,1011,505,"Sun 12 Mar 1995","Writer, Publisher"
+,1234,1012,282,"Sun 05 Mar 1995",Historian
+,1235,1013,1036,"Sun 26 Feb 1995","British actor"
+,1236,1014,1037,"Sun 19 Feb 1995","General Secretary of the Rail, Maritime and Transport Union"
+,1237,1015,1038,"Sun 29 Jan 1995",Businessman
+,1238,1016,1039,"Sun 22 Jan 1995","Biologist, Writer"
+,1239,1017,943,"Sun 15 Jan 1995","Screenwriter, Television producer"
+,1240,1018,80,"Sun 01 Jan 1995","Politician - Conservative, Diarist"
+,1241,1019,1040,"Sun 25 Dec 1994","Television actor"
+,1242,1020,1041,"Sun 27 Nov 1994",Painter
+,1243,1021,1042,"Sun 13 Nov 1994","Conductor, Composer"
+,1244,1022,1043,"Sun 06 Nov 1994","Archbishop of Cape Town"
+,1245,175,1044,"Sun 16 Oct 1994","Chairman of Glyndebourne"
+,1246,363,1045,"Sun 02 Oct 1994",Poet
+,1247,1023,1046,"Sun 18 Sep 1994",Composer
+,1248,1024,1047,"Sun 10 Jul 1994","Rabbi, Broadcaster"
+,1249,1025,182,"Sun 03 Jul 1994","Journalist, Broadcaster, Editor"
+,1250,1026,1048,"Sun 26 Jun 1994","Director of the Promenade Concerts, Broadcaster, Arts administrator"
+,1251,1027,1049,"Sun 19 Jun 1994","Art critic"
+,1252,1028,1050,"Sun 05 Jun 1994","Theatre critic"
+,1253,1029,1051,"Sun 29 May 1994",Jockey
+,1254,1030,1052,"Sun 08 May 1994","Blindness campaigner, Scientist"
+,1255,397,1053,"Sun 01 May 1994","Writer, Broadcaster"
+,1256,425,1054,"Sun 24 Apr 1994","Newsreader, Journalist"
+,1257,129,1055,"Sun 17 Apr 1994","Composer, Conductor"
+,1258,1031,1056,"Sun 10 Apr 1994",Poet
+,1259,1032,1057,"Sun 03 Apr 1994",Explorer
+,1259,1033,1058,"Sat 29 Oct 1983",Explorer
+,1260,1034,1059,"Sun 27 Mar 1994","Newspaper proprietor"
+,1261,1035,1060,"Sun 20 Feb 1994","Chancellor of the Exchequer, Politician - Conservative"
+,1262,1036,1061,"Sun 06 Feb 1994","Creator of Hitchhiker's Guide to the Galaxy"
+,1263,1037,1062,"Sun 23 Jan 1994",Playwright
+,1264,1037,1063,"Sun 16 Jan 1994",Composer
+,1265,379,1064,"Sun 09 Jan 1994","Editor of Private Eye, Broadcaster"
+,1266,1038,1065,"Sun 02 Jan 1994","Neurologist, Writer"
+,1267,1039,1066,"Sun 26 Dec 1993","Politician - Labour"
+,1268,1040,80,"Sun 19 Dec 1993","Drummer, Singer-songwriter"
+,1269,1041,1067,"Sun 28 Nov 1993","Journalist, Columnist"
+,1270,1042,1068,"Sun 31 Oct 1993","Chief Inspector of Prisons"
+,1271,1043,460,"Sun 24 Oct 1993","Broadcaster, Comedian, DJ"
+,1272,1044,1069,"Sun 17 Oct 1993","American Ambassador to the UK, Diplomat, Ambassador"
+,1273,1045,505,"Sun 26 Sep 1993","Chairman of the Arts Council, Businessman, Arts"
+,1274,1046,299,"Sun 19 Sep 1993","Comedian, Broadcaster"
+,1275,1047,1070,"Sun 11 Jul 1993","Theatre director"
+,1276,190,1071,"Sun 04 Jul 1993",Writer
+,1277,724,1072,"Sun 27 Jun 1993","European Commissioner, Politician - Conservative"
+,1278,217,1073,"Sun 06 Jun 1993",Boxer
+,1279,1048,1074,"Sun 23 May 1993","GEC businessman"
+,1280,149,267,"Sun 09 May 1993","Journalist, Broadcaster"
+,1281,1049,505,"Sun 02 May 1993","Film director"
+,1282,1050,1075,"Sun 18 Apr 1993",Chef
+,1283,1051,1076,"Sun 11 Apr 1993","Jockey, Journalist"
+,1284,1052,541,"Sun 04 Apr 1993","Founder of Bristol Exploratory, Scientist, Psychologist"
+,1285,1053,80,"Sun 14 Mar 1993","Award winning sitcom writer"
+,1286,1054,1077,"Sun 07 Mar 1993","Politician - Labour"
+,1287,1055,1078,"Sun 28 Feb 1993","Film director, Producer"
+,1288,1056,1079,"Sun 21 Feb 1993","Civil servant"
+,1289,149,80,"Sun 31 Jan 1993","Psychiatrist, Writer"
+,1290,129,1080,"Fri 25 Dec 1992","Physicist, Writer"
+,1291,1057,1081,"Sun 20 Dec 1992","Fashion designer"
+,1292,1058,430,"Sun 13 Dec 1992",Botanist
+,1293,253,1082,"Sun 29 Nov 1992","Politician - Conservative"
+,1294,1059,1083,"Sun 22 Nov 1992",Conductor
+,1295,229,1084,"Sun 01 Nov 1992","Commander of coalition forces in the Gulf War"
+,1296,244,1085,"Sun 25 Oct 1992","General-Secretary of the Amalgamated Engineering  Electrical Union"
+,1297,775,1086,"Sun 27 Sep 1992","Founder of the Samaritans"
+,1298,377,1087,"Sun 20 Sep 1992","Chef, Restaurateur"
+,1299,244,1088,"Sun 06 Sep 1992","Founder of Live Aid, Singer, Songwriter"
+,1300,1060,1089,"Sun 26 Jul 1992","Secretary of State for National Heritage, Politician - Conservative"
+,1301,1061,1090,"Sun 19 Jul 1992","Newspaper columnist"
+,1302,1062,1091,"Sun 12 Jul 1992",Photo-journalist
+,1303,1063,1092,"Sun 21 Jun 1992","Missionary, Humanitarian"
+,1304,1064,1093,"Sun 14 Jun 1992","British actor"
+,1305,1065,1094,"Sun 07 Jun 1992","Swimmer, Olympic gold medal winner"
+,1306,17,80,"Sun 24 May 1992","Lord Chief Justice"
+,1307,527,1095,"Sun 17 May 1992","Chief Executive of Channel 4"
+,1308,1066,1096,"Sun 10 May 1992","Rugby player"
+,1309,1067,1097,"Sun 26 Apr 1992","Opera singer - tenor"
+,1310,1068,1098,"Sun 05 Apr 1992","Art historian, Writer"
+,1311,1069,1099,"Sun 15 Mar 1992","Historian, Philosopher"
+,1312,466,1100,"Sun 08 Mar 1992","Businessman, Publisher, Editor"
+,1313,1070,1101,"Sun 01 Mar 1992","Geneticist, Broadcaster"
+,1314,1071,1046,"Sun 23 Feb 1992","Musician, Singer, Songwriter"
+,1315,1072,1102,"Sun 16 Feb 1992","Athlete, Neurologist"
+,1316,1073,145,"Sun 09 Feb 1992","Actor, Comedian"
+,1317,283,1103,"Sun 02 Feb 1992",Novelist
+,1318,1074,1104,"Sun 26 Jan 1992","Prime Minister, Politician - Conservative"
+,1319,562,282,"Sun 19 Jan 1992","Lord Bishop of Durham"
+,1320,1075,80,"Sun 12 Jan 1992","Actor, Film director, Writer"
+,1321,1076,1105,"Sun 22 Dec 1991","Allo 'Allo actor"
+,1322,1077,1106,"Sun 01 Dec 1991","Steeplejack, Broadcaster"
+,1323,1078,29,"Sun 17 Nov 1991","Gaia scientist"
+,1324,1079,1107,"Sun 10 Nov 1991","Theatre impresario"
+,1325,1080,54,"Sun 03 Nov 1991","Historian, Campaigner"
+,1326,217,1108,"Sun 27 Oct 1991","American actor"
+,1327,1081,1109,"Sun 13 Oct 1991","Film director"
+,1327,1082,289,"Mon 10 Apr 1967","Film director"
+,1328,1083,1110,"Sun 06 Oct 1991","Cricketer, Politician"
+,1329,1084,1111,"Sun 29 Sep 1991",Photographer
+,1330,1085,1112,"Sun 22 Sep 1991",Conductor
+,1331,948,1107,"Sun 15 Sep 1991","Director-General of the Confederation of Business Industry, Business"
+,1332,257,293,"Sun 01 Sep 1991","Engineer, Architect"
+,1333,825,1113,"Sun 25 Aug 1991","Playwright, Screenwriter"
+,1334,1086,1114,"Sun 07 Jul 1991","Former Attorney General, Politician- Labour"
+,1335,1087,80,"Sun 30 Jun 1991","Trade union leader"
+,1336,1088,957,"Sun 23 Jun 1991","Advertising executive"
+,1337,75,1115,"Sun 09 Jun 1991","Poet, Playwright"
+,1338,1089,1116,"Sun 02 Jun 1991","Chef, Restaurateur"
+,1339,1090,290,"Sun 26 May 1991","Shadow Chancellor, Politician - Labour"
+,1340,1091,14,"Sun 19 May 1991","BBC journalist, Broadcaster"
+,1341,1092,1117,"Sun 12 May 1991","Writer, Explorer"
+,1342,557,1118,"Sun 21 Apr 1991","Chief Rabbi Elect"
+,1343,420,1119,"Sun 14 Apr 1991","British Airways businessman"
+,1344,1093,1120,"Sun 07 Apr 1991",Novelist
+,1345,1094,1046,"Sun 17 Mar 1991","Chairman of National Power"
+,1346,1095,1121,"Sun 10 Mar 1991","Spectator columnist, Spectator columnist"
+,1347,1096,1122,"Sun 03 Mar 1991","Former Chairman of Granada"
+,1348,1097,1123,"Sun 24 Feb 1991","Theatre director"
+,1349,163,219,"Sun 10 Feb 1991","Leader of the Liberal Democrats, Politician - Liberal Democrat"
+,1350,1098,1124,"Sun 03 Feb 1991","Former German Foreign Affairs Minister"
+,1351,1099,1125,"Sun 27 Jan 1991","Musician, Experimental artist"
+,1352,17,1126,"Sun 20 Jan 1991","Film director"
+,1353,492,1127,"Sun 06 Jan 1991","Lawyer, Political advisor"
+,1354,1032,1128,"Sun 30 Dec 1990","Broadcaster, TV chef"
+,1355,1100,1129,"Sun 23 Dec 1990","Former hostage, Writer"
+,1356,1101,1130,"Sun 02 Dec 1990",Sculptor
+,1357,1102,1131,"Sun 04 Nov 1990",Academic
+,1358,1103,1132,"Sun 28 Oct 1990","Director of the South Bank Centre"
+,1359,1104,1133,"Sun 21 Oct 1990",Comedian
+,1360,1105,1134,"Sun 14 Oct 1990","Former General-Secretary of the ASTMS , Campaigner"
+,1361,527,1135,"Sun 07 Oct 1990",Actor
+,1362,1106,1136,"Sun 30 Sep 1990","Captain of England football team, Athlete, Footballer, Broadcaster"
+,1363,1107,1137,"Sun 02 Sep 1990","Athlete, Sailor"
+,1363,412,105,"Sat 04 Jul 1970","Round-the-world sailor"
+,1364,1108,1138,"Sun 08 Jul 1990","Director of the ENO, Theatre, Opera"
+,1365,1109,1139,"Sun 01 Jul 1990","Artist, Decorative artist"
+,1366,1078,1140,"Sun 24 Jun 1990","Lawyer, Barrister"
+,1367,1110,1141,"Sun 17 Jun 1990","Theatre, Impresario"
+,1368,1005,1142,"Sun 03 Jun 1990",Comedian
+,1368,322,408,"Sat 13 Jul 1963",Comedian
+,1369,1111,1143,"Sun 27 May 1990","Local Government spokesperson, Politician - Labour"
+,1370,1112,1144,"Sun 20 May 1990",Actor
+,1371,1113,1145,"Sun 15 Apr 1990","Ambassador to the UN , Scientist"
+,1372,1114,1146,"Sun 25 Mar 1990","Politician - Conservative"
+,1373,977,1147,"Sun 18 Mar 1990","Engineer, Architect"
+,1374,1115,1148,"Sun 11 Mar 1990","President of the Royal Society, Nobel Prize winner"
+,1375,17,367,"Sun 04 Mar 1990","Journalist, Broadcaster"
+,1376,118,1149,"Sun 25 Feb 1990","Actor, Comedian"
+,1377,825,267,"Sun 18 Feb 1990",Journalist
+,1378,1116,1150,"Sun 11 Feb 1990",Conductor
+,1379,411,1151,"Sun 28 Jan 1990","Businessman, Publisher"
+,1380,324,1152,"Sun 21 Jan 1990","Political interviewer"
+,1380,232,367,"Mon 08 Sep 1969","Broadcaster, Reporter, Interviewer"
+,1381,405,629,"Sun 14 Jan 1990","Radio broadcaster, Disc jockey"
+,1382,1117,1153,"Sun 07 Jan 1990","Politician - Labour, MP"
+,1383,1118,1154,"Sun 31 Dec 1989","Hollywood film star"
+,1383,304,1155,"Mon 28 Sep 1964","50s Hollywood film star"
+,1384,163,415,"Sun 03 Dec 1989","Former Chancellor of the Exchequer , Politician - Conservative"
+,1385,75,1156,"Sun 19 Nov 1989","Oxford Professor of Poetry"
+,1386,1119,1157,"Sun 12 Nov 1989","Theatre producer"
+,1387,1120,626,"Sun 05 Nov 1989",Cricketer
+,1388,1121,1158,"Sun 22 Oct 1989","Novelist, Travel writer"
+,1389,1122,105,"Sun 15 Oct 1989",Playwright
+,1390,1123,80,"Sun 08 Oct 1989","Actor, Jazz pianist"
+,1391,1124,1159,"Sun 24 Sep 1989",Pianist
+,1391,1125,1160,"Mon 04 Sep 1967","Musician, Concert pianist"
+,1392,784,293,"Sun 10 Sep 1989","Musician, Rock guitarist, Songwriter"
+,1393,1,1019,"Sun 16 Jul 1989","Former Principal of the Royal Academy of Music, Conductor"
+,1394,1126,1161,"Sun 09 Jul 1989","Radio presenter, Writer, Theatre director"
+,1395,57,510,"Sun 02 Jul 1989","Businessman, Sports agent"
+,1396,960,1162,"Sun 11 Jun 1989","Director of Friends of the Earth"
+,1397,1127,410,"Sun 04 Jun 1989","Entrepreneur , World-record holder"
+,1398,1128,1163,"Sun 28 May 1989","Former diplomat"
+,1399,825,1164,"Sun 07 May 1989","Comedian, Actor"
+,1400,1129,1165,"Sun 16 Apr 1989","Politician - Social Democratic Party"
+,1401,217,1166,"Sun 09 Apr 1989","Eastenders actor"
+,1402,149,1167,"Sun 02 Apr 1989",Poet
+,1402,1130,340,"Mon 09 Jul 1962","Poet, Novelist"
+,1403,1131,1168,"Sun 12 Mar 1989","Satirical cartoonist"
+,1404,465,1169,"Sun 26 Feb 1989","Playwright, Director"
+,1405,1132,1170,"Sun 19 Feb 1989","Politician - Conservative"
+,1406,321,1171,"Sun 12 Feb 1989",Conductor
+,1407,363,1020,"Sun 05 Feb 1989",Hotelier
+,1408,236,415,"Sun 22 Jan 1989","Lead Singer of Culture Club"
+,1409,1133,1172,"Sun 15 Jan 1989","Politician - Labour"
+,1410,977,1173,"Sun 01 Jan 1989","Archbishop of Canterbury"
+,1411,1134,510,"Sun 18 Dec 1988","Former Prime Minister, Politician - Conservative"
+,1412,1135,293,"Sun 11 Dec 1988","British actor"
+,1413,1016,1174,"Sun 27 Nov 1988","Comedian, Writer , Actor"
+,1414,1136,1175,"Sun 20 Nov 1988",Jockey
+,1415,825,505,"Sun 13 Nov 1988","British actor"
+,1416,1137,1176,"Sun 06 Nov 1988","Warden of Wadham College Oxford"
+,1417,1138,1177,"Sun 23 Oct 1988","Former leader of the Labour Party, Politician - Labour"
+,1418,324,282,"Sun 25 Sep 1988","President of the Anti-Apartheid Movement, Campaigner"
+,1419,205,1178,"Sun 18 Sep 1988",Novelist
+,1420,1139,922,"Sun 11 Sep 1988",Pianist
+,1421,1140,803,"Sun 04 Sep 1988","Guidebook author"
+,1422,1141,1179,"Sun 21 Aug 1988",Historian
+,1423,1142,1180,"Sun 07 Aug 1988","Northern Ireland MP and MEP, Leader of Democratic Unionist Party, Politician - DUP"
+,1424,321,1181,"Sun 24 Jul 1988","Politician, Civil servant"
+,1425,1143,1182,"Sun 10 Jul 1988","Pop star"
+,1426,1144,1183,"Sun 03 Jul 1988","Leader of the Social Democratic Party, Politician - Social Democratic Party"
+,1427,1145,1184,"Sun 26 Jun 1988","General Director of the Royal Opera House"
+,1428,1146,367,"Sun 12 Jun 1988","Home Office Minister, Politician - Conservative"
+,1429,1147,1185,"Sun 05 Jun 1988",Chef
+,1430,1148,1186,"Sun 29 May 1988","Rabbi, Broadcaster"
+,1431,1149,1187,"Sun 15 May 1988","Actor , Comedian"
+,1432,1150,1188,"Sun 01 May 1988","Leader of the Labour Party, Politician - Labour"
+,1433,1151,1189,"Sun 24 Apr 1988",Actor
+,1434,1152,1190,"Sun 10 Apr 1988","President of the National Union of Mineworkers"
+,1435,1153,1191,"Sun 27 Mar 1988","Politician - Conservative, Writer"
+,1436,1154,408,"Sun 13 Mar 1988","Distance runner"
+,1437,1155,1192,"Sun 06 Mar 1988","Writer, Broadcaster"
+,1438,1156,1193,"Sun 21 Feb 1988","Playwright, Screenwriter"
+,1438,1157,1194,"Sat 17 Dec 1977","Screenwriter, Playwright"
+,1439,1158,505,"Sun 14 Feb 1988",Journalist
+,1440,1,1,"Sun 31 Jan 1988","Politician - Labour, Businessman"
+,1441,1159,1195,"Sun 17 Jan 1988","Politician - Conservative"
+,1442,1160,1196,"Sun 13 Dec 1987","Media mogul"
+,1443,1161,1197,"Sun 06 Dec 1987","British actor"
+,1444,1162,1198,"Sun 29 Nov 1987",Poet
+,1445,1163,1199,"Sun 22 Nov 1987","Comedian, Writer"
+,1446,802,1200,"Sun 15 Nov 1987","Chef, Businessman, Restaurateur"
+,1446,1164,1201,"Mon 04 Oct 1965",Chef
+,1447,1042,1202,"Sun 01 Nov 1987","Presenter of University Challenge, Writer"
+,1448,1165,219,"Sun 25 Oct 1987","Journalist, Critic"
+,1449,17,1203,"Sun 18 Oct 1987","Former Prime Minister, Politician - Labour"
+,1450,1166,1204,"Sun 11 Oct 1987","Journalist, Writer"
+,1451,1167,80,"Sun 27 Sep 1987",Pianist
+,1451,1168,1205,"Mon 27 Nov 1967",Pianist
+,1452,1169,1206,"Sun 20 Sep 1987","Broadcaster, Journalist"
+,1453,160,1207,"Sun 30 Aug 1987","Founder of the National Motor Museum"
+,1454,1170,1208,"Sun 09 Aug 1987",Writer
+,1455,1078,1209,"Sun 26 Jul 1987","Comic actor"
+,1455,445,1210,"Mon 22 May 1961","Carry On and Hancock's Half Hour actor, Comedian"
+,1456,1171,1211,"Sun 05 Jul 1987","Newspaper proprietor, Former MP - Labour"
+,1457,1172,1212,"Sun 26 Apr 1987","Sports broadcaster"
+,1458,1173,1213,"Sun 19 Apr 1987","Theatre director"
+,1459,1174,1214,"Sun 12 Apr 1987","Politician - Conservative, Journalist, Writer"
+,1460,437,80,"Sun 05 Apr 1987","Brideshead Revisited actor"
+,1461,1175,1215,"Sun 29 Mar 1987","Golfer, Golf commentator"
+,1462,1176,1216,"Sun 22 Mar 1987","Politician - Liberal"
+,1463,426,1217,"Sun 08 Mar 1987",Singer
+,1464,1,1,"Sun 01 Mar 1987","Chairman of the Stock Exchange"
+,1465,1177,1218,"Sun 22 Feb 1987","Film director"
+,1466,1175,1219,"Sun 15 Feb 1987","British actor"
+,1466,214,80,"Mon 11 Sep 1967",Actor
+,1467,37,293,"Sun 18 Jan 1987","Actor, Screenwriter"
+,1468,1,1,"Sun 11 Jan 1987","Chairman of the General Electric Company, Politician, MP"
+,1468,253,415,"Sat 11 Jan 1975","Politician - Conservative, Farmer"
+,1469,1178,1220,"Sun 04 Jan 1987",Singer
+,1469,1179,340,"Sat 27 May 1972",Singer
+,1470,1180,963,"Sun 14 Dec 1986","Writer, Broadcaster, Lyricist"
+,1471,594,145,"Sun 30 Nov 1986","Yes Minister actor"
+,1472,945,793,"Sun 23 Nov 1986",Explorer
+,1473,1181,1221,"Sun 16 Nov 1986","Theatre producer and director"
+,1474,824,1222,"Sun 09 Nov 1986","Novelist, Poet"
+,1474,1182,1223,"Mon 29 May 1961","Novelist, Poet"
+,1475,1183,1224,"Sun 19 Oct 1986",Cricketer
+,1476,1184,1225,"Sun 12 Oct 1986","Writer, Astronomer, Mathematician"
+,1476,1,1226,"Thu 09 Dec 1954","Astrophysicist, Writer"
+,1477,292,1227,"Sun 05 Oct 1986","Businessman, Industrialist"
+,1478,1185,1228,"Sun 28 Sep 1986",Novelist
+,1479,1186,675,"Sun 14 Sep 1986","Horror writer"
+,1480,1082,1229,"Sun 07 Sep 1986","Director of the Toronto Symphony Orchestra, Conductor"
+,1481,466,1230,"Sun 31 Aug 1986","Newspaper journalist"
+,1482,149,1231,"Sun 24 Aug 1986",Novelist
+,1482,1187,105,"Mon 13 Apr 1964",Novelist
+,1483,1188,1232,"Sun 03 Aug 1986","Travel writer"
+,1484,1189,1092,"Sun 27 Jul 1986","Filmmaker, Writer"
+,1485,1190,1233,"Sun 20 Jul 1986","Foreign Secretary, Politician - Conservative"
+,1486,667,1234,"Sun 13 Jul 1986","Director of the British Museum"
+,1487,1191,1235,"Sun 06 Jul 1986","Presenter of the Today programme"
+,1488,1192,1236,"Sun 22 Jun 1986","Formula One driver"
+,1489,527,1237,"Sun 15 Jun 1986","Editor of the Daily Telegraph"
+,1490,1193,1238,"Sun 08 Jun 1986","Film producer"
+,1491,1194,314,"Sun 01 Jun 1986","Singer, Songwriter"
+,1492,1195,1239,"Sun 06 Apr 1986","Science fiction novelist"
+,1493,1143,267,"Sun 16 Mar 1986","Sports commentator"
+,1494,1196,1240,"Sun 02 Mar 1986","Jazz musician"
+,1494,1197,963,"Mon 14 Oct 1957","Jazz composer, Musician"
+,1495,1,505,"Sun 16 Feb 1986",Actor
+,1496,1198,571,"Sun 09 Feb 1986","Fashion designer"
+,1497,1199,1241,"Sun 02 Feb 1986","Snooker player"
+,1498,1200,1242,"Sun 26 Jan 1986","Politician - Labour"
+,1499,1201,1243,"Sun 12 Jan 1986",Violinist
+,1500,277,1244,"Sat 04 May 1985","Leader of the Liberal Party, Politician - Liberal"
+,1501,1,1,"Sat 20 Apr 1985","Chief Editor of the Oxford English Dictionary, Writer, Academic, Editor"
+,1502,1202,1245,"Sat 13 Apr 1985","Physicist, Astronaut"
+,1503,1203,1246,"Sat 30 Mar 1985","Television presenter"
+,1504,1204,963,"Sat 23 Mar 1985","Theatre director"
+,1505,1205,1247,"Sat 16 Mar 1985","Artist, Designer"
+,1506,657,1248,"Sat 02 Mar 1985",Pianist
+,1507,317,80,"Sat 23 Feb 1985","British actor"
+,1508,1206,1249,"Sat 16 Feb 1985","Foreign correspondent"
+,1509,1207,1250,"Sat 19 Jan 1985","Chairman of Imperial Chemical Industries"
+,1510,1208,1251,"Sat 12 Jan 1985",Playwright
+,1511,1209,1252,"Sat 05 Jan 1985",Composer
+,1511,977,1253,"Mon 29 Apr 1968",Composer
+,1512,1,1,"Sat 15 Dec 1984","Theatre, Playwright"
+,1513,292,1254,"Sat 08 Dec 1984","Director-General of the British Council, Civil servant"
+,1514,1210,1255,"Sat 01 Dec 1984","Musician, Composer"
+,1515,1211,1256,"Sat 24 Nov 1984","Explorer, Farmer"
+,1516,1212,1257,"Sat 17 Nov 1984","Film producer"
+,1517,1213,1258,"Sat 10 Nov 1984",Conductor
+,1518,324,1259,"Sat 03 Nov 1984","Comic novelist"
+,1519,229,1260,"Sat 27 Oct 1984","Opera singer - tenor"
+,1520,1214,29,"Sat 20 Oct 1984","Actor, Writer, Director"
+,1521,923,1261,"Fri 19 Oct 1984",Cartoonist
+,1522,1215,1262,"Sat 06 Oct 1984","Musician, Saxophonist"
+,1523,763,319,"Sat 29 Sep 1984","British actor"
+,1524,1216,1248,"Sat 22 Sep 1984",Photojournalist
+,1525,1217,1263,"Sat 15 Sep 1984","Circus owner"
+,1526,214,1264,"Sat 01 Sep 1984",Playwright
+,1527,1218,1,"Sat 25 Aug 1984",Writer
+,1528,1219,80,"Sat 18 Aug 1984","Comedian, Cartoonist, Actor"
+,1529,229,1265,"Sat 11 Aug 1984","Musician, Composer"
+,1530,1220,1266,"Sat 04 Aug 1984","Maharani of Jaipur, Politician"
+,1531,1221,1267,"Sat 28 Jul 1984","Academic, Philosopher, Writer"
+,1532,1222,1268,"Sat 14 Jul 1984",Pianist
+,1533,1223,1269,"Sat 07 Jul 1984","Academic, Businessman"
+,1534,1,1,"Sat 30 Jun 1984","Musician, Conductor"
+,1535,590,1270,"Sat 12 May 1984","Wine writer"
+,1536,214,1271,"Sat 28 Apr 1984","Rumpole actor"
+,1537,75,1272,"Sat 21 Apr 1984","Academic, Writer"
+,1538,1224,1158,"Sat 07 Apr 1984","Superman actor"
+,1539,1225,1273,"Sat 31 Mar 1984","Cellist, Composer"
+,1539,1226,1274,"Mon 15 Jun 1964","Cellist, Composer"
+,1540,1227,1275,"Sat 24 Mar 1984",Businessman
+,1541,1228,1276,"Sat 17 Mar 1984","Head Chef at the Ritz"
+,1542,1229,803,"Sat 10 Mar 1984",Photojournalist
+,1543,1230,1277,"Sat 03 Mar 1984","Journalist, Broadcaster"
+,1544,1,505,"Sat 25 Feb 1984","British actor"
+,1545,1231,1278,"Sat 18 Feb 1984","Jazz band leader"
+,1546,1232,1279,"Sat 11 Feb 1984","Politician - Labour, Lawyer"
+,1547,1233,1280,"Sat 04 Feb 1984","American comic actor"
+,1548,1234,1281,"Sat 14 Jan 1984",Cricketer
+,1549,217,183,"Sat 17 Dec 1983","Hollywood film star"
+,1549,1235,80,"Sat 25 May 1974","Hollywood film star"
+,1550,1236,1282,"Sat 10 Dec 1983",Artist
+,1550,75,319,"Sat 18 Jul 1970",Artist
+,1551,1237,1283,"Sat 03 Dec 1983",Composer
+,1552,1238,1284,"Sat 19 Nov 1983","Former Director-General of the BBC"
+,1553,1239,308,"Sat 12 Nov 1983","Director of the National Theatre"
+,1553,1240,1285,"Mon 25 Oct 1965","Theatre, Director, Producer"
+,1554,1241,1286,"Sat 15 Oct 1983","Israeli actor"
+,1555,1242,1287,"Sat 24 Sep 1983","British actor"
+,1556,434,277,"Sat 17 Sep 1983","Jazz musician"
+,1557,1243,988,"Sat 03 Sep 1983","Actor, Singer"
+,1558,1244,182,"Sat 20 Aug 1983","Academic, Novelist"
+,1559,1245,1288,"Sat 13 Aug 1983","Actor, Teddy bear expert"
+,1560,1246,1289,"Sat 06 Aug 1983","Architect, Landscape architect"
+,1561,1247,1290,"Sat 30 Jul 1983","Novelist, Columnist, Screenwriter"
+,1562,1248,1291,"Sat 23 Jul 1983","Theatre set designer"
+,1563,1249,1292,"Sat 16 Jul 1983","Chief Conductor of the BBC Symphony Orchestra"
+,1564,1,1,"Sat 09 Jul 1983","Musician, Guitarist"
+,1564,1250,1293,"Mon 05 Jun 1961",Guitarist
+,1565,1251,145,"Sat 02 Jul 1983","Monty Python performer, Writer, Comedian"
+,1566,1252,1294,"Sat 11 Jun 1983","Opera singer - tenor"
+,1566,1253,299,"Mon 21 Jul 1969","Opera singer - tenor"
+,1567,1172,214,"Sat 14 May 1983","Retired Old Bailey judge"
+,1568,1254,1295,"Sat 07 May 1983","Actor, Comedian"
+,1569,1078,1296,"Sat 30 Apr 1983","Novelist, Journalist"
+,1570,1255,394,"Sat 23 Apr 1983","Comedian, Musician"
+,1571,282,1297,"Sat 16 Apr 1983",Journalist
+,1572,1256,1298,"Sat 09 Apr 1983",Violinist
+,1573,1257,1299,"Sat 02 Apr 1983","British film actor"
+,1574,466,418,"Sat 19 Mar 1983","Director and chief surgeon of East African Flying Doctor service"
+,1575,1258,1300,"Sat 12 Mar 1983",Writer
+,1576,1259,1301,"Sat 05 Mar 1983",Choreographer
+,1577,1260,1302,"Sat 26 Feb 1983","Painter, Restorer"
+,1578,149,1303,"Sat 19 Feb 1983","Film director"
+,1579,1261,926,"Sat 29 Jan 1983",Explorer
+,1580,1262,1020,"Sat 08 Jan 1983","Snooker player"
+,1581,309,1304,"Sat 18 Dec 1982",Composer
+,1582,527,80,"Sat 04 Dec 1982","Composer, Singer, Pianist"
+,1583,1263,105,"Sat 30 Oct 1982","Speaker of the House of Commons, Politician - Labour"
+,1584,775,1305,"Sat 23 Oct 1982","Musician, Comedian"
+,1585,297,1306,"Sat 16 Oct 1982","Critic, Poet"
+,1586,1264,1,"Sat 02 Oct 1982","Artistic Director of Opera North, Musician"
+,1587,297,1307,"Sat 25 Sep 1982",Novelist
+,1588,1265,1308,"Sat 18 Sep 1982",Organist
+,1589,1266,1309,"Sat 11 Sep 1982",Conductor
+,1590,790,203,"Sat 21 Aug 1982",Composer
+,1591,1267,1310,"Sat 14 Aug 1982","British actor"
+,1591,1268,572,"Mon 12 Mar 1956","British actor"
+,1592,1269,1311,"Sat 24 Jul 1982","Marine biologist"
+,1593,986,1312,"Sat 10 Jul 1982","Explorer, Oceanographer"
+,1594,282,894,"Sat 19 Jun 1982","Travel writer"
+,1595,1270,1313,"Sat 12 Jun 1982",Choreographer
+,1595,1,1314,"Mon 26 Dec 1955","Dancer, Choreographer"
+,1596,1271,282,"Sat 29 May 1982","Founder of BBC Natural History Unit, Writer"
+,1597,960,1315,"Sat 15 May 1982","Crime writer"
+,1598,1272,80,"Sat 03 Apr 1982",Conductor
+,1599,144,1316,"Sat 27 Mar 1982",Composer
+,1599,529,1317,"Mon 19 Jul 1965","Musician, Composer"
+,1600,1273,1318,"Sat 20 Mar 1982","Founder of the Mermaid Theatre"
+,1600,1268,1,"Fri 25 Sep 1953","British actor"
+,1601,355,1319,"Sat 13 Mar 1982","Jazz trombonist"
+,1601,1274,1320,"Mon 29 Apr 1963","Jazz trombonist"
+,1602,1275,1321,"Sat 27 Feb 1982",Playwright
+,1602,1,128,"Mon 19 Jan 1959","Actor, Playwright"
+,1603,812,1322,"Sat 13 Feb 1982","Lord Mayor of London"
+,1604,1276,54,"Sat 06 Feb 1982","Former US Ambassador, Diplomat"
+,1605,1277,293,"Sat 30 Jan 1982","Former Beatle, Singer, Songwriter"
+,1606,118,1323,"Sat 23 Jan 1982",Comedian
+,1606,17,508,"Mon 28 Sep 1959",Comedian
+,1607,1278,1324,"Sat 09 Jan 1982",Historian
+,1608,1279,485,"Sat 02 Jan 1982",Footballer
+,1609,425,267,"Sat 26 Dec 1981","Managing Director of the ENO"
+,1609,214,267,"Sat 25 Dec 1965","Writer, Musician, Music administrator"
+,1610,1280,80,"Sat 05 Dec 1981","British theatre actor"
+,1611,1281,1325,"Sat 28 Nov 1981","Group Captain, RAF pilot"
+,1612,70,1,"Sat 14 Nov 1981","Writer, Novelist"
+,1613,420,366,"Sat 07 Nov 1981",Archaeologist
+,1614,1282,541,"Sat 31 Oct 1981",Photographer
+,1615,1283,1326,"Sat 24 Oct 1981",Actor
+,1616,1,1327,"Sat 10 Oct 1981","Opera singer - soprano"
+,1617,1284,1328,"Sat 03 Oct 1981",Musicians
+,1618,1285,293,"Sat 26 Sep 1981","Hollywood film star"
+,1618,1286,1329,"Mon 06 Mar 1961","Hollywood film star"
+,1619,1287,1330,"Sat 19 Sep 1981","Writer, Journalist, Broadcaster"
+,1619,1,551,"Mon 26 Nov 1956","Journalist, Broadcaster"
+,1620,1288,1331,"Sat 05 Sep 1981","Racing driver"
+,1621,1289,1332,"Sat 29 Aug 1981","Voice Of 'Miss Piggy' In The Muppet Show"
+,1622,1290,1333,"Sat 22 Aug 1981","The Good Life actor"
+,1623,322,198,"Sat 08 Aug 1981","Producer, Director"
+,1624,1291,198,"Sat 01 Aug 1981",Cellist
+,1625,1292,1334,"Sat 25 Jul 1981","James Bond actor"
+,1626,1293,1335,"Sat 18 Jul 1981","Astronomer, Writer"
+,1627,1294,125,"Sat 27 Jun 1981",Writer
+,1628,1295,1336,"Sat 20 Jun 1981","Opera singer - tenor"
+,1629,1296,319,"Sat 13 Jun 1981",Anthropologist
+,1630,1297,1337,"Sat 06 Jun 1981","Home Secretary, Politician - Conservative"
+,1631,1298,541,"Sat 30 May 1981","Opera singer - bass"
+,1632,32,1338,"Sat 23 May 1981","Musician, Composer"
+,1633,149,1,"Sat 16 May 1981",Actor
+,1633,232,1339,"Mon 29 Jan 1962","Classical British actor"
+,1634,1299,1340,"Sat 09 May 1981","Drummer, Bandleader"
+,1635,149,419,"Sat 02 May 1981",Choreographer
+,1635,1,1341,"Mon 26 Jan 1959",Choreographer
+,1636,1300,1342,"Sat 25 Apr 1981","British film actor"
+,1636,1,1,"Sat 08 Dec 1945",Actor
+,1637,17,105,"Sat 11 Apr 1981","Scottish soldier, Writer, Politician - Conservative"
+,1637,1301,1343,"Mon 14 May 1962","Politician - Conservative, Traveller, Diplomat"
+,1638,1302,1344,"Sat 04 Apr 1981","Singer, Songwriter"
+,1639,1303,1345,"Sat 21 Mar 1981","Television and radio broadcaster"
+,1640,1304,366,"Sat 07 Mar 1981",Actor
+,1641,1305,366,"Sat 14 Feb 1981","Show jumper"
+,1642,1306,1346,"Sat 31 Jan 1981","Writer, Politician - Conservative"
+,1643,282,491,"Sat 10 Jan 1981",Novelist
+,1644,1307,1347,"Sat 03 Jan 1981","Ice skater, Olympic gold medal winner"
+,1645,657,1348,"Sat 27 Dec 1980","Opera singer - tenor"
+,1646,1192,80,"Sat 20 Dec 1980","Comedian, Music hall"
+,1646,1308,485,"Mon 23 Dec 1968",Comedian
+,1646,1,80,"Thu 21 Apr 1955",Comedian
+,1646,1,1,"Thu 02 Apr 1942",Comedian
+,1647,1309,1243,"Sat 13 Dec 1980",Conductor
+,1648,1310,1349,"Sat 06 Dec 1980","Opera singer - tenor"
+,1649,367,1350,"Sat 29 Nov 1980",Boxer
+,1650,1311,80,"Sat 22 Nov 1980","British actor"
+,1651,17,1351,"Sat 08 Nov 1980","Director of the English National Opera"
+,1652,149,541,"Sat 01 Nov 1980","Writer, Journalist"
+,1653,1312,1352,"Sat 18 Oct 1980","Actor, Playwright, Wrestler"
+,1654,324,1353,"Sat 11 Oct 1980","General Director, Royal Opera House"
+,1655,1058,505,"Sat 04 Oct 1980","Naturalist, Writer"
+,1656,1313,1354,"Sat 13 Sep 1980",Conductor
+,1656,1314,1355,"Mon 25 Jul 1960","Musician, Conductor"
+,1657,1267,747,"Sat 06 Sep 1980",Photographer
+,1658,1315,1356,"Sat 23 Aug 1980","Sailor, Writer"
+,1659,1316,1357,"Sat 09 Aug 1980",Playwright
+,1660,1317,1358,"Sat 02 Aug 1980","Hollywood film star"
+,1661,324,1359,"Sat 26 Jul 1980",Broadcaster
+,1662,1318,1360,"Sat 19 Jul 1980","Decathlete, Olympian"
+,1663,297,80,"Sat 12 Jul 1980","Songwriter, Satirist, Mathematician"
+,1664,1319,1361,"Sat 05 Jul 1980",Novelist
+,1665,1320,1362,"Sat 21 Jun 1980","Soldier, Author"
+,1666,527,1363,"Sat 07 Jun 1980","British character actor"
+,1667,1321,1364,"Sat 31 May 1980","Opera singer - tenor"
+,1668,1322,1365,"Sat 24 May 1980","Jazz pianist"
+,1668,1,80,"Mon 16 Dec 1957","Jazz pianist"
+,1669,1078,387,"Sat 17 May 1980","Master of the Rolls"
+,1670,1323,1366,"Sat 03 May 1980","Film director"
+,1671,977,1367,"Sat 26 Apr 1980",Violinist
+,1672,977,1368,"Sat 19 Apr 1980",Screenwriter
+,1673,1324,1369,"Sat 12 Apr 1980","Reginald Perin actor"
+,1674,1325,105,"Sat 29 Mar 1980","British actor"
+,1675,1326,126,"Sat 15 Mar 1980",Writer
+,1676,1327,267,"Sat 16 Feb 1980","British actor"
+,1677,363,105,"Sat 09 Feb 1980",Conductor
+,1678,1328,1370,"Sat 02 Feb 1980","Producer, Director"
+,1679,1329,1371,"Sat 26 Jan 1980","Photographer, Designer"
+,1680,1330,729,"Sat 19 Jan 1980","Jazz trumpeter"
+,1681,940,1372,"Sat 12 Jan 1980","Chairman of British Rail"
+,1682,522,1373,"Sat 05 Jan 1980",Conductor
+,1683,350,1374,"Sat 22 Dec 1979",Cartoonist
+,1683,1,1375,"Thu 17 Feb 1955","Daily Express cartoonist"
+,1684,1331,1376,"Sat 15 Dec 1979","American novelist"
+,1685,1332,80,"Sat 01 Dec 1979",Poet
+,1686,350,1377,"Sat 24 Nov 1979",Playwright
+,1687,108,299,"Sat 17 Nov 1979","Actor, Monty Python, Presenter"
+,1688,1333,1378,"Sat 27 Oct 1979","Children's writer"
+,1689,1018,1379,"Sat 20 Oct 1979","My Fair Lady actor"
+,1690,350,1380,"Sat 06 Oct 1979","Explorer, Travel writer"
+,1691,1334,551,"Sat 22 Sep 1979","Thriller writer"
+,1692,295,237,"Sat 15 Sep 1979","Writer, Critic"
+,1693,1335,1381,"Sat 01 Sep 1979","British actor"
+,1694,1336,1382,"Sat 25 Aug 1979","Film writer, Broadcaster"
+,1695,1337,1,"Sat 18 Aug 1979","Musician, Bass, Opera singer"
+,1696,1338,1383,"Sat 04 Aug 1979","Classical British actor"
+,1696,1,1384,"Fri 12 Jun 1953","British classical actor"
+,1697,350,415,"Sat 14 Jul 1979",Historian
+,1698,1339,1385,"Sat 07 Jul 1979",Choreographer
+,1699,1340,1386,"Sat 30 Jun 1979","Opera singer - baritone"
+,1699,1,1387,"Mon 07 Jul 1958","Opera singer - baritone"
+,1700,1341,894,"Sat 23 Jun 1979","Creator of the 87th Precinct crime series, Writer"
+,1701,17,237,"Sat 09 Jun 1979","British actor"
+,1701,1,1388,"Mon 07 Apr 1958",Actor
+,1702,1342,1389,"Sat 02 Jun 1979","Patron of Music, Businessman, Philanthropist"
+,1702,1343,80,"Mon 15 Nov 1965","Businessman, Philanthropist"
+,1703,416,80,"Sat 26 May 1979","Musician, Clarinettist"
+,1704,1344,340,"Sat 19 May 1979","British actor"
+,1705,1042,1390,"Sat 05 May 1979","British journalist"
+,1706,1345,1391,"Sat 28 Apr 1979","British actor"
+,1707,160,1392,"Sat 14 Apr 1979","First man to climb Everest"
+,1708,1346,1393,"Sat 07 Apr 1979",Conductor
+,1708,1346,1394,"Mon 28 Mar 1960",Conductor
+,1709,279,1395,"Sat 31 Mar 1979","Actor, Writer, Singer"
+,1710,1347,485,"Sat 24 Mar 1979","Snooker player"
+,1711,1348,1396,"Sat 17 Feb 1979",Historian
+,1711,1332,1397,"Mon 22 Feb 1960",Historian
+,1712,1349,1398,"Sat 10 Feb 1979","Editor of the Guinness Book of Records"
+,1713,1350,1399,"Sat 03 Feb 1979","British actor"
+,1714,1351,1400,"Sat 27 Jan 1979","Opera singer - baritone"
+,1715,49,1401,"Sat 20 Jan 1979","American director"
+,1716,602,513,"Sat 13 Jan 1979","Novelist, Scriptwriter"
+,1717,1352,267,"Sat 06 Jan 1979","British actor"
+,1718,1334,1402,"Sat 30 Dec 1978",Photographer
+,1719,1353,193,"Sat 23 Dec 1978","Dancer, Actor, Choreographer"
+,1719,1,562,"Fri 19 Jun 1953","Dancer, Choreogapher"
+,1720,671,367,"Sat 16 Dec 1978","British actor"
+,1721,1354,1403,"Sat 09 Dec 1978","Rugby player"
+,1722,1355,1404,"Sat 02 Dec 1978",Pianist
+,1723,160,1405,"Sat 18 Nov 1978","Broadcaster, Botanist"
+,1724,1332,1406,"Sat 04 Nov 1978","Critic, Writer"
+,1725,1356,1407,"Sat 28 Oct 1978",Composer
+,1726,1357,1408,"Sat 21 Oct 1978","Novelist, Philosopher"
+,1727,397,1409,"Sat 14 Oct 1978","DJ, TV Presenter"
+,1728,232,1173,"Sat 07 Oct 1978",Playwright
+,1729,1358,299,"Sat 30 Sep 1978","Architectural historian"
+,1730,235,1410,"Sat 23 Sep 1978",Lyricist
+,1731,1359,54,"Sat 09 Sep 1978",Playwright
+,1732,1360,1411,"Sat 02 Sep 1978",Composer
+,1733,1361,432,"Sat 19 Aug 1978",Cricketer
+,1734,1362,1358,"Sat 01 Jul 1978","Film director, Actor, Comedian"
+,1735,129,1412,"Sat 17 Jun 1978",Pianist
+,1736,1363,922,"Sat 10 Jun 1978","British actor"
+,1737,232,894,"Sat 20 May 1978","Politician - Labour, Trade unionist"
+,1738,775,1413,"Sat 13 May 1978",Composer
+,1739,560,277,"Sat 06 May 1978","Singer, Songwriter"
+,1740,153,1414,"Sat 29 Apr 1978",Violinist
+,1741,466,1415,"Sat 15 Apr 1978","Soldier, Writer"
+,1742,1364,1416,"Sat 08 Apr 1978",Comedian
+,1743,1365,1417,"Sat 25 Mar 1978","Dance, Ballet dancer"
+,1744,1366,1418,"Sat 11 Mar 1978","Bishop of London"
+,1745,1367,1419,"Sat 25 Feb 1978",Historian
+,1746,1368,1420,"Sat 11 Feb 1978","Classical musicians"
+,1747,1369,1421,"Sat 04 Feb 1978","Comedian, Actor, Writer"
+,1747,1,1422,"Mon 10 Dec 1956","Goon Show comedian, Actor, Writer"
+,1748,297,54,"Sat 21 Jan 1978","Editor of Punch magazine"
+,1749,377,1423,"Sat 14 Jan 1978","Hollywood film star"
+,1750,349,1424,"Sat 24 Dec 1977","Oscar winning actor"
+,1750,522,1425,"Mon 27 Jun 1960","Oscar winning actor"
+,1751,1370,1426,"Sat 10 Dec 1977",Naturalist
+,1752,1371,128,"Sat 03 Dec 1977","Opera singer - soprano"
+,1753,1372,396,"Sat 26 Nov 1977","Poldark novelist"
+,1754,1373,1427,"Sat 19 Nov 1977","Actor, Writer, Director"
+,1754,214,1428,"Mon 06 Aug 1956","Actor, Writer, Broadcaster"
+,1754,1,1,"Wed 07 Mar 1951","Actor, Dramatist"
+,1755,1374,237,"Sat 12 Nov 1977",Biologist
+,1756,149,1429,"Sat 05 Nov 1977","Watership Down novelist"
+,1757,1375,1430,"Sat 29 Oct 1977",Dancer
+,1758,1376,1431,"Sat 15 Oct 1977",Motorcyclist
+,1759,1377,1255,"Sat 01 Oct 1977",Conductor
+,1760,450,485,"Sat 24 Sep 1977",Cricketer
+,1761,1378,1432,"Sat 17 Sep 1977","Director of the National Youth Theatre"
+,1762,1379,1433,"Sat 10 Sep 1977",Organist
+,1763,695,299,"Sat 27 Aug 1977",Poet
+,1764,149,1434,"Sat 13 Aug 1977","Writer, Biographer"
+,1765,1078,1350,"Sat 23 Jul 1977","Science fiction writer"
+,1766,1380,401,"Sat 25 Jun 1977","Broadcaster, Bandleader, Drummer"
+,1767,1143,1435,"Sat 18 Jun 1977",Cricketer
+,1768,156,1436,"Sat 04 Jun 1977","Surveyor of Queen's pictures"
+,1769,1381,418,"Sat 07 May 1977","Former Conservative Prime Minister, Politician - Conservative"
+,1770,1382,299,"Sat 30 Apr 1977","Oscar winning actor"
+,1771,527,1437,"Sat 23 Apr 1977","Broadcaster, Writer"
+,1772,163,1438,"Sat 16 Apr 1977",Violinist
+,1772,1,1367,"Tue 05 Jul 1955",Violinist
+,1773,1383,1439,"Sat 09 Apr 1977","Emu comedian"
+,1774,1384,1440,"Sat 02 Apr 1977","Soldier, Military historian"
+,1775,160,1441,"Sat 12 Mar 1977","Likely Lads actor"
+,1776,1385,1442,"Sat 05 Mar 1977",Designer
+,1777,17,367,"Sat 19 Feb 1977","Food and wine expert"
+,1778,1386,125,"Sat 12 Feb 1977","World-champion skater"
+,1779,1082,183,"Sat 05 Feb 1977","French horn player"
+,1780,1387,1443,"Sat 29 Jan 1977","British actor"
+,1781,1388,505,"Sat 15 Jan 1977",Percussionist
+,1782,1385,418,"Sat 08 Jan 1977",Newsreader
+,1783,1389,315,"Sat 01 Jan 1977",Singer
+,1783,292,1444,"Mon 27 Mar 1961",Singer
+,1784,367,367,"Sat 25 Dec 1976","Circus clown"
+,1785,1390,505,"Sat 18 Dec 1976","Engineer, Architect"
+,1786,1391,1019,"Sat 04 Dec 1976",Harpsichordist
+,1787,1392,293,"Sat 27 Nov 1976","Monty Python comedian"
+,1788,1393,105,"Sat 13 Nov 1976","Original Christopher Robin, Writer"
+,1789,1394,943,"Sat 06 Nov 1976","British actor"
+,1789,1,105,"Mon 04 Mar 1957","Actor, Director"
+,1790,1395,1390,"Sat 30 Oct 1976","Soldier, Explorer"
+,1791,1396,1445,"Sat 23 Oct 1976","Opera singer - baritone, Baritone"
+,1792,1397,366,"Sat 16 Oct 1976",Novelist
+,1793,425,14,"Sat 09 Oct 1976","Oscar winning actor"
+,1794,1398,1446,"Sat 02 Oct 1976","Writer, Broadcaster"
+,1795,1399,367,"Sat 25 Sep 1976","Editor of History Today, Journalist"
+,1796,1400,340,"Sat 18 Sep 1976","Olympic gold swimmer"
+,1797,236,1357,"Sat 11 Sep 1976","Creator of Paddington Bear"
+,1798,1401,686,"Sat 04 Sep 1976","British actor"
+,1799,1402,1255,"Sat 28 Aug 1976",Composer
+,1800,1403,1447,"Sat 14 Aug 1976",Flautist
+,1801,341,367,"Sat 07 Aug 1976","Novelist, Broadcaster"
+,1802,1404,1019,"Sat 31 Jul 1976",Organist
+,1803,1405,1277,"Sat 24 Jul 1976",Singer-songwriter
+,1804,445,54,"Sat 17 Jul 1976",Poet
+,1805,1406,1448,"Sat 10 Jul 1976","Olympic hurdler"
+,1806,1407,14,"Sat 03 Jul 1976","Archbishop of York"
+,1807,812,367,"Sat 26 Jun 1976",Trumpeter
+,1808,1408,1449,"Sat 19 Jun 1976","Thriller writer"
+,1809,1409,1450,"Sat 12 Jun 1976","Master of the Queen's music"
+,1810,1410,277,"Sat 05 Jun 1976","Naturalist, Broadcaster"
+,1811,217,105,"Sat 29 May 1976","American actor"
+,1812,1411,299,"Sat 22 May 1976",Cricketer
+,1813,322,1451,"Sat 15 May 1976","Dad's Army actor"
+,1814,1412,1452,"Sat 08 May 1976","Anatomist, Anthropologist"
+,1815,350,1453,"Sat 01 May 1976","Chief Scout"
+,1816,1413,373,"Sat 17 Apr 1976","Heart surgeon"
+,1817,1018,80,"Sat 10 Apr 1976","Politician - Liberal"
+,1818,1414,367,"Sat 27 Mar 1976","Travel writer"
+,1819,400,80,"Sat 13 Mar 1976","Foreign correspondent"
+,1820,1018,927,"Sat 06 Mar 1976",Writer
+,1821,763,1454,"Sat 28 Feb 1976","Metropolitan Police Commissioner"
+,1822,363,315,"Sat 14 Feb 1976","Opera singer - tenor"
+,1823,527,963,"Sat 31 Jan 1976","Jazz club impresario"
+,1824,1415,419,"Sat 24 Jan 1976","Thriller writer"
+,1825,1416,1455,"Sat 17 Jan 1976","Children's writer"
+,1826,1417,1456,"Sat 10 Jan 1976","Opera singer - baritone"
+,1827,1418,293,"Sat 27 Dec 1975","American singer, Actor"
+,1828,1419,1457,"Sat 06 Dec 1975","Thriller writer"
+,1829,1018,1458,"Sat 29 Nov 1975","Actor, Comedian"
+,1830,1420,280,"Sat 22 Nov 1975","National Trust gardens expert"
+,1831,277,1459,"Sat 15 Nov 1975",Singer
+,1832,1411,1460,"Sat 01 Nov 1975","Editor of the Jewish Chronicle"
+,1833,1421,1461,"Sat 25 Oct 1975","Actor, Musician, Comedian"
+,1833,337,1462,"Mon 12 Feb 1962","Actor , Musician, Comedian"
+,1833,1,1,"Wed 04 Jul 1951","Actor, Musician, Comedian"
+,1834,1422,1463,"Sat 04 Oct 1975","Writer, Comedian"
+,1835,299,401,"Sat 27 Sep 1975","Politician - Conservative"
+,1836,1423,1464,"Sat 20 Sep 1975","Historian, Writer, Journalist"
+,1837,1078,366,"Sat 06 Sep 1975",Novelist
+,1838,1424,412,"Sat 30 Aug 1975",Comedian
+,1839,411,1465,"Sat 16 Aug 1975","Television and radio broadcaster"
+,1840,1425,105,"Sat 02 Aug 1975","Physicist, Novelist"
+,1841,1426,1243,"Sat 19 Jul 1975","All Creatures Great and Small author"
+,1842,1427,1466,"Sat 12 Jul 1975",Comedian
+,1843,1428,1467,"Sat 28 Jun 1975","British actor"
+,1844,350,1468,"Sat 21 Jun 1975","Marine biologist"
+,1845,1429,267,"Sat 14 Jun 1975","Lyricist, Songwriter"
+,1846,1430,1469,"Sat 07 Jun 1975","Politician - Conservative, Writer"
+,1847,115,223,"Sat 31 May 1975",Photographer
+,1848,1431,1470,"Sat 24 May 1975","Upstairs, Downstairs actor"
+,1849,1042,367,"Sat 17 May 1975","Cricket commentator"
+,1849,1,1471,"Fri 01 May 1953","Cricket commentator"
+,1850,1432,1383,"Sat 10 May 1975","Farce writer"
+,1851,1433,1472,"Sat 03 May 1975",Singer
+,1852,1434,1473,"Sat 26 Apr 1975","Naturalist, Writer"
+,1853,1078,367,"Sat 12 Apr 1975","Poet Laureate"
+,1853,1,1474,"Fri 08 Oct 1954","Poet, Writer"
+,1854,1435,1475,"Sat 05 Apr 1975",Dancer
+,1855,1436,1476,"Sat 29 Mar 1975","Dog show judge"
+,1856,1437,1477,"Sat 22 Mar 1975","Actor, Producer, Presenter"
+,1857,321,550,"Sat 15 Mar 1975",Painter
+,1858,1438,1478,"Sat 01 Mar 1975",Boxer
+,1859,322,1479,"Sat 15 Feb 1975","Actor, Playwright"
+,1859,1,554,"Tue 07 Jun 1955","Actor, Playwright"
+,1859,1,1,"Thu 10 Sep 1942","Actor, Playwright"
+,1860,541,485,"Sat 08 Feb 1975","Writer, Politician - Labour"
+,1861,1004,415,"Sat 25 Jan 1975","Portrait painter"
+,1862,1439,1480,"Sat 04 Jan 1975","French horn player"
+,1863,37,1481,"Sat 28 Dec 1974","Punch and Judy puppeteer"
+,1864,1440,1482,"Sat 07 Dec 1974","Writer, Broadcaster, Novelist"
+,1865,32,927,"Sat 30 Nov 1974","Britsih film actor"
+,1866,14,988,"Sat 23 Nov 1974","Long-distance runner"
+,1867,1441,80,"Sat 16 Nov 1974",Broadcaster
+,1868,351,1483,"Sat 02 Nov 1974",Playwright
+,1869,324,105,"Sat 26 Oct 1974","Scientist, Broadcaster"
+,1870,355,1399,"Sat 12 Oct 1974",Journalist
+,1871,1442,1484,"Sat 05 Oct 1974","Wine expert"
+,1872,1443,80,"Sat 28 Sep 1974","Early music specialist"
+,1873,391,1485,"Sat 21 Sep 1974","Critic, Novelist"
+,1873,1,1,"Sat 19 Jun 1943",Writer
+,1874,367,1343,"Sat 14 Sep 1974","British actor"
+,1875,454,1486,"Sat 07 Sep 1974","Formula One racing driver"
+,1875,1444,401,"Mon 19 Aug 1963","Racing driver"
+,1876,149,1487,"Sat 17 Aug 1974","101 Dalmations novelist"
+,1877,1445,545,"Sat 10 Aug 1974","Director of the National Gallery"
+,1878,324,340,"Sat 03 Aug 1974","British actor"
+,1879,406,1028,"Sat 20 Jul 1974","Former Director of RCM, Opera singer - bass-baritone"
+,1880,1446,415,"Sat 13 Jul 1974",Biographer
+,1881,1447,1488,"Sat 06 Jul 1974",Angler
+,1882,1448,1489,"Sat 29 Jun 1974",Harpist
+,1883,416,293,"Sat 22 Jun 1974","Comedian, Actor"
+,1884,1449,1490,"Sat 15 Jun 1974","Conductor, Composer"
+,1885,1450,1491,"Sat 01 Jun 1974",Announcer
+,1886,1451,277,"Sat 18 May 1974",Impresario
+,1887,355,1492,"Sat 04 May 1974",Broadcaster
+,1888,115,1493,"Sat 13 Apr 1974",Anthropologist
+,1889,417,1494,"Sat 30 Mar 1974",Critic
+,1890,37,299,"Sat 23 Mar 1974","British actor"
+,1891,1452,1495,"Sat 16 Mar 1974","Cricket commentator"
+,1892,1453,1315,"Sat 23 Feb 1974","Sports commentator"
+,1893,1454,415,"Sat 16 Feb 1974",Bandleader
+,1894,1088,54,"Sat 09 Feb 1974",Journalist
+,1895,1455,299,"Sat 26 Jan 1974","Richmond Herald of Arms"
+,1896,1456,1496,"Sat 19 Jan 1974",Conductor
+,1897,74,1497,"Sat 12 Jan 1974",Playwright
+,1898,1457,1498,"Sat 05 Jan 1974","Scientist, Broadcaster"
+,1899,812,1499,"Sat 15 Dec 1973","Opera singer - tenor"
+,1900,1458,1500,"Sat 08 Dec 1973","Captain of Welsh rugby team"
+,1901,425,1501,"Sat 17 Nov 1973","Former General-Secretary of the Trade Union Congress"
+,1902,1459,1502,"Sat 10 Nov 1973","Journalist, Reporter"
+,1903,1453,1503,"Sat 03 Nov 1973","Dad's Army actor"
+,1904,1177,105,"Sat 27 Oct 1973",Zoologist
+,1905,1460,1504,"Sat 20 Oct 1973","Film producer"
+,1906,812,383,"Sat 13 Oct 1973",Barrister
+,1907,1461,429,"Sat 29 Sep 1973","British actor"
+,1908,507,1505,"Sat 15 Sep 1973",Horticulturalist
+,1909,1462,1506,"Sat 01 Sep 1973","Concert pianist"
+,1910,1463,485,"Sat 25 Aug 1973","Weather forecaster"
+,1911,1464,1357,"Sat 11 Aug 1973","Conductor, Clarinettist"
+,1912,297,299,"Sat 04 Aug 1973","Actor, Playwright"
+,1913,956,415,"Sat 28 Jul 1973","Artist, Painter"
+,1914,1465,452,"Sat 14 Jul 1973",Showjumper
+,1915,1466,415,"Sat 07 Jul 1973","Musical agent, Impresario"
+,1916,1467,963,"Sat 23 Jun 1973",Singer
+,1917,425,894,"Sat 16 Jun 1973","Theatre producer"
+,1918,1468,1507,"Sat 09 Jun 1973",Boxer
+,1919,1469,1470,"Sat 19 May 1973","Broadcaster, Pianist"
+,1920,473,686,"Sat 12 May 1973","Film director, Screenwriter, Actor"
+,1921,1470,340,"Sat 05 May 1973",Cartoonist
+,1922,909,419,"Sat 14 Apr 1973","Stage-door keeper"
+,1923,244,1508,"Sat 31 Mar 1973","BBC diplomatic correspondent"
+,1924,149,80,"Sat 17 Mar 1973","Jazz singer"
+,1925,1471,80,"Sat 03 Mar 1973",Conductor
+,1926,1472,1325,"Sat 24 Feb 1973",Novelist
+,1927,244,1509,"Sat 17 Feb 1973","Dad's Army actor"
+,1928,504,1487,"Sat 03 Feb 1973","Writer, Explorer"
+,1929,292,1510,"Sat 27 Jan 1973",
+,1930,1473,1511,"Sat 13 Jan 1973",Impressionist
+,1931,1474,1512,"Sat 06 Jan 1973","British actor"
+,1932,367,1285,"Sat 30 Dec 1972",Organist
+,1933,288,796,"Sat 16 Dec 1972","Anthropologist, Conservationist, Writer"
+,1933,1,1,"Sat 02 Oct 1943","Scientist, Anthropologist"
+,1934,1475,485,"Sat 09 Dec 1972",Screenwriter
+,1935,217,440,"Sat 25 Nov 1972","Writer, Explorer"
+,1936,292,459,"Sat 04 Nov 1972","Thriller writer"
+,1937,160,1343,"Sat 14 Oct 1972","British actor"
+,1938,1476,80,"Sat 07 Oct 1972","Television presenter"
+,1939,1477,340,"Sat 30 Sep 1972",Painter
+,1940,277,340,"Sat 23 Sep 1972","Comedian, Musician"
+,1941,149,1513,"Sat 09 Sep 1972","BBC Far East correspondent"
+,1942,1352,1514,"Sat 02 Sep 1972","My Music broadcaster"
+,1943,1478,1343,"Sat 19 Aug 1972",Archaeologist
+,1944,504,1515,"Sat 12 Aug 1972","Jazz violinist"
+,1945,411,1516,"Sat 05 Aug 1972","Water colourist"
+,1946,304,418,"Sat 29 Jul 1972","Master of the Queen's music"
+,1946,1479,505,"Mon 09 Nov 1959",Composer
+,1947,1,340,"Sat 22 Jul 1972","Mime artist"
+,1948,1480,415,"Sat 15 Jul 1972",Pianist
+,1949,1352,1517,"Sat 08 Jul 1972","Novelist, Playwright"
+,1950,450,961,"Sat 01 Jul 1972",Conductor
+,1951,297,277,"Sat 10 Jun 1972","Professor of forensic medicine, Academic, Professor"
+,1952,1481,80,"Sat 03 Jun 1972","Music critic, Broadcaster"
+,1952,164,1518,"Mon 03 Jun 1957","Broadcaster, Music critic"
+,1953,160,1519,"Sat 20 May 1972",Pianist
+,1954,1482,485,"Sat 06 May 1972","World bowls champion"
+,1955,1483,1,"Sat 22 Apr 1972",Choreographer
+,1956,160,1520,"Sat 08 Apr 1972","Diplomat, Writer"
+,1957,1484,1521,"Sat 01 Apr 1972","Blue Peter presenter"
+,1958,1485,1522,"Sat 25 Mar 1972","British comedy actor"
+,1958,1486,505,"Mon 05 Oct 1959","Bristish comedy actor"
+,1958,1,1,"Wed 17 Jan 1951","Comedy actor"
+,1959,263,1523,"Sat 11 Mar 1972",Playwright
+,1960,961,1524,"Sat 04 Mar 1972",Conductor
+,1961,1487,1525,"Sat 26 Feb 1972","Writer, Sailor"
+,1962,1488,54,"Sat 19 Feb 1972","Television presenter, Writer"
+,1963,1489,1526,"Sat 05 Feb 1972",Artist
+,1964,437,427,"Sat 29 Jan 1972","Opera singer - tenor"
+,1965,32,1527,"Sat 15 Jan 1972","Canadian Sound of Music actor"
+,1966,292,1234,"Sat 08 Jan 1972",Violinist
+,1967,1490,366,"Sat 04 Dec 1971","Chef, Cookery expert, Broadcaster"
+,1968,1038,432,"Sat 27 Nov 1971","My Music presenter"
+,1968,1491,1507,"Mon 02 Nov 1959","Pianist, Composer, Broadcaster"
+,1969,1492,1528,"Sat 20 Nov 1971","Concert pianist"
+,1970,1493,1529,"Sat 06 Nov 1971","Former Music Director of Royal Marines"
+,1971,1494,1530,"Sat 30 Oct 1971","Prison worker"
+,1972,1495,80,"Sat 16 Oct 1971",Bandleader
+,1973,1496,1234,"Sat 09 Oct 1971","Poet , Writer"
+,1974,277,432,"Sat 18 Sep 1971","Tonight reporter, Writer"
+,1975,1497,1531,"Sat 28 Aug 1971","Concert pianist"
+,1976,1165,1532,"Sat 14 Aug 1971",Writer
+,1977,324,1533,"Sat 24 Jul 1971","Writer on costume"
+,1978,1469,943,"Sat 10 Jul 1971","Glass engraver"
+,1979,1078,105,"Sat 26 Jun 1971","Psychic, Clairvoyant, Astrologer"
+,1980,214,427,"Sat 19 Jun 1971","Dad's Army actor"
+,1981,214,1534,"Sat 05 Jun 1971","Politician, Journalist, Writer"
+,1982,1498,1535,"Sat 15 May 1971","Room at the Top author"
+,1983,1499,1536,"Sat 08 May 1971",Organist
+,1984,1500,1537,"Sat 10 Apr 1971",Cricketer
+,1985,1501,1407,"Sat 03 Apr 1971","Theatre director"
+,1986,232,196,"Sat 20 Mar 1971","President of Royal Albert Hall, Politician - Conservative, Lawyer"
+,1987,1502,1538,"Sat 13 Mar 1971","British actor"
+,1988,1503,1539,"Sat 06 Mar 1971","Broadcaster, Journalist, Writer"
+,1989,1504,128,"Sat 27 Feb 1971","Composer, Sitarist"
+,1990,1505,415,"Sat 13 Feb 1971",Showjumper
+,1991,324,1540,"Sat 06 Feb 1971","BBC Radio presenter"
+,1992,1506,1541,"Sat 30 Jan 1971",Novelist
+,1993,355,105,"Sat 16 Jan 1971",Playwright
+,1994,214,340,"Sat 09 Jan 1971",Painter
+,1995,1507,1542,"Sat 26 Dec 1970","Head chorister"
+,1996,367,1543,"Sat 19 Dec 1970","Champion athlete, Speedway rider"
+,1997,1508,126,"Sat 12 Dec 1970","Dad's Army actor"
+,1998,1509,1,"Sat 05 Dec 1970","Polar explorer"
+,1999,1510,485,"Sat 21 Nov 1970","Opera singer - tenor"
+,1999,292,610,"Mon 21 May 1956","Pop singer"
+,2000,214,1544,"Sat 07 Nov 1970","Conductor, Composer"
+,2001,292,293,"Sat 26 Sep 1970","Boxing commentator"
+,2002,1511,418,"Sat 19 Sep 1970","Politician, Playwright, Poet"
+,2002,1,491,"Thu 17 Mar 1955","Writer, Politician - Independent"
+,2003,1512,299,"Sat 29 Aug 1970",Comedian
+,2004,417,289,"Sat 15 Aug 1970",Conductor
+,2005,1513,1383,"Sat 08 Aug 1970","Children's broadcaster"
+,2006,1514,429,"Sat 01 Aug 1970","Comic actor"
+,2006,1,1545,"Mon 13 Feb 1956","Actor, Comedian"
+,2007,288,340,"Sat 30 May 1970","Actor, Singer"
+,2008,1515,105,"Sat 23 May 1970",Singer
+,2009,1516,1546,"Sat 16 May 1970","Ballet dancer"
+,2010,1517,105,"Sat 09 May 1970","Actor, Singer"
+,2011,1518,267,"Sat 25 Apr 1970","Zoologist, Historian"
+,2012,163,80,"Sat 18 Apr 1970","Welsh National Opera Music Director"
+,2013,1519,1547,"Sat 11 Apr 1970","Sykes actor"
+,2014,541,198,"Sat 04 Apr 1970","Doctor, Cellist"
+,2015,324,340,"Sat 14 Mar 1970","Dr Kildare actor"
+,2016,1520,1548,"Sat 07 Mar 1970","Director of the National Portrait Gallery"
+,2017,297,105,"Sat 21 Feb 1970","Poet, Novelist, Essayist"
+,2018,1521,1549,"Sat 14 Feb 1970","BBC war correspondent"
+,2019,353,1515,"Sat 31 Jan 1970","Actor, Comedian"
+,2020,1522,214,"Sat 24 Jan 1970","Professor of linguistics"
+,2021,1523,293,"Sat 17 Jan 1970","Singer, Chat show host"
+,2022,118,415,"Sat 10 Jan 1970","Good Old Days actor"
+,2023,1524,198,"Sat 03 Jan 1970","Broadcaster, Journalist"
+,2024,1525,1550,"Sat 27 Dec 1969","Actor, Singer"
+,2024,1526,1,"Mon 22 Apr 1957","Rock and roll singer"
+,2025,1527,80,"Sat 20 Dec 1969","Field Marshall"
+,2026,1528,299,"Sat 06 Dec 1969","Creator of The Archers"
+,2027,1529,80,"Sat 15 Nov 1969","Comedian, Pianist, Actor"
+,2028,322,1551,"Sat 01 Nov 1969","Foreign correspondent"
+,2029,1530,458,"Sat 25 Oct 1969","Car designer, Racing driver"
+,2030,469,532,"Sat 18 Oct 1969","Royal Shakespeare Company actor"
+,2031,1531,1552,"Sat 11 Oct 1969","Author of Tarka The Otter"
+,2032,1532,80,"Sat 27 Sep 1969","Rugby player, Broadcaster"
+,2033,17,277,"Sat 20 Sep 1969","Director of the British Museum"
+,2034,1533,1553,"Sat 13 Sep 1969","Daily Mirror journalist"
+,2035,214,1554,"Mon 01 Sep 1969","Singer, Entertainer"
+,2036,1534,118,"Mon 11 Aug 1969",Lawyer
+,2037,310,1555,"Mon 04 Aug 1969","Auctioneer, Philatelist"
+,2038,1535,1556,"Mon 14 Jul 1969","American horror actor"
+,2039,565,80,"Mon 07 Jul 1969",Comedian
+,2040,350,486,"Mon 30 Jun 1969","British film actor"
+,2040,1268,1557,"Mon 27 Feb 1956","British film actor"
+,2041,1536,80,"Mon 16 Jun 1969","Film censor"
+,2042,812,415,"Mon 09 Jun 1969",Conductor
+,2043,1537,1558,"Mon 12 May 1969","Opera singer - tenor"
+,2044,824,537,"Mon 05 May 1969",Newsreader
+,2044,1,1,"Sat 15 Sep 1945","Broadcaster, Radio presenter"
+,2045,214,237,"Mon 21 Apr 1969",Novelist
+,2046,1538,415,"Mon 07 Apr 1969",Sailor
+,2047,214,505,"Mon 17 Mar 1969","Radio and television correspondent"
+,2048,1539,367,"Mon 24 Feb 1969","Novelist, Short story writer"
+,2049,214,1559,"Mon 17 Feb 1969",Conductor
+,2050,17,1560,"Mon 03 Feb 1969","Man of letters, Biographer, Teacher"
+,2051,1540,1561,"Mon 20 Jan 1969","Music festivals adjudicator"
+,2052,562,289,"Mon 13 Jan 1969","Owner of Flying Scotsman"
+,2053,310,80,"Mon 30 Dec 1968","Clay pigeon shooting champion"
+,2054,350,1562,"Mon 16 Dec 1968","Vice-Chancellor of Sussex University, Social historian"
+,2055,217,54,"Mon 09 Dec 1968","Director of Shelter"
+,2056,1541,1243,"Mon 25 Nov 1968",Comedian
+,2057,1542,1507,"Mon 18 Nov 1968","Senior Director of Music in the Brigade of Guards"
+,2058,1543,80,"Wed 13 Nov 1968","Head of Diplomatic Service"
+,2059,1544,1563,"Mon 11 Nov 1968","Tennis player, Tennis commentator"
+,2060,1545,299,"Mon 28 Oct 1968","Broadcaster, Newsreader"
+,2061,350,126,"Mon 14 Oct 1968","Novelist, Historian , Food and wine expert"
+,2062,214,340,"Mon 07 Oct 1968","Comedian, Actor"
+,2063,1143,1564,"Mon 30 Sep 1968","Film director"
+,2064,377,80,"Mon 23 Sep 1968","Comedian, Scriptwriter, Actor"
+,2065,1546,1,"Mon 19 Aug 1968",Conductor
+,2066,350,1565,"Mon 12 Aug 1968","BBC Director of Engineering, Engineer"
+,2067,1486,729,"Mon 05 Aug 1968","Jazz trumpeter, Singer"
+,2068,1545,169,"Mon 29 Jul 1968","British actor"
+,2069,496,797,"Mon 22 Jul 1968","Explorer, Mountaineer"
+,2070,385,1566,"Mon 08 Jul 1968","Thriller writer"
+,2071,1018,1567,"Mon 01 Jul 1968","Lord Mayor of London"
+,2072,1547,1568,"Mon 17 Jun 1968","Impresario, Bandleader"
+,2072,1,1544,"Tue 15 Jul 1952",Bandleader
+,2073,1548,1569,"Mon 10 Jun 1968","England cricket captain"
+,2074,1058,126,"Mon 03 Jun 1968","Furniture designer"
+,2075,1549,466,"Mon 13 May 1968","Actor, Comedian, Songwriter"
+,2076,149,1570,"Mon 22 Apr 1968","Businessman, Industrialist"
+,2077,1476,1571,"Mon 08 Apr 1968","Novelist, Broadcaster"
+,2078,214,1,"Mon 01 Apr 1968",Actor
+,2079,1550,1572,"Mon 25 Mar 1968","Opera singer - tenor"
+,2080,1551,1573,"Mon 18 Mar 1968","Chairman of the Northern Economic Planning Council, Politician - Labour, Councillor"
+,2081,1552,415,"Mon 11 Mar 1968",Bassoonist
+,2082,1553,1574,"Mon 26 Feb 1968","Poet Laureate"
+,2082,1545,366,"Mon 18 Jul 1960","Poet, Writer"
+,2083,466,1020,"Mon 19 Feb 1968","Journalist, Columnist"
+,2084,214,293,"Mon 15 Jan 1968","Classical guitarist"
+,2085,1554,1575,"Mon 25 Dec 1967",Conductor
+,2086,1555,1576,"Mon 18 Dec 1967","Opera singer - baritone"
+,2087,149,1577,"Mon 11 Dec 1967","Politician - Conservative"
+,2088,1556,1578,"Mon 04 Dec 1967","Founder of Toc H, Clergyman"
+,2089,1557,105,"Mon 06 Nov 1967","Engineer, Architect, Designer"
+,2090,1207,505,"Mon 30 Oct 1967","Concert pianist"
+,2091,1558,105,"Mon 23 Oct 1967","Academic, Teacher, Journalist"
+,2092,1209,485,"Mon 16 Oct 1967","Sports commentator"
+,2093,1559,80,"Mon 02 Oct 1967","Television presenter, Jazz trumpeter"
+,2094,1560,1579,"Mon 18 Sep 1967","Captain of QE2, Sailor, Captain"
+,2095,1561,1580,"Mon 28 Aug 1967","Writer, Comedian, Playwright"
+,2096,350,1243,"Mon 14 Aug 1967","Leader of Liberal Party, Politician - Liberal"
+,2097,671,629,"Mon 24 Jul 1967",Actor
+,2098,986,1581,"Mon 17 Jul 1967","Musician, Violinist"
+,2099,244,1343,"Mon 10 Jul 1967","Journalist, Golf expert"
+,2100,1562,1582,"Mon 03 Jul 1967",Comedian
+,2101,17,277,"Mon 26 Jun 1967","Academic, Writer, Traveller, Scientist, Journalist"
+,2102,1563,894,"Mon 19 Jun 1967",Actor
+,2103,1087,340,"Mon 29 May 1967","Musician, Bass, Opera singer"
+,2104,1564,1500,"Mon 15 May 1967","TUC General Secretary, Trade union official"
+,2105,1565,577,"Mon 08 May 1967","British character actor"
+,2106,1566,1583,"Mon 01 May 1967","Dean of St Paul's"
+,2107,986,1584,"Mon 24 Apr 1967","Brtish actor"
+,2108,1332,1585,"Mon 17 Apr 1967","Music critic, Cricket writer"
+,2109,1536,54,"Mon 20 Mar 1967","Broadcaster, Journalist"
+,2110,214,628,"Mon 13 Mar 1967","World champion speedway rider, World champion"
+,2111,1373,367,"Mon 06 Mar 1967","Oscar winning Ben-Hur actor"
+,2112,1567,1586,"Mon 27 Feb 1967","Broadcaster, Antiques expert"
+,2113,1568,1343,"Mon 20 Feb 1967","Journalist, Gastronome, Writer"
+,2114,1569,1587,"Mon 13 Feb 1967","British actor"
+,2115,812,366,"Mon 30 Jan 1967",Pianist
+,2115,1,1588,"Tue 23 Oct 1951",Pianist
+,2116,1570,1589,"Mon 23 Jan 1967","British comedy actor"
+,2116,1,1,"Sat 15 Dec 1945",Actor
+,2117,1571,1590,"Mon 09 Jan 1967","Broadcaster, Explorer"
+,2118,417,1591,"Mon 26 Dec 1966","Director of the Royal Opera House"
+,2119,1572,1592,"Mon 19 Dec 1966","Formula One champion racing driver, World champion"
+,2120,1573,1593,"Mon 12 Dec 1966","Radio producer, TV producer, Writer"
+,2121,1286,1594,"Mon 28 Nov 1966","Author of A Clockwork Orange"
+,2122,1574,80,"Mon 14 Nov 1966",Pianist
+,2123,164,1595,"Mon 31 Oct 1966",Oboist
+,2124,214,1234,"Mon 24 Oct 1966","Entertainer, Female impersonator"
+,2125,1575,1596,"Mon 17 Oct 1966","French actor, Director"
+,2126,244,427,"Mon 03 Oct 1966","Radio broadcaster"
+,2127,1576,1597,"Mon 26 Sep 1966",Auctioneer
+,2128,292,289,"Mon 12 Sep 1966","Musician, Comedian"
+,2129,149,1598,"Mon 05 Sep 1966","Interior designer"
+,2130,292,1599,"Mon 15 Aug 1966","Director of the Edinburgh Festival"
+,2131,527,1600,"Mon 08 Aug 1966","British actor"
+,2132,1577,485,"Mon 01 Aug 1966","Bandleader, Jazz trumpeter"
+,2133,1578,491,"Mon 11 Jul 1966","Football administrator"
+,2134,1579,340,"Mon 27 Jun 1966","Chairman of the RAC"
+,2135,492,299,"Mon 06 Jun 1966","Opera singer - tenor"
+,2136,1580,1601,"Mon 30 May 1966","Dr Finlay actor"
+,2137,277,1602,"Mon 16 May 1966",Boxer
+,2138,1581,1603,"Mon 09 May 1966","Opera singer - bass-baritone"
+,2139,37,1418,"Mon 02 May 1966","Methodist minister"
+,2140,17,105,"Mon 18 Apr 1966","Master of St Catherine's College, Historian"
+,2141,357,346,"Mon 11 Apr 1966","Carry On actor"
+,2142,253,1604,"Mon 04 Apr 1966","Actor, Playwright, Lyricist"
+,2143,1582,1605,"Mon 21 Mar 1966",Oarsman
+,2144,1583,485,"Mon 14 Mar 1966","Director of the British Museum"
+,2145,1584,105,"Mon 07 Mar 1966","British comic actor"
+,2146,149,1606,"Mon 28 Feb 1966","Literary critic"
+,2147,1585,1607,"Mon 14 Feb 1966","Doctor Finlay actor"
+,2148,1538,1608,"Mon 07 Feb 1966","Manager of the Royal Albert Hall"
+,2149,411,1609,"Mon 31 Jan 1966","World champion cyclist, World champion"
+,2150,292,365,"Mon 24 Jan 1966","Hollywood film star"
+,2151,310,939,"Sat 01 Jan 1966","Dance band leader"
+,2152,1586,1610,"Mon 27 Dec 1965","Comedy songwriter, Actor, Broadcaster"
+,2153,214,237,"Mon 20 Dec 1965","Head of the Slade School of Fine Art"
+,2154,232,1611,"Mon 13 Dec 1965","International Leader of the Salvation Army"
+,2155,1587,1612,"Mon 06 Dec 1965","Singer, Actor"
+,2156,350,1613,"Mon 29 Nov 1965","Chairman of the National Coal Board, Politician - Labour, Trade unionist"
+,2157,1558,1614,"Mon 01 Nov 1965","Art historian"
+,2158,1588,105,"Mon 27 Sep 1965","England cricket captain"
+,2159,1589,961,"Mon 13 Sep 1965","Theatre impresario"
+,2160,1590,1615,"Mon 06 Sep 1965",Conductor
+,2161,527,1616,"Mon 30 Aug 1965","Newspaper columnist"
+,2162,1232,571,"Mon 23 Aug 1965","The first Doctor Who"
+,2163,1591,1617,"Mon 16 Aug 1965","Journalist, Novelist, Television commentator"
+,2164,1592,729,"Mon 09 Aug 1965","Puppeteer , Creator of Sooty"
+,2165,1593,1618,"Mon 02 Aug 1965","Bandleader, Violinist"
+,2166,1,1619,"Mon 12 Jul 1965","Actor, Director"
+,2167,1594,1468,"Mon 28 Jun 1965",Naturalist
+,2168,1595,105,"Mon 14 Jun 1965",Playwright
+,2169,1596,105,"Mon 07 Jun 1965","Actor, Comedian"
+,2170,1597,1620,"Sat 05 Jun 1965","ITMA and character actor"
+,2171,1598,1621,"Mon 31 May 1965",Violinist
+,2172,1599,282,"Mon 24 May 1965","Underwater archaeologist"
+,2173,214,1622,"Mon 17 May 1965",Musicologist
+,2174,1600,629,"Mon 26 Apr 1965","Manager of Liverpool FC"
+,2175,1601,183,"Mon 19 Apr 1965",Comedian
+,2176,1602,440,"Sat 10 Apr 1965",Horticulturalist
+,2177,1603,105,"Mon 05 Apr 1965",Baritone
+,2178,1604,1561,"Mon 29 Mar 1965","Filmmaker, Producer"
+,2179,1605,293,"Mon 22 Mar 1965",Guitarist
+,2180,350,427,"Mon 15 Mar 1965","Astronomer Royal"
+,2181,214,1623,"Mon 08 Mar 1965","Entertainment writer"
+,2182,292,282,"Mon 01 Mar 1965",Conductor
+,2183,975,427,"Mon 22 Feb 1965","Musician, Writer, Ex-spy"
+,2184,1606,1418,"Mon 08 Feb 1965","Opera singer - bass"
+,2185,1607,1624,"Mon 01 Feb 1965","Architect of Coventry Cathedral"
+,2186,115,183,"Mon 18 Jan 1965",Singer
+,2187,445,367,"Mon 28 Dec 1964","Actor, Manager"
+,2187,1,1,"Wed 21 Mar 1951","Actor, Producer"
+,2188,17,1625,"Sat 26 Dec 1964","Today programme presenter"
+,2189,1608,1019,"Mon 07 Dec 1964","Harpsichordist, Conductor, Organist"
+,2190,1609,340,"Mon 30 Nov 1964","Manager of the Beatles"
+,2191,1610,401,"Mon 23 Nov 1964",Newsreader
+,2192,1425,293,"Mon 09 Nov 1964","Trade union official"
+,2193,1058,366,"Mon 02 Nov 1964","Former Politician, Journalist"
+,2194,1611,1626,"Mon 26 Oct 1964",Playwright
+,2195,217,105,"Mon 19 Oct 1964","Creator of Thomas the Tank Engine"
+,2196,1612,293,"Mon 12 Oct 1964","Navy Lark actor"
+,2197,1613,54,"Mon 05 Oct 1964",Painter
+,2198,496,1627,"Mon 21 Sep 1964","Track and field athlete"
+,2199,1614,1628,"Mon 14 Sep 1964","Cartoonist, Illustrator"
+,2200,292,1629,"Mon 07 Sep 1964","Z-Cars actor"
+,2201,292,415,"Mon 31 Aug 1964","Newspaper proprietor"
+,2202,282,491,"Mon 17 Aug 1964","Concert performer"
+,2203,1615,105,"Mon 10 Aug 1964","Writer, Broadcaster"
+,2204,1616,1630,"Mon 03 Aug 1964","Animal trainer, Circus owner"
+,2205,1617,571,"Mon 27 Jul 1964","Historian, Political writer, Journalist"
+,2206,1618,105,"Mon 06 Jul 1964","Showjumping commentator"
+,2207,17,1631,"Mon 29 Jun 1964","Actor, Director, Theatre administrator"
+,2208,1619,293,"Mon 22 Jun 1964","Carry On actor"
+,2209,1620,1632,"Mon 08 Jun 1964","Horticulturalist, Writer, Rose grower"
+,2210,1621,299,"Mon 01 Jun 1964","British actor"
+,2211,1622,1633,"Mon 25 May 1964","Juke Box Jury broadcaster"
+,2212,1623,373,"Mon 11 May 1964","Actor, Story-teller"
+,2213,1624,415,"Mon 04 May 1964","Formula One champion racing driver"
+,2214,1500,299,"Mon 27 Apr 1964","Sports commentator"
+,2215,1446,293,"Mon 20 Apr 1964","Opera singer - bass"
+,2216,310,1634,"Mon 06 Apr 1964","Businessman, Industrialist"
+,2217,322,1635,"Mon 30 Mar 1964","Steptoe and Son actor"
+,2218,253,293,"Sat 08 Feb 1964","All Blacks rugby captain"
+,2219,1625,1636,"Mon 20 Jan 1964","Actor, Producer, Director"
+,2219,1,1637,"Tue 02 Sep 1952","British actor"
+,2220,1626,1638,"Mon 13 Jan 1964",Journalist
+,2221,322,105,"Mon 23 Dec 1963","Coco the Clown, Circus, Clown"
+,2222,1332,429,"Mon 16 Dec 1963","Author, Barrister, Campaigner"
+,2223,1627,1639,"Mon 02 Dec 1963",Horologist
+,2224,1628,1640,"Mon 25 Nov 1963",Composer
+,2225,1629,1641,"Mon 18 Nov 1963",Athlete
+,2226,1630,491,"Mon 11 Nov 1963","Gamesmanship author"
+,2227,1631,505,"Mon 28 Oct 1963","Scientist, Broadcaster, Astronomer"
+,2228,1632,282,"Mon 21 Oct 1963","Royal Navy Admiral"
+,2229,527,340,"Sat 19 Oct 1963","Radio actor"
+,2230,1633,480,"Mon 07 Oct 1963","British film actor"
+,2231,1634,1642,"Mon 30 Sep 1963","Founder of Cheshire Homes for the Sick"
+,2232,1635,80,"Mon 16 Sep 1963",Conductor
+,2233,292,1643,"Mon 09 Sep 1963","Radio and television commentator"
+,2234,1636,1644,"Mon 26 Aug 1963","Conductor, Musicologist"
+,2235,214,485,"Sat 24 Aug 1963",Jockey
+,2236,1637,80,"Mon 12 Aug 1963","Chief Scout of the Commonwealth"
+,2237,1638,54,"Mon 05 Aug 1963","James Bond novelist"
+,2238,509,415,"Sat 27 Jul 1963","British radio actor"
+,2239,1639,223,"Mon 15 Jul 1963","Opera singer - baritone"
+,2240,299,894,"Mon 01 Jul 1963",Conductor
+,2240,1,1645,"Tue 01 Jul 1952",Conductor
+,2241,1640,415,"Mon 17 Jun 1963",Bandleader
+,2242,493,1646,"Mon 03 Jun 1963","Broadcaster, Presenter, DIY expert"
+,2243,1641,1647,"Mon 20 May 1963","Comedy cartoonist"
+,2244,1642,1648,"Mon 13 May 1963",Cricketer
+,2245,1643,366,"Mon 06 May 1963","Academic, Explorer, Geographer"
+,2246,1644,289,"Sat 27 Apr 1963","Mrs Dale's Diary actor"
+,2247,17,1649,"Mon 08 Apr 1963","Dixon of Dock Green Writer"
+,2248,1645,1650,"Mon 01 Apr 1963","Theatrical manager"
+,2249,1646,340,"Mon 25 Mar 1963","Artist, Political cartoonist"
+,2250,1451,80,"Mon 18 Mar 1963","""Can I Help You?"" man, Broadcaster"
+,2251,357,466,"Mon 11 Mar 1963",Comedian
+,2252,1647,377,"Mon 04 Mar 1963","Horticulturalist, Broadcaster"
+,2253,557,80,"Mon 25 Feb 1963","Composer, Conductor"
+,2254,350,54,"Mon 18 Feb 1963","Journalist, Correspondent"
+,2255,292,340,"Mon 11 Feb 1963","Goon Show comedian, Writer"
+,2256,1648,1651,"Mon 04 Feb 1963",Cricketer
+,2257,496,340,"Mon 28 Jan 1963","Playwright, Actor, Composer"
+,2258,1649,1160,"Mon 21 Jan 1963","Opera singer - tenor"
+,2259,1650,1652,"Sat 19 Jan 1963","Animal impersonator"
+,2260,232,1653,"Mon 14 Jan 1963","Comedian, Broadcaster"
+,2261,1651,1644,"Mon 31 Dec 1962",Choirmaster
+,2262,253,105,"Mon 24 Dec 1962",Pantomime
+,2263,1652,408,"Sat 22 Dec 1962","Circus proprietor"
+,2264,1653,1654,"Mon 17 Dec 1962","Writer, Farmer, Broadcaster"
+,2265,527,1655,"Mon 10 Dec 1962","Jazz clarinettist, Bandleader"
+,2266,1654,422,"Mon 26 Nov 1962","Theatre impresario"
+,2267,1655,427,"Mon 19 Nov 1962","Dixon of Dock Green actor"
+,2267,1,1656,"Fri 18 Sep 1953","Actor, Comedian"
+,2268,324,340,"Mon 12 Nov 1962","Bishop of London"
+,2269,1656,961,"Sat 10 Nov 1962","Head of BBC Radio Drama"
+,2270,1657,1657,"Mon 05 Nov 1962","Jazz pianist"
+,2271,1658,80,"Mon 22 Oct 1962","Director of Sadler's Wells Theatre, Opera director"
+,2272,1272,80,"Mon 01 Oct 1962","Composer, Conductor, Pianist"
+,2273,938,505,"Mon 24 Sep 1962","Actor, Comedian"
+,2274,385,299,"Mon 17 Sep 1962","Broadcaster, Butterfly farmer"
+,2275,812,340,"Mon 10 Sep 1962","Inventor of nonsense language, Comedian"
+,2276,1659,54,"Mon 03 Sep 1962","Playwright, Novelist, Scriptwriter"
+,2277,1660,1658,"Mon 27 Aug 1962","Opera singer - tenor"
+,2278,1661,1659,"Mon 13 Aug 1962",Violinist
+,2279,509,54,"Mon 06 Aug 1962",Comedian
+,2280,1662,1660,"Mon 30 Jul 1962","Prison social worker"
+,2281,1663,1661,"Mon 23 Jul 1962","British actor"
+,2282,1664,1662,"Mon 25 Jun 1962","Dead Sea Scrolls scholar"
+,2283,352,1663,"Mon 18 Jun 1962","Opera singer - tenor"
+,2284,1665,277,"Mon 11 Jun 1962",Journalist
+,2285,1666,360,"Mon 04 Jun 1962","Photographer, Ornithologist"
+,2286,253,1664,"Mon 28 May 1962","Aviation pioneer"
+,2287,1667,797,"Mon 21 May 1962",Painter
+,2288,310,1665,"Mon 07 May 1962","Comedian, Actor"
+,2289,1668,1666,"Mon 23 Apr 1962","Actor, Playwright"
+,2290,1669,1667,"Mon 16 Apr 1962","Holiday camp owner"
+,2291,1670,1668,"Mon 09 Apr 1962",Actor
+,2292,1269,1669,"Mon 26 Mar 1962","Sports commentator"
+,2293,1671,80,"Mon 19 Mar 1962","Concert pianist"
+,2294,1672,1670,"Mon 12 Mar 1962","Soldier, Writer"
+,2295,1673,864,"Mon 26 Feb 1962",Novelist
+,2296,411,1671,"Mon 19 Feb 1962",Conductor
+,2297,1674,293,"Mon 22 Jan 1962","Guitarist, Broadcaster"
+,2298,1675,1672,"Mon 15 Jan 1962","BBC announcer"
+,2299,1676,513,"Mon 08 Jan 1962","Broadcaster, Presenter"
+,2300,1677,340,"Mon 01 Jan 1962","Portrait painter"
+,2301,1678,1673,"Mon 18 Dec 1961","American comedian, Actor"
+,2302,824,366,"Mon 11 Dec 1961","Film producer"
+,2303,299,105,"Mon 04 Dec 1961","Novelist, Journalist"
+,2304,292,1594,"Mon 20 Nov 1961","Composer, Critic"
+,2305,1402,1674,"Mon 13 Nov 1961","British actor"
+,2306,1679,105,"Mon 06 Nov 1961","Music hall artist"
+,2307,1680,126,"Mon 30 Oct 1961","BBC administrator"
+,2308,1,1,"Mon 23 Oct 1961","Writer, Yachtsman"
+,2309,541,415,"Mon 09 Oct 1961","Chaplain of Churchill College Cambridge"
+,2310,1681,988,"Mon 02 Oct 1961","Harmonica player"
+,2311,1682,1675,"Mon 18 Sep 1961","Sailor, Playwright, Novelist"
+,2312,385,1343,"Mon 04 Sep 1961","British actor"
+,2313,292,1676,"Mon 28 Aug 1961","Foreign correspondent"
+,2314,541,485,"Mon 14 Aug 1961","Cricketer, Writer, Broadcaster"
+,2315,292,105,"Mon 07 Aug 1961","Novelist, Zoologist"
+,2316,1683,80,"Mon 24 Jul 1961","Orchestra leader, Composer"
+,2317,485,485,"Mon 17 Jul 1961","Snooker player"
+,2318,1402,1677,"Mon 03 Jul 1961",Horticulturalist
+,2319,1684,272,"Mon 19 Jun 1961","Neurophysiologist, Robotician"
+,2320,290,485,"Mon 12 Jun 1961",Comedian
+,2321,1685,1678,"Mon 15 May 1961",Artist
+,2323,670,1679,"Mon 01 May 1961","British actor"
+,2324,1686,1680,"Mon 24 Apr 1961","Pop singer"
+,2325,1614,1343,"Mon 17 Apr 1961",Actor
+,2325,1,1681,"Fri 24 Jul 1953",Actor
+,2326,1687,1682,"Mon 03 Apr 1961","Naturalist, Painter, Sailor"
+,2326,1,1,"Wed 07 Feb 1951","Naturalist, Painter"
+,2327,292,485,"Mon 20 Mar 1961","British actor"
+,2328,938,505,"Mon 13 Mar 1961",Conductor
+,2329,1688,1683,"Mon 20 Feb 1961",Comedian
+,2329,1,1,"Wed 01 Aug 1951","Comedy actor, Scriptwriter"
+,2330,657,1684,"Mon 13 Feb 1961",Dancer
+,2331,57,299,"Mon 30 Jan 1961","Circus director"
+,2332,1689,571,"Mon 23 Jan 1961",Equestrian
+,2333,450,1685,"Mon 09 Jan 1961",Comedian
+,2334,1690,1686,"Mon 02 Jan 1961",Publisher
+,2335,507,629,"Mon 26 Dec 1960",Comedian
+,2336,1691,1671,"Mon 19 Dec 1960","Conductor, Trumpeter"
+,2337,1232,957,"Mon 12 Dec 1960","Olympic gold athlete"
+,2338,292,340,"Mon 21 Nov 1960","Actor, Singer"
+,2339,1692,1687,"Mon 07 Nov 1960","Any Questions? presenter"
+,2339,1,1,"Sat 04 Aug 1945",Broadcaster
+,2340,304,293,"Mon 31 Oct 1960","Pop singer"
+,2341,1693,415,"Mon 24 Oct 1960","Former choir soloist, Singer"
+,2342,37,485,"Mon 17 Oct 1960","Composer, Conductor"
+,2343,1500,784,"Mon 10 Oct 1960",Cricketer
+,2344,1391,1111,"Mon 26 Sep 1960","Composer, Writer"
+,2345,1694,485,"Mon 05 Sep 1960","Leader of BBC Symphony Orchestra"
+,2346,1695,105,"Mon 29 Aug 1960","Journalist, Reporter"
+,2347,802,485,"Mon 15 Aug 1960",Footballer
+,2348,1446,485,"Mon 08 Aug 1960","Journalist, Politician - Conservative"
+,2349,1286,1688,"Mon 01 Aug 1960","Broadcaster, Traveller"
+,2350,1696,80,"Mon 11 Jul 1960",Trumpeter
+,2351,1697,1689,"Mon 04 Jul 1960",Pianist
+,2352,17,1243,"Mon 20 Jun 1960",Composer
+,2353,1698,1690,"Mon 13 Jun 1960","Director of the Jodrell Bank Experimental Station"
+,2354,1699,485,"Mon 06 Jun 1960",Comedian
+,2355,1700,80,"Mon 23 May 1960",Pianist
+,2356,1701,80,"Mon 02 May 1960",Cartoonist
+,2357,1702,105,"Mon 25 Apr 1960","Actor, Singer"
+,2358,297,267,"Mon 11 Apr 1960","TV interviewer"
+,2359,292,1556,"Mon 04 Apr 1960","Carry On and Hancock's Half Hour actor"
+,2360,1703,505,"Mon 21 Mar 1960",Dancer
+,2361,1704,54,"Mon 14 Mar 1960",Pianist
+,2362,492,183,"Mon 07 Mar 1960","Prince of Thailand, Member of the Thai Royal Family"
+,2363,1705,293,"Sat 05 Mar 1960","Pop singer"
+,2364,1706,214,"Mon 29 Feb 1960","Band leader, Radio presenter"
+,2365,1707,1691,"Mon 15 Feb 1960",Oboist
+,2366,1708,1692,"Mon 08 Feb 1960","Film actor"
+,2367,1709,282,"Mon 01 Feb 1960","Sports commentator"
+,2367,1,1,"Thu 20 Aug 1942","Athlete, Boxing referee"
+,2368,1710,505,"Mon 11 Jan 1960","Musician, Pianist"
+,2369,1711,105,"Mon 04 Jan 1960","Writer, Journalist"
+,2370,411,1693,"Mon 28 Dec 1959","Broadcaster, Farmer"
+,2371,1712,80,"Mon 21 Dec 1959",Singer
+,2372,1713,1694,"Mon 14 Dec 1959",Pianist
+,2373,397,80,"Mon 07 Dec 1959","Film director, Novelist, Painter"
+,2374,1714,1695,"Mon 30 Nov 1959",Bandleader
+,2375,1715,1696,"Mon 16 Nov 1959",Comedian
+,2376,37,1697,"Mon 26 Oct 1959",Organist
+,2377,337,1698,"Mon 19 Oct 1959","Hollywood film director"
+,2378,1716,508,"Mon 14 Sep 1959","Cabaret singer"
+,2379,1717,610,"Mon 07 Sep 1959","Captain of the England cricket team"
+,2380,1718,1699,"Mon 31 Aug 1959","Radio presenter"
+,2381,473,105,"Mon 10 Aug 1959","Chairman of the Brains Trust"
+,2382,1719,894,"Mon 03 Aug 1959",Pianist
+,2383,1720,367,"Mon 27 Jul 1959","Pianist, Accompanist"
+,2384,1721,1700,"Mon 20 Jul 1959","Conductor, Composer"
+,2385,1722,1701,"Mon 13 Jul 1959","Olympic gold 100m runner"
+,2386,493,340,"Mon 29 Jun 1959",Yachtsman
+,2387,760,1702,"Mon 15 Jun 1959","Theatrical manager"
+,2388,321,1703,"Mon 08 Jun 1959",Naturalist
+,2389,1723,505,"Mon 01 Jun 1959","Composer, Conductor"
+,2390,299,1704,"Mon 25 May 1959","Comedian, Actor"
+,2391,118,1705,"Mon 11 May 1959","Jazz musician, Drummer, Bandleader"
+,2392,496,18,"Mon 04 May 1959","Politician - Conservative, Aviation pioneer"
+,2393,1724,1706,"Mon 20 Apr 1959","Theatre director"
+,2394,1725,509,"Mon 13 Apr 1959","Actor, Calypso singer"
+,2395,324,1707,"Mon 23 Mar 1959","British composer"
+,2396,1,340,"Mon 16 Mar 1959","The Bride of Frankenstein actor"
+,2397,1,277,"Mon 02 Mar 1959","What's My Line comedian"
+,2398,1,1708,"Mon 23 Feb 1959","Hammer Horror actor"
+,2399,153,1709,"Mon 16 Feb 1959","Mountaineer, Journalist"
+,2400,1,1710,"Mon 09 Feb 1959","Jazz bandleader"
+,2401,1,1711,"Mon 29 Dec 1958","Theatre organist"
+,2402,214,1712,"Mon 22 Dec 1958",Comedian
+,2403,1,1507,"Mon 15 Dec 1958",Composer
+,2404,1,80,"Mon 08 Dec 1958","Composer, Conductor, Pianist"
+,2405,1,1713,"Mon 01 Dec 1958","Actor, Singer - bass-baritone"
+,2406,1,1714,"Mon 24 Nov 1958","Music hall entertainer"
+,2407,1,1715,"Mon 03 Nov 1958","Latin-American bandleader"
+,2408,1,1336,"Mon 27 Oct 1958","Concert pianist"
+,2409,1,80,"Mon 13 Oct 1958","Broadcaster, Political commentator, Journalist"
+,2410,1,373,"Mon 06 Oct 1958","Actor, Singer"
+,2411,1,1716,"Mon 29 Sep 1958","Fashion designer"
+,2412,1,1717,"Mon 15 Sep 1958","Pop singer"
+,2413,1,277,"Mon 08 Sep 1958",Composer
+,2414,1,80,"Mon 01 Sep 1958",Bandleader
+,2415,1,1559,"Mon 25 Aug 1958","Concert pianist"
+,2416,1,1718,"Mon 18 Aug 1958","Scientist, Ornithologist"
+,2417,1726,491,"Mon 04 Aug 1958","Game show host"
+,2418,17,1719,"Mon 21 Jul 1958",Violinist
+,2419,1,1720,"Mon 14 Jul 1958","British character actor"
+,2420,214,1721,"Mon 23 Jun 1958","Radio presenter"
+,2421,1,1722,"Mon 16 Jun 1958","French singer"
+,2422,1,1723,"Mon 02 Jun 1958",Conductor
+,2423,1,367,"Mon 26 May 1958","Circus performer"
+,2424,1654,1724,"Mon 12 May 1958","Creator and presenter of Desert Island Discs"
+,2424,1,1,"Thu 07 May 1942",Broadcaster
+,2425,1,340,"Mon 05 May 1958","Stage designer"
+,2426,1,1725,"Mon 21 Apr 1958",Pianist
+,2427,1,80,"Mon 31 Mar 1958",Bandleader
+,2428,1,340,"Mon 17 Mar 1958","Variety singer"
+,2429,1,1726,"Mon 17 Feb 1958",Comedian
+,2430,1,1727,"Mon 10 Feb 1958",Broadcaster
+,2431,1,1728,"Mon 03 Feb 1958","Colonel Blimp actor"
+,2432,1,80,"Mon 27 Jan 1958","Bandleader, Dancer"
+,2433,1,1729,"Mon 20 Jan 1958",Violinist
+,2434,1,1730,"Mon 13 Jan 1958","Critic, Broadcaster, Playwright"
+,2435,1,1248,"Mon 30 Dec 1957",Comedian
+,2436,1,686,"Mon 23 Dec 1957",Conductor
+,2437,1,1731,"Mon 25 Nov 1957",Naturalist
+,2438,1,1732,"Mon 11 Nov 1957","Jazz trombonist, Singer"
+,2439,1,237,"Mon 04 Nov 1957","British actor"
+,2440,1,1733,"Mon 21 Oct 1957",Broadcaster
+,2441,1,80,"Mon 30 Sep 1957","British actor"
+,2442,1,1734,"Mon 23 Sep 1957",DJ
+,2442,1,299,"Tue 29 Jul 1952",DJ
+,2443,1,1735,"Mon 09 Sep 1957",Comedian
+,2444,1,485,"Mon 26 Aug 1957","British actor"
+,2445,1,277,"Mon 19 Aug 1957",Conductor
+,2446,1,1736,"Mon 12 Aug 1957","Actor , Boy Scout pioneer"
+,2447,1,214,"Mon 05 Aug 1957","Comedian, Star of Hancock's Half Hour"
+,2448,1727,1737,"Mon 15 Jul 1957","Horticulturalist, Broadcaster"
+,2449,1,1651,"Mon 01 Jul 1957","Theatre critic"
+,2450,1,1738,"Mon 24 Jun 1957",Musician
+,2451,1,1739,"Mon 17 Jun 1957","Broadcaster, Animal imitator"
+,2452,1,1740,"Mon 10 Jun 1957","Jazz bandleader, Pianist, Composer"
+,2453,1,1741,"Mon 27 May 1957","Danish comedian, Pianist"
+,2454,1,1742,"Mon 20 May 1957","Take it from Here comedian"
+,2455,1,1743,"Mon 15 Apr 1957","Broadcaster, Countryside expert"
+,2456,1,1744,"Mon 01 Apr 1957",Athlete
+,2457,1,1745,"Mon 25 Mar 1957","Comedian, Singer"
+,2458,1,1746,"Mon 18 Mar 1957",Playwright
+,2459,1,1747,"Mon 25 Feb 1957","Crime writer, Broadcaster"
+,2460,1,1748,"Mon 18 Feb 1957","Boxing promoter"
+,2461,411,1749,"Mon 04 Feb 1957","Goon Show comedian, Actor"
+,2462,1,1750,"Mon 14 Jan 1957","Artist, Comedian, Musician"
+,2463,1,491,"Mon 07 Jan 1957","Superintendent of the London Zoo"
+,2464,1,1751,"Mon 31 Dec 1956","Hollywood film star"
+,2465,657,340,"Mon 17 Dec 1956",Actor
+,2466,1,1752,"Mon 03 Dec 1956","Broadcaster, Producer"
+,2467,1,282,"Mon 19 Nov 1956","Opera singer - baritone"
+,2468,1,571,"Mon 12 Nov 1956","Land and water speed record holder"
+,2469,1,1753,"Mon 22 Oct 1956","British actor"
+,2470,1,1754,"Mon 15 Oct 1956","Concert pianist"
+,2471,1,1755,"Mon 01 Oct 1956","Writer, Theatre critic"
+,2472,1,80,"Mon 24 Sep 1956","Singer, Songwriter"
+,2473,1,1756,"Mon 27 Aug 1956","Writer, Explorer"
+,2474,1728,340,"Mon 20 Aug 1956","Kind Hearts and Coronets actor"
+,2475,1729,54,"Mon 13 Aug 1956","French horn player"
+,2476,1,1757,"Mon 23 Jul 1956","Country music singer, Actor"
+,2477,1,1758,"Mon 09 Jul 1956","England cricketer"
+,2478,1,1759,"Mon 25 Jun 1956","Musician, Lyricist"
+,2479,1,1760,"Mon 11 Jun 1956",Trombonist
+,2480,1,1761,"Mon 04 Jun 1956","Formula One racing driver"
+,2481,1,1762,"Mon 28 May 1956","British theatre actor"
+,2482,1,1763,"Mon 07 May 1956","Heavyweight boxer"
+,2483,1,1764,"Mon 23 Apr 1956","British character actor"
+,2484,1730,1,"Mon 09 Apr 1956",Bandleader
+,2485,1,419,"Mon 26 Mar 1956","British actor"
+,2486,1,458,"Mon 20 Feb 1956","Former Detective Superintendent of Scotland Yard"
+,2487,299,1765,"Mon 06 Feb 1956","Magician, Broadcaster"
+,2488,1,1766,"Mon 16 Jan 1956","Radio broadcaster"
+,2489,1268,1767,"Mon 02 Jan 1956","Film actor"
+,2490,1,1768,"Mon 05 Dec 1955","Actor, Comedian"
+,2491,1,1769,"Mon 28 Nov 1955","ITMA comedian, Broadcaster"
+,2492,1,1770,"Mon 21 Nov 1955","Writer, Journalist"
+,2493,1,1338,"Mon 14 Nov 1955","Comedian, Actor"
+,2493,1,1,"Thu 29 Jan 1942","Comedian, Actor"
+,2494,1,729,"Mon 07 Nov 1955","British character actor"
+,2495,1,372,"Mon 17 Oct 1955",Actor
+,2496,1,610,"Mon 10 Oct 1955","Comedian, Actor"
+,2497,1,293,"Mon 03 Oct 1955",Actor
+,2498,1,299,"Mon 26 Sep 1955","Memory expert"
+,2499,1,491,"Tue 13 Sep 1955","Radio and TV chef"
+,2500,1,193,"Tue 30 Aug 1955","Film producer and director"
+,2501,1,1771,"Tue 23 Aug 1955",Playwright
+,2502,1,1772,"Tue 09 Aug 1955","Artist, Writer"
+,2503,1,1773,"Tue 26 Jul 1955",Yachtsman
+,2504,1,1774,"Tue 12 Jul 1955",Broadcaster
+,2505,1,1384,"Tue 28 Jun 1955","British classical actor"
+,2505,1,1,"Sat 06 Oct 1945",Actor
+,2506,1,1775,"Tue 21 Jun 1955",Writer
+,2507,1,551,"Tue 14 Jun 1955","Tennis player"
+,2508,1,1776,"Thu 12 May 1955","Heavyweight boxer"
+,2509,1,1777,"Thu 05 May 1955","Film director"
+,2510,1,1778,"Thu 28 Apr 1955",Conductor
+,2511,1,988,"Thu 24 Mar 1955","British actor"
+,2512,1,1779,"Thu 24 Feb 1955","Middle and long distance runner"
+,2513,1,1780,"Thu 27 Jan 1955",Novelist
+,2514,1,889,"Thu 13 Jan 1955","British actor"
+,2515,1,1781,"Thu 30 Dec 1954","Actor, Comedian"
+,2515,1,1,"Sat 10 Nov 1945","Actor, Comedian"
+,2516,1,1253,"Thu 02 Dec 1954","Theatre organist"
+,2517,1,1782,"Thu 25 Nov 1954","Arctic adventurer"
+,2518,1,843,"Fri 12 Nov 1954","Novelist, Broadcaster"
+,2519,1,1783,"Fri 29 Oct 1954",Novelist
+,2520,1731,1,"Fri 15 Oct 1954",Screenwriter
+,2521,1,1,"Fri 04 Sep 1953",Actor
+,2522,493,1,"Fri 28 Aug 1953","Cabaret star"
+,2523,1,629,"Fri 21 Aug 1953","Musician, Conductor, Violinist"
+,2524,1,1784,"Fri 14 Aug 1953","Film actor"
+,2525,1,560,"Fri 31 Jul 1953","Actor, Director"
+,2526,1033,1,"Fri 17 Jul 1953","Ladykillers actor"
+,2527,1,775,"Fri 26 Jun 1953","British actor"
+,2528,1,1,"Fri 22 May 1953","Jamaican olympic gold 400m runner"
+,2529,1,1,"Fri 15 May 1953","The Lady Vanishes actor"
+,2530,1,1,"Fri 08 May 1953","Film actor"
+,2531,1,1785,"Fri 03 Apr 1953","Oratorio singer - tenor"
+,2532,1,419,"Fri 20 Mar 1953",Comedian
+,2533,1,1,"Fri 06 Mar 1953","Film actor"
+,2534,1,1786,"Fri 20 Feb 1953","British character actor"
+,2535,537,1787,"Fri 06 Feb 1953","British stage actor"
+,2536,1,1788,"Fri 30 Jan 1953","Actor, Explorer"
+,2537,1,554,"Fri 23 Jan 1953","Actor, Skater"
+,2538,1,1789,"Fri 16 Jan 1953","British actor"
+,2539,349,1790,"Fri 02 Jan 1953","Actor, Radio presenter"
+,2540,1,1,"Fri 12 Dec 1952","Radio presenter"
+,2541,1,360,"Fri 05 Dec 1952","British actor"
+,2542,1,427,"Fri 28 Nov 1952","Actor , Writer, Director"
+,2543,1,423,"Fri 14 Nov 1952","British actor"
+,2544,1,572,"Fri 31 Oct 1952","Writer, Historian"
+,2545,990,1,"Fri 03 Oct 1952","British actor"
+,2546,1,1791,"Tue 16 Sep 1952",Comedian
+,2547,1,1792,"Tue 19 Aug 1952","Brief Encounter actor"
+,2548,1,1793,"Tue 08 Jul 1952","Tennis player"
+,2549,1,1794,"Tue 17 Jun 1952","Journalist, Writer"
+,2550,1,1795,"Tue 03 Jun 1952","What's My Line broadcaster"
+,2551,1,1,"Tue 20 May 1952","Canadian actor"
+,2552,1,1796,"Tue 08 Apr 1952","Broadcaster, War correspondent"
+,2553,1,1,"Tue 01 Apr 1952","Actor, Comedian"
+,2554,1,961,"Tue 18 Mar 1952","Music Hall comedian"
+,2555,1,610,"Tue 04 Mar 1952","The Life and Death of Colonel Blimp actor"
+,2556,1,1384,"Tue 19 Feb 1952","Whisky Galore novelist"
+,2557,1,366,"Tue 22 Jan 1952","Jazz musician, Critic"
+,2558,1,1338,"Tue 08 Jan 1952","Bandleader, Pianist"
+,2559,1,571,"Tue 01 Jan 1952","British actor"
+,2560,1,1797,"Tue 20 Nov 1951","Comedian, Ukulele player, Singer"
+,2561,1,1798,"Tue 06 Nov 1951","British comedy actor"
+,2562,1,1,"Tue 30 Oct 1951","Novelist, Playwright"
+,2563,1654,1,"Tue 09 Oct 1951","Actor, Director"
+,2564,1,1,"Tue 25 Sep 1951","Music Hall star"
+,2565,1,1,"Wed 12 Sep 1951","Light heavyweight boxer"
+,2566,1,1,"Wed 29 Aug 1951","Popular composer"
+,2567,1,1,"Wed 15 Aug 1951","British actor"
+,2568,1,1,"Wed 18 Jul 1951","Actor, Comedian"
+,2569,1,1,"Wed 27 Jun 1951",Actor
+,2570,1,1,"Wed 20 Jun 1951",Composer
+,2571,1,1,"Wed 06 Jun 1951",Comedian
+,2572,1,1,"Wed 09 May 1951","Harmonica player"
+,2573,1,1,"Wed 18 Apr 1951","Writer, Explorer"
+,2574,1,1,"Wed 11 Apr 1951",Conductor
+,2575,1,1,"Wed 28 Mar 1951","Comedy scriptwriter"
+,2576,1,1,"Wed 21 Feb 1951","British actor"
+,2577,1,1,"Wed 31 Jan 1951",Singer
+,2578,1,1,"Wed 03 Jan 1951","British actor"
+,2579,1,1,"Sat 24 Nov 1945","Soldier, Navy signalman"
+,2580,1,1,"Sat 20 Oct 1945","Philosopher, Writer"
+,2581,1,1,"Sat 22 Sep 1945","Broadcaster, Announcer"
+,2582,1,1,"Sat 08 Sep 1945","Broadcaster, Announcer"
+,2583,1,1,"Sat 25 Aug 1945","Soldier, Broadcaster, Announcer"
+,2584,1,1,"Sat 11 Aug 1945","Broadcaster, Announcer"
+,2585,1,1,"Sat 19 Feb 1944","Leader of the Dam Busters Raid, RAF Pilot"
+,2586,1732,54,"Mon 08 May 1961","Theatre director, Writer, Boy Scout leader"
+,2586,1,1,"Sat 12 Feb 1944","Theatre, Director"
+,2587,1,1,"Sat 08 Jan 1944",Critic
+,2588,1,1,"Fri 31 Dec 1943","Broadcaster, Doctor"
+,2589,1,1,"Tue 16 Nov 1943",Horticulturalist
+,2590,1,1,"Mon 11 Oct 1943","Public relations expert"
+,2591,1,1,"Mon 16 Aug 1943",Writer
+,2592,1,1,"Fri 16 Jul 1943",Writer
+,2593,1,1,"Tue 08 Jun 1943","Politician - Labour, MP"
+,2594,1,1,"Mon 12 Apr 1943",Writer
+,2595,1,1,"Sat 20 Mar 1943","Quizmaster of 'Brains Trust', Writer, Broadcaster"
+,2596,1,1,"Thu 03 Dec 1942",Explorer
+,2597,1,1,"Sat 24 Oct 1942","Filmmaker, Producer"
+,2598,1,1,"Fri 09 Oct 1942",Musician
+,2599,1,1,"Fri 25 Sep 1942","Musician, Tenor"
+,2600,1,1,"Thu 17 Sep 1942","Writer, Broadcaster"
+,2601,1,1,"Thu 06 Aug 1942",Writer
+,2602,1,1,"Thu 23 Jul 1942",Actor
+,2603,1,1,"Thu 30 Apr 1942","Musician, Composer, Actor"
+,2604,1,1,"Thu 23 Apr 1942","Artist, Sports cartoonist"
+,2605,1,1,"Thu 26 Mar 1942","Precentor of Chapels Royal"
+,2606,1,1,"Thu 12 Mar 1942","Mariner, Explorer"
+,2607,1,1,"Thu 05 Mar 1942","Musician, Impresario"
+,2608,1,1,"Thu 19 Feb 1942","Theatre, Theatrical manager"
+,2609,1,1,"Thu 12 Feb 1942","Mariner, Explorer"
+,2610,1,1,"Thu 05 Feb 1942",Critic
