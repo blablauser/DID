@@ -1177,7 +1177,7 @@
 1177,Peter Blake,http://en.wikipedia.org/wiki/Peter_Blake_(artist),male,"Art, Fashion and DesignArt"
 1178,Redmond O'Hanlon,http://en.wikipedia.org/wiki/Redmond_O%27Hanlon,male,Travel and ExplorationWritingExplorer
 1179,Nico Ladenis,NA,male,Food and DrinkChef
-1180,Mary Benson,http://en.wikipedia.org/wiki/Mary_Benson,male,WritingPolitics and Public ServiceJournalismCampaigner
+1180,Mary Benson,NA,male,WritingPolitics and Public ServiceJournalismCampaigner
 1181,Terry Pratchett,http://en.wikipedia.org/wiki/Terry_Pratchett,male,Writing
 1182,Gene Wilder,http://en.wikipedia.org/wiki/Gene_Wilder,male,"Stage, Screen and RadioActor"
 1183,John Cleese,http://en.wikipedia.org/wiki/John_Cleese,male,"Stage, Screen and RadioComedy PerformerActor"
@@ -2319,7 +2319,7 @@
 2319,Dr W Grey Walter,http://en.wikipedia.org/wiki/William_Grey_Walter,male,"Medicine, Science and EngineeringScience"
 2320,Richard Murdoch,http://en.wikipedia.org/wiki/Richard_Murdoch,male,"Stage, Screen and RadioComedy Performer"
 2321,Pietro Annigoni,http://en.wikipedia.org/wiki/Pietro_Annigoni,male,"Art, Fashion and DesignArt"
-2322,Ralph Reader,http://en.wikipedia.org/wiki/Ralph_Reader,male,"Stage, Screen and RadioWritingDirectorTheatre"
+2322,"",http://en.wikipedia.org/wiki/,male,""
 2323,Finlay Currie,http://en.wikipedia.org/wiki/Finlay_Currie,male,"Stage, Screen and RadioActor"
 2324,Adam Faith,http://en.wikipedia.org/wiki/Adam_Faith,male,MusicPop and Rock
 2325,Brian Reece,NA,male,"Stage, Screen and RadioActor"
@@ -2583,27 +2583,28 @@
 2583,Michael Harrison,http://en.wikipedia.org/wiki/Michael_Harrison,male,"Military and LawStage, Screen and RadioMilitaryBroadcasting"
 2584,Peter Fettes,NA,male,"Stage, Screen and RadioBroadcasting"
 2585,Wing Commander Guy Gibson VC DSO DFC,http://en.wikipedia.org/wiki/Guy_Gibson,male,Military and LawMilitary
-2586,Alan Dent,NA,male,WritingCritic
-2587,Lord Charles Hill,"http://en.wikipedia.org/wiki/Charles_Hill,_Baron_Hill_of_Luton",male,"Stage, Screen and RadioMedicine, Science and EngineeringBroadcastingMedicine"
-2588,C H Middleton,NA,male,Nature and ConservationGardening
-2589,Sir Stephen Tallents,http://en.wikipedia.org/wiki/Stephen_Tallents,male,"Politics and Public ServiceStage, Screen and RadioPublic ServantBroadcasting"
-2590,Ivor Brown,http://en.wikipedia.org/wiki/Ivor_Brown,male,Writing
-2591,Herbert Hodge,NA,male,Writing
-2592,Tom Driberg,"http://en.wikipedia.org/wiki/Tom_Driberg,_Baron_Bradwell",male,Politics and Public ServicePolitics
-2593,Ian Hay,http://en.wikipedia.org/wiki/John_Hay_Beith,male,Writing
-2594,Donald McCullough,http://en.wikipedia.org/wiki/Donald_McCullough,male,"WritingStage, Screen and RadioBroadcasting"
-2595,Admiral Sir Edward Evans,"http://en.wikipedia.org/wiki/Edward_Evans,_1st_Baron_Mountevans",male,Travel and ExplorationExplorer
-2596,Michael Powell,http://en.wikipedia.org/wiki/Michael_Powell_(director),male,"Stage, Screen and RadioFilmmakerProducer"
-2597,Jonah Barrington,http://en.wikipedia.org/wiki/Jonah_Barrington_(journalist),male,Music
-2598,Richard Tauber,http://en.wikipedia.org/wiki/Richard_Tauber,male,MusicOperaClassical Music
-2599,Lord Elton,"http://en.wikipedia.org/wiki/Godfrey_Elton,_1st_Baron_Elton",male,"WritingStage, Screen and RadioBroadcasting"
-2600,Nathaniel Gubbins,http://en.wikipedia.org/wiki/Nathaniel_Gubbins,male,Writing
-2601,Leslie Howard,http://en.wikipedia.org/wiki/Leslie_Howard_(actor),male,"Stage, Screen and RadioActor"
-2602,Ivor Novello,http://en.wikipedia.org/wiki/Ivor_Novello,male,"MusicStage, Screen and RadioComposer or LyricistActor"
-2603,Tom Webster,http://en.wikipedia.org/wiki/Tom_Webster_(cartoonist),male,"Art, Fashion and DesignSportArt"
-2604,Reverend Canon W H Elliott,NA,male,Religion and PhilosophyReligion
-2605,Captain A E Dingle,NA,male,Military and LawTravel and ExplorationMilitaryExplorer
-2606,Jack Hylton,http://en.wikipedia.org/wiki/Jack_Hylton,male,"MusicStage, Screen and RadioBusinessBandleaderImpresario"
-2607,C B Cochran,http://en.wikipedia.org/wiki/Charles_B._Cochran,male,"Stage, Screen and RadioTheatre"
-2608,Commander Campbell,http://en.wikipedia.org/wiki/A._B._Campbell,male,Military and LawTravel and ExplorationMilitaryExplorer
-2609,James Agate,http://en.wikipedia.org/wiki/James_Agate,male,WritingCritic
+2586,Ralph Reader,http://en.wikipedia.org/wiki/Ralph_Reader,male,"Stage, Screen and RadioWritingDirectorTheatre"
+2587,Alan Dent,NA,male,WritingCritic
+2588,Lord Charles Hill,"http://en.wikipedia.org/wiki/Charles_Hill,_Baron_Hill_of_Luton",male,"Stage, Screen and RadioMedicine, Science and EngineeringBroadcastingMedicine"
+2589,C H Middleton,NA,male,Nature and ConservationGardening
+2590,Sir Stephen Tallents,http://en.wikipedia.org/wiki/Stephen_Tallents,male,"Politics and Public ServiceStage, Screen and RadioPublic ServantBroadcasting"
+2591,Ivor Brown,http://en.wikipedia.org/wiki/Ivor_Brown,male,Writing
+2592,Herbert Hodge,NA,male,Writing
+2593,Tom Driberg,"http://en.wikipedia.org/wiki/Tom_Driberg,_Baron_Bradwell",male,Politics and Public ServicePolitics
+2594,Ian Hay,http://en.wikipedia.org/wiki/John_Hay_Beith,male,Writing
+2595,Donald McCullough,http://en.wikipedia.org/wiki/Donald_McCullough,male,"WritingStage, Screen and RadioBroadcasting"
+2596,Admiral Sir Edward Evans,"http://en.wikipedia.org/wiki/Edward_Evans,_1st_Baron_Mountevans",male,Travel and ExplorationExplorer
+2597,Michael Powell,http://en.wikipedia.org/wiki/Michael_Powell_(director),male,"Stage, Screen and RadioFilmmakerProducer"
+2598,Jonah Barrington,http://en.wikipedia.org/wiki/Jonah_Barrington_(journalist),male,Music
+2599,Richard Tauber,http://en.wikipedia.org/wiki/Richard_Tauber,male,MusicOperaClassical Music
+2600,Lord Elton,"http://en.wikipedia.org/wiki/Godfrey_Elton,_1st_Baron_Elton",male,"WritingStage, Screen and RadioBroadcasting"
+2601,Nathaniel Gubbins,http://en.wikipedia.org/wiki/Nathaniel_Gubbins,male,Writing
+2602,Leslie Howard,http://en.wikipedia.org/wiki/Leslie_Howard_(actor),male,"Stage, Screen and RadioActor"
+2603,Ivor Novello,http://en.wikipedia.org/wiki/Ivor_Novello,male,"MusicStage, Screen and RadioComposer or LyricistActor"
+2604,Tom Webster,http://en.wikipedia.org/wiki/Tom_Webster_(cartoonist),male,"Art, Fashion and DesignSportArt"
+2605,Reverend Canon W H Elliott,NA,male,Religion and PhilosophyReligion
+2606,Captain A E Dingle,NA,male,Military and LawTravel and ExplorationMilitaryExplorer
+2607,Jack Hylton,http://en.wikipedia.org/wiki/Jack_Hylton,male,"MusicStage, Screen and RadioBusinessBandleaderImpresario"
+2608,C B Cochran,http://en.wikipedia.org/wiki/Charles_B._Cochran,male,"Stage, Screen and RadioTheatre"
+2609,Commander Campbell,http://en.wikipedia.org/wiki/A._B._Campbell,male,Military and LawTravel and ExplorationMilitaryExplorer
+2610,James Agate,http://en.wikipedia.org/wiki/James_Agate,male,WritingCritic

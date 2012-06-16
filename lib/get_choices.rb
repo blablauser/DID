@@ -86,6 +86,11 @@ class GetChoices
 
 
   def parse_luxury(e, luxury_item)
+
+
+    luxury_item = Validate.check_for_hex_code(luxury_item).to_s
+    luxury_item = Validate.capitalize_each luxury_item
+
     exists_item = @luxury_table.select { |item| item.luxuryItem == luxury_item }
     if exists_item.length != 0 # the item exists
       e.luxuryItemId = exists_item.at(0).luxuryId
@@ -116,10 +121,6 @@ class GetChoices
 
     luxury_item = episode_doc.xpath("//h5[@class='luxury_item_choice']/text()").to_s.strip
 
-    luxury_item = Validate.check_for_hex_code(luxury_item).to_s
-    luxury_item = Validate.capitalize_each luxury_item
-
-    puts "#{luxury_item}"
 
     for song in songs
       parse_song(song)
@@ -131,7 +132,6 @@ class GetChoices
     }
     
     #search for luxury Item
-
     parse_luxury(e, luxury_item)
 
     @episodes_table.push(e)
