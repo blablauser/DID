@@ -14,11 +14,11 @@ end
 
 class Episode
   attr_accessor :episodeId, :castawayId, :luxuryItemId, :dateOfBroadcast, :occupationOfGuest,    :ageOfGuest
-
 end
 
 class Castaway
-  attr_accessor :castawayId, :name, :relatedLinks, :gender, :occupations
+  attr_accessor :castawayId, :name, :relatedLinks, :gender, :occupations, :linkFrom
+
 
 
   def self.validateString(string)

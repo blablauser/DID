@@ -7,9 +7,9 @@ require_relative 'tables.rb'
 require_relative 'validate.rb'
 
 class GetChoices
-  attr_accessor :base_url, :castaways_table, :wikipedia_links, :names_not_on_wiki,
-                :searched_names, :gender, :wikipediaLink, :episodes_table, :books_table,
-                :luxury_table, :records_table, :record_choices_table, :book_choices_table
+  attr_accessor :base_url, :castaways_table, :wikipedia_links,
+                :gender, :wikipedia_link, :episodes_table, :books_table,
+                :luxury_table, :records_table, :record_choices_table, :book_choices_table, :link_from
 
   def initialize
     @castaways_table = []
@@ -20,10 +20,9 @@ class GetChoices
     @record_choices_table = []
     @guests = []
     @wikipedia_links = []
-    @names_not_on_wiki = []
-    @searched_names = []
     @book_choices_table = []
     @base_url="http://www.bbc.co.uk"
+
 
     #DbProcessor.create_db
   end
@@ -63,15 +62,16 @@ class GetChoices
         person.name=name
         person.gender=@gender
         person.occupations= occupations.to_s # array of occupations
+        @link_from = "BBC"
 
-        if !wikipedia_link_description.capitalize.include? "Wikipedia"
+        if !wikipedia_link_description.downcase.include? "wikipedia"
           test_wikipedia(name)
         end
         @wikipedia_links.push(@wikipedia_link)
         person.relatedLinks=@wikipedia_link
-
+        person.linkFrom= @link_from
+        puts "link from : #{person.linkFrom}"
         @castaways_table.push(person)
-        puts "person"
 
         for episode in episodes
           parse_episode(episode, person)
@@ -270,11 +270,12 @@ class GetChoices
     response = h.request(Net::HTTP::Get.new(url.request_uri))
     if (Integer(response.code)==404)
       puts "Not found #{url}"
-      @searched_names.push(search_name)
+      @link_from = "Not found"
       @wikipedia_link="NA"
-      @names_not_on_wiki.push(search_name)
+
     else
       @wikipedia_link=url
+      @link_from = "Found with script"
       puts "Found: #{url}"
     end
   end
@@ -292,8 +293,8 @@ class GetChoices
     for x in @episodes_table #:episodeId, :castawayId, :bookId, :luxuryItemId, :dateOfBroadcast, :occupationOfGuest,
       CsvProcessor.addNewRow([x.episodeId.to_s, x.castawayId.to_s, x.luxuryItemId.to_s, x.dateOfBroadcast.to_s, x.occupationOfGuest.to_s], "Episodes")
     end
-    for x in @castaways_table #castawayId, :name, :relatedLinks, :gender, :occupations
-      CsvProcessor.addNewRow([x.castawayId.to_s, x.name.to_s, x.relatedLinks.to_s, x.gender.to_s, x.occupations.to_s], "Castaways")
+    for x in @castaways_table #castawayId, :name, :relatedLinks, ,:from, :gender, :occupations
+      CsvProcessor.addNewRow([x.castawayId.to_s, x.name.to_s, x.relatedLinks.to_s, x.linkFrom.to_s, x.gender.to_s, x.occupations.to_s], "Castaways")
     end
     for x in @books_table #bookId, :bookAuthor, :bookTitle
       CsvProcessor.addNewRow([x.bookId.to_s, x.bookAuthor.to_s, x.bookTitle.to_s], "Books")

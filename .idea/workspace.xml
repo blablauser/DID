@@ -4,6 +4,7 @@
     <list default="true" id="aa13d1e9-6dc6-4c93-8a7b-60f99a697999" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/NameCollector.rb" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/NameCollector_v1_0.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/db/BookChoices.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/db/Books.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/db/Castaways.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/db/Episodes.csv" afterPath="" />
@@ -40,7 +41,46 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/lib/luxury.rb" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/lib/record.rb" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/lib/record_choice.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/BookChoices-csv.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/BookChoices-csv_before_deletion.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/BookChoices.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/Books-csv-after_clean-up.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/Books-csv_with-flag.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/Books.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/Castaways.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/Castaways_before deletion.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/Episodes-csv (1).xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/Episodes-csv_before_deletion.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/Episodes.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/LuxuryItems.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/RecordChoices-csv.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/RecordChoices-csv_before_deletion.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/RecordChoices.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/Records-csv.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/Records-csv_after_clean-up.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/Records-csv_before_deleting_flag.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/Records-csv_with_flag.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/Records-csv_with_flag3.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/Records-csv_with_flat2.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/Records.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/choices_to_clean_books.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/06-16/choices_to_clean_records.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/Books.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/Castaways.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/Episodes.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/LuxuryItems.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/RecordChoices.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manipulate data/Records.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw data. sampling. choices/06_16 refactored choices/BookChoices.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw data. sampling. choices/06_16 refactored choices/Books.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw data. sampling. choices/06_16 refactored choices/Castaways.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw data. sampling. choices/06_16 refactored choices/Episodes.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw data. sampling. choices/06_16 refactored choices/LuxuryItems.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw data. sampling. choices/06_16 refactored choices/RecordChoices.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raw data. sampling. choices/06_16 refactored choices/Records.csv" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/get_choices.rb" afterPath="$PROJECT_DIR$/lib/get_choices.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/tables.rb" afterPath="$PROJECT_DIR$/lib/tables.rb" />
     </list>
     <ignored path="DID.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -75,16 +115,7 @@
       <file leaf-file-name="get_choices.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/get_choices.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="134" column="0" selection-start="4118" selection-end="4118" vertical-scroll-proportion="0.297235">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tables.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/tables.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="41" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0">
+            <state line="59" column="31" selection-start="1944" selection-end="1944" vertical-scroll-proportion="0.10368664">
               <folding />
             </state>
           </provider>
@@ -149,8 +180,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Favorites" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -199,6 +228,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -367,21 +398,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1024" height="576" extended-state="6" />
+    <frame x="-1" y="-4" width="1026" height="605" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32845187" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22622623" sideWeight="0.6715481" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22622623" sideWeight="0.9414226" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32845187" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -445,11 +476,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/get_song.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="276" column="19" selection-start="9021" selection-end="9021" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/collector.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="57" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0" />
@@ -457,28 +483,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/validate.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="13" selection-start="63" selection-end="63" vertical-scroll-proportion="0.10067114">
-          <folding />
-        </state>
+        <state line="3" column="13" selection-start="63" selection-end="63" vertical-scroll-proportion="0.10067114" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/csv_processor.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="6" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="6" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/tables.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="41" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="20" column="0" selection-start="485" selection-end="485" vertical-scroll-proportion="0.51152074" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/get_song.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="276" column="19" selection-start="9021" selection-end="9021" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/get_choices.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="134" column="0" selection-start="4118" selection-end="4118" vertical-scroll-proportion="0.297235">
+        <state line="59" column="31" selection-start="1944" selection-end="1944" vertical-scroll-proportion="0.10368664">
           <folding />
         </state>
       </provider>
